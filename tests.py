@@ -50,8 +50,15 @@ def test_load_text():
     print(loader.load()[:100])
 
 
+def test_voluspa():
+    text_extractor("html", "txt", os.path.join("Sæmundar-Edda", "Völuspá"), ["complete.html"], ["complete.txt"],
+                   extract_text)
+    loader = TextLoader(os.path.join("Sæmundar-Edda", "Völuspá"), "txt")
+    print(loader.get_available_names())
+    print(loader.load()[:100])
+
+
 if __name__ == "__main__":
-    test_text_extractor()
-    test_load_text()
-
-
+    # test_text_extractor()
+    # test_load_text()
+    test_voluspa()
