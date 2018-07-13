@@ -25,6 +25,6 @@ setup(
     packages=find_packages(),
     url='https://github.com/clemsciences/old_norse_texts_heimskringla',
     version='1.1.0',
-    zip_safe=True,
+    zip_safe=True, install_requires=['bs4']
     # test_suite='cltk.tests.test_cltk',
 )

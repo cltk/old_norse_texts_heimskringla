@@ -1,11 +1,14 @@
-# encoding:utf8
+"""
+This code uses texts from http://heimskringla.no
+
+"""
 import os
 import codecs
 import json
 from bs4 import BeautifulSoup
 
 
-__author__ = "Clément Besnier"
+__author__ = ["Clément Besnier", ]
 
 accepted_formats = ["html", "json", "txt"]
 
@@ -17,7 +20,6 @@ def text_extractor(orig_format, dest_format, folder, orig_filenames, dest_filena
     if not os.path.exists(os.path.join(folder, dest_format+"_files")):
         os.makedirs(os.path.join(folder, dest_format+"_files"))
     for orig_filename, dest_filename in zip(orig_filenames, dest_filenames):
-        print(orig_filename, dest_filename)
         with codecs.open(os.path.join(folder, orig_format+"_files", orig_filename), mode, encoding) as f_orig:
             with codecs.open(os.path.join(folder, dest_format+"_files", dest_filename), "w", encoding) as f_dest:
                 f_dest.write(extraction_method(f_orig.read()))
