@@ -3,7 +3,7 @@
 Texts retrieved from heimskrinla.no for easy use with cltk!
 
 ### License
-Please look at http://heimskringla.no/wiki/Heimskringla.no:Copyright for the credit to Heimskringla. So, as soon as you use the texts here, you should mention **Heimskringla** and the authors of the texts.
+Of course, texts are in public domain due to their age, but please look at http://heimskringla.no/wiki/Heimskringla.no:Copyright for the credit to **Heimskringla**. So, as soon as you use the texts here, you should mention **Heimskringla** and the authors of the texts.
 
 ### Available texts:
 * *Eddukvæði*, Poetic Edda, Elder Edda, Sæmundar Edda https://en.wikipedia.org/wiki/Poetic_Edda
