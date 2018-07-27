@@ -113,41 +113,225 @@ níu
 vi
 ðjur
 +
-mjötvið mæran
-fyr mold neðan.
- 
+mjöt
+við
+-
+mæ
+ran
++
+fyr
+-
+mold
+-
+ne
+ðan
++ 
 3.
-Ár var alda,
-þat er ekki var,
-var-a sandr né sær
-né svalar unnir;
-jörð fannsk æva
-né upphiminn,
-gap var ginnunga
+Ár
+-
+var
+-
+al
+da
++
+þat
+-
+er
+-
+ek
+ki
+-
+var
++
+va
+ra
+-
+sandr
+-
+né
+-
+sær
++
+né
+-
+sva
+lar
+-
+un
+nir
++
+jörð
+-
+fannsk
+-
+æ
+va
++
+né
+-
+upp
+hi
+minn
++
+gap
+-
+var
+-
+gin
+nung
+a
++
 en gras hvergi.
  
 4.
-Áðr Burs synir
-bjöðum of yppðu,
-þeir er Miðgarð
-mæran skópu;
-sól skein sunnan
-á salar steina,
-þá var grund gróin
-grænum lauki.
++
+Áðr
+-
+Burs
+-
+sy
+nir
++
+bjö
+ðum
+-
+of
+-
+ypp
+ðu
++
+þeir
+-
+er
+-
+Mið
+garð
++
+mæ
+ran
+-
+skó
+pu
++
+sól
+-
+skein
+-
+sun
+nan
++
+á
+-
+sa
+lar
+-
+stei
+na
++
+þá
+-
+var
+-
+grund
+-
+gró
+in
++
+græ
+num
+-
+lau
+ki
++
  
 5.
-Sól varp sunnan,
-sinni mána,
-hendi inni hægri
-um himinjöður;
-sól þat né vissi,
-hvar hon sali átti,
-máni þat né vissi,
-hvat hann megins átti,
-stjörnur þat né vissu
-hvar þær staði áttu.
- 
++
+Sól
+-
+varp
+-
+sun
+nan
++
+sin
+ni
+-
+má
+na
++
+hen
+di
+-
+in
+ni
+-
+hæ
+gri
++
+um
+-
+hi
+mi
+njö
+ður
++
+sól
+-
+þat
+-
+né
+-
+vis
+si
++
+hvar
+-
+hon
+-
+sa
+li
+át
+ti
++
+má
+ni
+-
+þa
+-
+né
+-
+vis
+si
++
+hvat
+-
+hann
+-
+me
+gins
+-
+át
+ti
++
+stjör
+nur
+-
+þat
+-
+né
+vis
+su
++
+hvar
+-
+þær
+-
+sta
+ði
+-
+át
+tu
++ 
 6.
 Þá gengu regin öll
 á rökstóla,
