@@ -333,24 +333,112 @@ sta
 tu
 + 
 6.
-Þá gengu regin öll
-á rökstóla,
-ginnheilög goð,
-ok um þat gættusk;
-nótt ok niðjum
-nöfn of gáfu,
-morgin hétu
-ok miðjan dag,
-undorn ok aftan,
-árum at telja.
++
+Þá
+-
+gen
+gu
+-
+re
+gin
+-
+öll
++
+á
+-
+rök
+stóla
++
+ginn
+heil
+ög
+-
+goð
++
+ok
+-
+um
+-
+þat
+-
+gæt
+tusk
++
+nótt
+-
+ok
+-
+nið
+jum
++
+nöfn
+-
+of
+-
+gá
+fu
++
+mor
+gin
+-
+hé
+tu
++
+ok
+-
+mið
+jan
+-
+dag
++
+un
+dorn
+-
+ok
+-
+af
+tan
++
+á
+rum
+-
+at
+-
+te
+lja
++
  
 7.
-Hittusk æsir
-á Iðavelli,
-þeir er hörg ok hof
++
+Hit
+tusk
+-
+æ
+sir
++
+á
+-
+I
+ða
+vel
+li
++
+þeir
+-
+er
+-
+hörg
+-
+ok
+-
+hof
++
 hátimbruðu;
++
 afla lögðu,
++
 auð smíðuðu,
++
 tangir skópu
 ok tól gerðu.
  
