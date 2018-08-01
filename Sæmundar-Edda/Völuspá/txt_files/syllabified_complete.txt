@@ -433,110 +433,259 @@ ok
 -
 hof
 +
-hátimbruðu;
+há
+tim
+bru
+ðu;
 +
-afla lögðu,
+a
+fla 
+-
+lög
+ðu,
 +
-auð smíðuðu,
+auð
+-
+smí
+ðu
+ðu,
 +
-tangir skópu
-ok tól gerðu.
+tan
+gir
+-
+skó
+pu
++
+ok
+-
+tól
+-
+ger
+ðu.
  
 8.
-Tefldu í túni,
-teitir váru,
-var þeim vettergis
-vant ór gulli,
-uns þrjár kvámu
-þursa meyjar
-ámáttkar mjök
-ór Jötunheimum.
++
+Tefl
+du
+-
+í
+-
+tú
+ni,
++
+tei
+tir
+-
+vá
+ru,
++
+var
+-
+þeim
+-
+vet
+ter
+gis
++
+vant
+-
+ór
+-
+gulli,
++
+uns
+-
+þrjár
+-
+kvá
+mu
++
+þur
+sa
+-
+mey
+jar
++
+á
+mátt
+kar
+-
+mjök
++
+ór
+-
+Jö
+tun
+hei
+mum.
++
  
 ---------
  
 9.
-Þá gengu regin öll
-á rökstóla,
-ginnheilög goð,
-ok um þat gættusk,
-hverir skyldi dverga
-dróttir skepja
-ór Brimis blóði
-ok ór Bláins leggjum.
++
+Þá
+-
+geng
+u
+-
+re
+gin
+-
+öll
++
+á
+-
+rök
+stó
+la,
++
+ginn
+hei
+lög
+-
+goð,
++
+ok
+-
+um
+-
+þat
+-
+gæt
+tusk,
++
+hve
+rir
+-
+skyl
+di
+-
+dver
+ga
++
+drót
+tir
+-
+ske
+pja
++
+ór
+-
+Brimis
+-
+blóði
++
+ok
+-
+ór
+-
+Blá
+ins-
+leg
+gjum.
++
  
 10.
-Þar var Móðsognir
-mæztr of orðinn
-dverga allra,
-en Durinn annarr;
-þeir mannlíkun
-mörg of gerðu
-dvergar í jörðu,
-sem Durinn sagði.
++
+Þar
+-
+var
+-
+Móðsognir
++
+mæztr of orðinn+
+dverga allra,+
+en Durinn annarr;+
+þeir mannlíkun+
+mörg of gerðu+
+dvergar í jörðu,+
+sem Durinn sagði.+
  
 11.
-Nýi, Niði,
-Norðri, Suðri,
-Austri, Vestri,
-Alþjófr, Dvalinn,
-Nár ok Náinn
-Nípingr, Dáinn
-Bívurr, Bávurr,
-Bömburr, Nóri,
-Ánn ok Ánarr,
-Óinn, Mjöðvitnir.
+Nýi, Niði,+
+Norðri, Suðri,+
+Austri, Vestri,+
+Alþjófr, Dvalinn,+
+Nár ok Náinn+
+Nípingr, Dáinn+
+Bívurr, Bávurr,+
+Bömburr, Nóri,+
+Ánn ok Ánarr,+
+Óinn, Mjöðvitnir.+
  
 12.
-Veggr ok Gandalfr,
-Vindalfr, Þorinn,
-Þrár ok Þráinn,
-Þekkr, Litr ok Vitr,
-Nýr ok Nýráðr,
-nú hefi ek dverga,
-Reginn ok Ráðsviðr,
-rétt of talða.
++
+Veggr ok Gandalfr,+
+Vindalfr, Þorinn,+
+Þrár ok Þráinn,+
+Þekkr, Litr ok Vitr,+
+Nýr ok Nýráðr,+
+nú hefi ek dverga,+
+Reginn ok Ráðsviðr,+
+rétt of talða.+
  
 13.
-Fíli, Kíli,
-Fundinn, Náli,
-Hefti, Víli,
-Hannar, Svíurr,
-Billingr, Brúni,
-Bíldr ok Buri,
-Frár, Hornbori,
-Frægr ok Lóni,
-Aurvangr, Jari,
-Eikinskjaldi.
++
+Fíli, Kíli,+
+Fundinn, Náli,+
+Hefti, Víli,+
+Hannar, Svíurr,+
+Billingr, Brúni,+
+Bíldr ok Buri,+
+Frár, Hornbori,+
+Frægr ok Lóni,+
+Aurvangr, Jari,+
+Eikinskjaldi.+
  
 14.
++
 Mál er dverga
-í Dvalins liði
-ljóna kindum
-til Lofars telja,
-þeir er sóttu
-frá salar steini
-Aurvanga sjöt
-til Jöruvalla.
++
+
+í Dvalins liði+
+ljóna kindum+
+til Lofars telja,+
+þeir er sóttu+
+frá salar steini+
+Aurvanga sjöt+
+til Jöruvalla.+
  
 15.
-Þar var Draupnir
-ok Dolgþrasir,
-Hár, Haugspori,
-Hlévangr, Glóinn,
-Dóri, Óri
-Dúfr, Andvari
-Skirfir, Virfir,
-Skáfiðr, Ái.
+Þar var Draupnir+
+ok Dolgþrasir,+
+Hár, Haugspori,+
+Hlévangr, Glóinn,+
+Dóri, Óri+
+Dúfr, Andvari+
+Skirfir, Virfir,+
+Skáfiðr, Ái.+
  
 16.
-Alfr ok Yngvi,
-Eikinskjaldi,
-Fjalarr ok Frosti,
-Finnr ok Ginnarr;
-þat mun æ uppi
-meðan öld lifir,
-langniðja tal
-Lofars hafat.
++
+Alfr 
+-
+ok
+-
+Yngvi,
++
+Ei
+kin
+skjal
+di,
++
+Fja
+larr
+-
+ok
+-
+Frosti,
++
+Finnr ok Ginnarr;+
+þat mun æ uppi+
+meðan öld lifir,+
+langniðja tal+
+Lofars hafat.+
  
 ---------
  
@@ -647,36 +796,82 @@ mál öll meginlig,
 er á meðal fóru.
  
 27.
-Veit hon Heimdallar
-hljóð of folgit
-und heiðvönum
-helgum baðmi,
-á sér hon ausask
-aurgum forsi
-af veði Valföðrs.
-Vituð ér enn - eða hvat?
++
+Veit
+-
+hon
+-
+Heimdallar
++
+hljóð
+-
+of
+-
+folgit
++
+und
+-
+heiðvönum
++
+helgum baðmi,+
+á sér hon ausask+
+aurgum forsi+
+af veði Valföðrs.+
+Vituð ér enn - eða hvat?+
  
 28.
-Ein sat hon úti,
-þá er inn aldni kom
-yggjungr ása
-ok í augu leit.
-Hvers fregnið mik?
-Hví freistið mín?
-Allt veit ek, Óðinn,
-hvar þú auga falt,
-í inum mæra
-Mímisbrunni.
-Drekkr mjöð Mímir
-morgun hverjan
-af veði Valföðrs.
-Vituð ér enn - eða hvat?
+Ein
+-
+sat
+-
+hon
+-
+úti,+
+þá
+-
+er
+-
+inn
+-
+aldni
+-
+kom+
+ygg
+jungr
+-
+ása
++
+ok
+-
+í
+-
+au
+gu
+-
+leit.
++
+Hvers
+-
+freg
+nið
+-
+mik?
++
+Hví freistið mín?+
+Allt veit ek, Óðinn,+
+hvar þú auga falt,+
+í inum mæra+
+Mímisbrunni.+
+Drekkr mjöð Mímir+
+morgun hverjan+
+af veði Valföðrs.+
+Vituð ér enn - eða hvat?+
  
 29.
-Valði henni Herföðr
-hringa ok men,
-fekk spjöll spaklig
-ok spá ganda,
+Valði henni Herföðr+
+hringa ok men,+
+fekk spjöll spaklig+
+ok spá ganda,+
 sá hon vítt ok of vítt
 of veröld hverja.
  
@@ -686,25 +881,27 @@ vítt of komnar,
 görvar at ríða
 til Goðþjóðar;
 Skuld helt skildi,
-en Skögul önnur,
-Gunnr, Hildr, Göndul
-ok Geirskögul.
-Nú eru talðar
-nönnur Herjans,
-görvar at ríða
-grund valkyrjur.
+en Skögul önnur,+
+Gunnr, Hildr, Göndul+
+ok Geirskögul.+
+Nú eru talðar+
+nönnur Herjans,+
+görvar at ríða+
+grund valkyrjur.+
  
 31.
-Ek sá Baldri,
-blóðgum tívur,
-Óðins barni,
-örlög folgin;
-stóð of vaxinn
-völlum hæri
-mjór ok mjök fagr
-mistilteinn.
++
+Ek sá Baldri,+
+blóðgum tívur,+
+Óðins barni,+
+örlög folgin;+
+stóð of vaxinn+
+völlum hæri+
+mjór ok mjök fagr+
+mistilteinn.+
  
 32.
++
 Varð af þeim meiði,
 er mær sýndisk,
 harmflaug hættlig,
@@ -715,14 +912,29 @@ sá nam Óðins sonr
 einnættr vega.
  
 33.
-Þó hann æva hendr
-né höfuð kembði,
-áðr á bál of bar
-Baldrs andskota;
-en Frigg of grét
-í Fensölum
++
+Þó hann æva hendr+
+né höfuð kembði,+
+áðr á bál of bar+
+Baldrs
+-
+andskota;
++
+en
+-
+Frigg
+-
+of
+-
+grét
++
+í
+-
+Fensölum
++
 vá Valhallar.
-Vituð ér enn - eða hvat?
++
+Vituð ér enn - eða hvat?+
  
 34.
 Þá kná Váli
