@@ -572,16 +572,19 @@ pja
 +
 ór
 -
-Brimis
+Bri
+mis
 -
-blóði
+bló
+ði
 +
 ok
 -
 ór
 -
 Blá
-ins-
+ins
+-
 leg
 gjum.
 +
@@ -592,9 +595,13 @@ gjum.
 -
 var
 -
-Móðsognir
+Móð
+sog
+nir
 +
-mæztr of orðinn+
+mæztr
+-
+of orðinn+
 dverga allra,+
 en Durinn annarr;+
 þeir mannlíkun+
