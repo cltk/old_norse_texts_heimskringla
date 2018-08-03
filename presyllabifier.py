@@ -24,14 +24,21 @@ def read_syllabified_text(filename):
 def read_annotated_text(filename):
     with codecs.open(filename, "r", encoding="utf-8") as f:
         text = f.read()
-    text = "\n".join([line for line in text.split("\n") if len(line) >= 1 and line[0] != "#"])
-    print(text)
-    indices = [(m.start(0), m.end(0)) for m in re.finditer(r"\+\n-\n\+\n", text)]
-    print(indices)
-    paragraphs = [text[indices[i][1]:indices[i + 1][0]] for i in range(len(indices) - 1)]
-    print(paragraphs)
-    paragraphs = [[[[syllable.strip() for syllable in word.strip().split("\n") if syllable.strip() != ""] for word in verse.strip().split("-")] for verse in paragraph.split("+") if
-                   verse.strip() != "" and verse != "\xa0"] for paragraph in paragraphs]
+    text = re.sub(r"\+\r\n-\r\n\+\r\n-", "*", text)
+    paragraphs = [line for line in text.split("*") if len(line) >= 1 and line[0] != "#"]
+    # print(paragraphs[:2])
+    paragraphs = [
+        [
+            [
+                [
+                    syllable.strip() for syllable in remove_punctuations(word).strip().split("\n") if syllable.strip() != ""
+                ]
+                for word in verse.strip().split("-") if len(word) != 0
+            ]
+            for verse in paragraph.split("+") if verse.strip() != "" and verse != "\xa0"
+        ]
+        for paragraph in paragraphs if len(paragraph.strip()) != 0
+    ]
     return paragraphs
 
 

@@ -26,10 +26,12 @@ ri
 -
 ok
 -
-minni
+min
+ni
 +
 -
-mögu
+mö
+gu
 -
 Heim
 dal
