@@ -49,7 +49,7 @@ class TextLoader:
                 with open(os.path.join(self.name, self.extension+"_files", "complete."+self.extension),
                           "r", encoding="utf8") as f:
                     return json.load(f)
-        except:
+        except IOError:
             print("Impossible to load the wished text")
             return None
 
@@ -57,6 +57,8 @@ class TextLoader:
 if __name__ == "__main__":
     text_extractor("html", "txt", os.path.join("Sæmundar-Edda", "Atlakviða"), ["complete.html"], ["complete.txt"],
                    extract_text)
+    text_extractor("html", "txt", os.path.join("Sæmundar-Edda"
+                                               , "Hávamál"), ["complete.html"], ["complete.txt"], extract_text)
     loader = TextLoader(os.path.join("Sæmundar-Edda", "Atlakviða"), "txt")
     print(loader.get_available_names())
     print(loader.load()[:100])

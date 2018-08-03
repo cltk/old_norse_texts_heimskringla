@@ -21,6 +21,20 @@ def read_syllabified_text(filename):
     return paragraphs
 
 
+def read_annotated_text(filename):
+    with codecs.open(filename, "r", encoding="utf-8") as f:
+        text = f.read()
+    text = "\n".join([line for line in text.split("\n") if len(line) >= 1 and line[0] != "#"])
+    print(text)
+    indices = [(m.start(0), m.end(0)) for m in re.finditer(r"\+\n-\n\+\n", text)]
+    print(indices)
+    paragraphs = [text[indices[i][1]:indices[i + 1][0]] for i in range(len(indices) - 1)]
+    print(paragraphs)
+    paragraphs = [[[[syllable.strip() for syllable in word.strip().split("\n") if syllable.strip() != ""] for word in verse.strip().split("-")] for verse in paragraph.split("+") if
+                   verse.strip() != "" and verse != "\xa0"] for paragraph in paragraphs]
+    return paragraphs
+
+
 def remove_punctuations(text):
     res = text
     # for punctuation in "-:?":
@@ -56,10 +70,10 @@ def presyllbify_text(path, filename):
 
 
 if __name__ == "__main__":
-    paragraphs = read_syllabified_text("Sæmundar-Edda/Völuspá/txt_files/syllabified_complete.txt")
-    for paragraph in paragraphs:
-        print(paragraph)
-    presyllbify_text("Sæmundar-Edda/Völuspá/txt_files/", "complete.txt")
-    paragraphs = read_syllabified_text("Sæmundar-Edda/Völuspá/txt_files/pre_syl_complete.txt")
+    # paragraphs = read_syllabified_text("Sæmundar-Edda/Völuspá/txt_files/syllabified_complete.txt")
+    # for paragraph in paragraphs:
+    #     print(paragraph)
+    # presyllbify_text("Sæmundar-Edda/Völuspá/txt_files/", "complete.txt")
+    paragraphs = read_annotated_text("Sæmundar-Edda/Völuspá/txt_files/pre_syl_complete.txt")
     print(paragraphs)
 
