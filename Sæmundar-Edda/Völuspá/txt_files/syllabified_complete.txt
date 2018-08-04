@@ -181,7 +181,11 @@ gin
 nung
 a
 +
-en gras hvergi.
+en
+-
+gras
+-
+hvergi.
  
 4.
 +
