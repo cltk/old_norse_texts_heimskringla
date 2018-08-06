@@ -1,5 +1,6 @@
 """Module to read syllable-annotated text"""
 
+import os
 import codecs
 import re
 from utils import remove_punctuations
@@ -28,7 +29,7 @@ def read_annotated_text(filename):
     """
     with codecs.open(filename, "r", encoding="utf-8") as f:
         text = f.read()
-    text = re.sub(r"\+\r\n-\r\n[0-9]+\r\n\+\r\n-", "*", text)
+    text = re.sub(r"\+"+os.linesep+"-"+os.linesep+"[0-9]+"+os.linesep+"\+"+os.linesep+"-", "*", text)
     paragraphs = [line for line in text.split("*") if len(line) >= 1 and line[0] != "#"]
     paragraphs = [
         [
@@ -47,4 +48,4 @@ def read_annotated_text(filename):
 
 if __name__ == "__main__":
     paragraphs = read_annotated_text("Sæmundar-Edda/Völuspá/txt_files/syllabified_text_complete.txt")
-    print(paragraphs)
+    print(len(paragraphs))

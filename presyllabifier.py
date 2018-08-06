@@ -36,7 +36,7 @@ def read_annotated_text(filename):
     with codecs.open(filename, "r", encoding="utf-8") as f:
         text = f.read()
     # ancient form
-    text = re.sub(r"\+\r\n-\r\n\+\r\n-", "*", text)
+    text = re.sub(r"\+"+os.linesep+"-"+os.linesep+"\+"+os.linesep+"-", "*", text)
     # ...
     # text = re.sub(r"\+\r\n-\r\n\+\r\n-", "*", text)
     # each paragraph is delimited by "*", empty lines and lines beginning with "#" are removed
