@@ -39,6 +39,13 @@ Of course, texts are in public domain due to their age, but please look at http:
     * Háttatal
     * Skáldskaparmál
  
+### POS annotations
 
+The tagset is available at http://nlp.cs.ru.is/pdf/Tagset.pdf
 
+God names are like person names.
 
+Annotated texts:
+* Völuspá
+
+Be careful! POS tagged texts were annotated by a non-specialist and were not checked by 'peer' review.
