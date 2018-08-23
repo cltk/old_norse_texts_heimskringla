@@ -60,7 +60,7 @@ def read_annotated_text(filename):
     return paragraphs
 
 
-def presyllbify_text(path, filename):
+def presyllabify_text(path, filename):
     """
     From a text like Sæmundar-Edda/Völuspá/txt_files/complete.txt provides a text easy to annotate
 
@@ -105,4 +105,4 @@ if __name__ == "__main__":
     res_paragraphs = read_syllabified_text("Sæmundar-Edda/Völuspá/txt_files/syllabified_complete.txt")
     for res_paragraph in res_paragraphs:
         print(res_paragraph)
-    presyllbify_text("Sæmundar-Edda/Völuspá/txt_files/", "complete.txt")
+    presyllabify_text("Sæmundar-Edda/Völuspá/txt_files/", "complete.txt")
