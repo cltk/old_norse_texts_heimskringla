@@ -5,7 +5,6 @@ http://heimskringla.no/wiki/Kildeindex
 from text_manager import *
 
 
-
 edda_snorri_sites = ["http://heimskringla.no/wiki/Sk%C3%A1ldskaparm%C3%A1l", "http://heimskringla.no/wiki/Prologus",
                      "http://heimskringla.no/wiki/H%C3%A1ttatal", "http://heimskringla.no/wiki/Gylfaginning",
                      "http://heimskringla.no/wiki/Edda_Snorra_Sturlusonar"]
