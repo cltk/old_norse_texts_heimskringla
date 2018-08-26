@@ -76,7 +76,7 @@ class PoeticEddaSyllabifiedReader(TaggedCorpusReader):
     """"""
     def __init__(self, poem_title):
         TaggedCorpusReader.__init__(self, os.path.join(poetic_edda, poem_title, "txt_files", "syllabified"),
-                                    "*.txt")
+                                    "syllabified.txt")
 
     @staticmethod
     def preprocess(path, filename):
