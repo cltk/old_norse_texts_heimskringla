@@ -17,7 +17,11 @@ __author__ = ["Clément Besnier <clemsciences@aol.com>", ]
 __license__ = "MIT License"
 
 poetic_edda = "Sæmundar-Edda"
-poetic_edda_titles = os.listdir(poetic_edda)
+poetic_edda_titles = ['Rígsþula', 'Helreið Brynhildar', 'Gróttasöngr', 'Sigrdrífumál', 'Hárbarðsljóð', 'Grímnismál',
+                      'Þrymskviða', 'Völuspá', 'Atlamál in grænlenzku', 'Hyndluljóð', 'Skírnismál', 'Hymiskviða',
+                      'Atlakviða', 'Vafþrúðnismál', 'Oddrúnarkviða', 'Völundarkviða', 'Alvíssmál', 'Fáfnismál',
+                      'Dráp Niflunga', 'Hávamál', 'Guðrúnarhvöt', 'Hamðismál', 'Baldrs draumar', 'Lokasenna',
+                      'Guðrúnarkviða']
 
 
 class Converter:
