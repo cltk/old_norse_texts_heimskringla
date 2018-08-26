@@ -178,6 +178,10 @@ class PoeticEddaSyllabifiedReader(TaggedCorpusReader):
             f.write(text)
 
 
+# TODO write a function which converts annotation of syllabified texts to list of syllables 
+# TODO write a function which converts annotation of POS tagged texts to classes of morpho-syntactic features
+
+
 if __name__ == "__main__":
     reader = TaggedCorpusReader(os.path.join("Sæmundar-Edda",
                                              "Völuspá",
