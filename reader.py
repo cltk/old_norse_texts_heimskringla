@@ -16,7 +16,7 @@ from text_manager import text_extractor, extract_text
 __author__ = ["Clément Besnier <clemsciences@aol.com>", ]
 __license__ = "MIT License"
 
-poetic_edda = os.path.join(os.getcwd(), "Sæmundar-Edda")
+poetic_edda = os.path.join(os.path.dirname(__file__), "Sæmundar-Edda")
 poetic_edda_titles = ['Rígsþula', 'Helreið Brynhildar', 'Gróttasöngr', 'Sigrdrífumál', 'Hárbarðsljóð', 'Grímnismál',
                       'Þrymskviða', 'Völuspá', 'Atlamál in grænlenzku', 'Hyndluljóð', 'Skírnismál', 'Hymiskviða',
                       'Atlakviða', 'Vafþrúðnismál', 'Oddrúnarkviða', 'Völundarkviða', 'Alvíssmál', 'Fáfnismál',
@@ -186,19 +186,19 @@ class PoeticEddaSyllabifiedReader(TaggedCorpusReader):
 # TODO write a function which converts annotation of POS tagged texts to classes of morpho-syntactic features
 
 
-if __name__ == "__main__":
-    reader = TaggedCorpusReader(os.path.join("Sæmundar-Edda",
-                                             "Völuspá",
-                                             "txt_files", "pos"),
-                                "pos_tagged.txt",
-                                sep="|")
-    # print(reader.raw()[:300])
-    print(reader.words()[:300])
-
-    # Sæmundar-Edda/Völuspá/txt_files/syllabified/syllabified_text_complete.txt
-    voluspa_paragraphs = PoeticEddaSyllabifiedReader.read_annotated_text("Sæmundar-Edda/Völuspá/txt_files/syllabified/"
-                                                                         "syllabified_text_complete.txt")
-    print(voluspa_paragraphs[0])
-    print(len(voluspa_paragraphs))
-    PoeticEddaSyllabifiedReader.transform("Sæmundar-Edda/Völuspá/txt_files/syllabified/syllabified_text_complete.txt",
-                                          "Sæmundar-Edda/Völuspá/txt_files/syllabified/syllabified.txt")
+# if __name__ == "__main__":
+#     reader = TaggedCorpusReader(os.path.join("Sæmundar-Edda",
+#                                              "Völuspá",
+#                                              "txt_files", "pos"),
+#                                 "pos_tagged.txt",
+#                                 sep="|")
+#     # print(reader.raw()[:300])
+#     print(reader.words()[:300])
+#
+#     # Sæmundar-Edda/Völuspá/txt_files/syllabified/syllabified_text_complete.txt
+#     voluspa_paragraphs = PoeticEddaSyllabifiedReader.read_annotated_text("Sæmundar-Edda/Völuspá/txt_files/syllabified/"
+#                                                                          "syllabified_text_complete.txt")
+#     print(voluspa_paragraphs[0])
+#     print(len(voluspa_paragraphs))
+#     PoeticEddaSyllabifiedReader.transform("Sæmundar-Edda/Völuspá/txt_files/syllabified/syllabified_text_complete.txt",
+#                                           "Sæmundar-Edda/Völuspá/txt_files/syllabified/syllabified.txt")
