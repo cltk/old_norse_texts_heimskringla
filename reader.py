@@ -16,7 +16,7 @@ from text_manager import text_extractor, extract_text
 __author__ = ["Clément Besnier <clemsciences@aol.com>", ]
 __license__ = "MIT License"
 
-poetic_edda = os.path.join(os.path.dirname(__file__), "Sæmundar-Edda")
+poetic_edda = os.path.join(os.path.dirname(os.path.abspath(__file__)), "Sæmundar-Edda")
 poetic_edda_titles = ['Rígsþula', 'Helreið Brynhildar', 'Gróttasöngr', 'Sigrdrífumál', 'Hárbarðsljóð', 'Grímnismál',
                       'Þrymskviða', 'Völuspá', 'Atlamál in grænlenzku', 'Hyndluljóð', 'Skírnismál', 'Hymiskviða',
                       'Atlakviða', 'Vafþrúðnismál', 'Oddrúnarkviða', 'Völundarkviða', 'Alvíssmál', 'Fáfnismál',
