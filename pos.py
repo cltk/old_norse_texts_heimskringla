@@ -7,17 +7,17 @@ __license__ = "MIT License"
 
 
 class POSClass(Enum):
-    noun = auto()
-    adjective = auto()
-    pronoun = auto()
-    verb = auto()
-    past_participle = auto()
-    adverb_and_preposition = auto()
-    conjunction = auto()
-    article = auto()
-    number = auto()
-    punctuation = auto()
-    unknown = auto()
+    noun = auto()  # noun
+    adjective = auto()  # adjective
+    pronoun = auto()  # pronoun
+    verb = auto()  # verb
+    past_participle = auto()  # past_participle
+    adverb_and_preposition = auto()  # adverb_and_preposition
+    conjunction = auto()  # conjunction
+    article = auto()  # article
+    number = auto()  # number
+    punctuation = auto()  # punctuation
+    unknown = auto()  # unknown
 
 
 class POSGender(Enum):
@@ -32,6 +32,7 @@ class POSNumber(Enum):
     f = auto()  # plural
 
 
+
 class POSTense(Enum):
     n = auto()  # present
     þ = auto()  # past
@@ -42,6 +43,12 @@ class POSCase(Enum):
     o = auto()  # accusative
     þ = auto()  # dative
     e = auto()  # genitive
+
+
+class POSNounKind(Enum):
+    m = auto()
+    oe = auto()
+    s = auto()
 
 
 class POSPronounKind(Enum):
@@ -78,3 +85,49 @@ class POSVerbMode(Enum):
 class POSVerbAction(Enum):
     g = auto()  # active
     m = auto()  # middle
+
+
+class POSTagReader:
+    def __init__(self, tag):
+        self.tag = tag
+
+    def get_meaning(self):
+        pass
+
+    def analyze(self):
+        context = None
+        for i, c in enumerate(self.tag):
+            if c == "n":
+                self.read_noun_tag()
+
+    def read_noun_tag(self):
+        chain = [POSGender, POSNumber, POSCase, POSNounKind]
+        pass
+
+    def read_adjective_tag(self):
+        chain = [POSGender, POSNumber, POSCase, POSAdjectiveKind]
+        pass
+
+    def read_pronoun_tag(self):
+        chain = [POSPronounKind, POSGender, lambda x: str(x), POSNumber]
+        pass
+
+    def read_verb_tag(self):
+        chain = [POSVerbMode, POSVerbMode, lambda x: str(x), POSNumber, POSTense]
+        pass
+
+    def read_past_participle_tag(self):
+        chani = [POSGender, POSNumber, POSCase]
+        pass
+
+    def read_adverb_preposition_tag(self):
+        pass
+
+    def read_article_tag(self):
+        pass
+
+    def read_number_tag(self):
+        pass
+
+    def read_conjunction(self):
+        pass
