@@ -28,7 +28,7 @@ né/aa upphiminn/nken ,/p
 gap/nhen var/sfg3eþ ginnunga/nken(?)
 en/cc gras/nhen hvergi/aa ./p
 
-4/
+4/ta
 Áðr/aa Burs/nkeem synir/nkfn
 bjöðum/x  of/aa yppðu/sfg3fþ ,/p
 þeir/fpkfn er/ct Miðgarð/nkeoö
@@ -38,7 +38,7 @@ sól/nhen skein/sfg3eþ sunnan/aa
 þá/ var/sfg3eþ grund/nven gróin/sþven
 grænum/lkeþ lauki/nkeþ ./p
 
-5/
+5/ta
 Sól/nhen varp/vfg3eþ sunnan/aa ,/p
 sinni/fbkeþ mána/nkeþ ,/p
 hendi/nveþ inni/gkeþ hægri/lveþ
@@ -62,7 +62,7 @@ ok/cc miðjan/lkeosf dag/nkeo ,/p
 undorn/nkeo ok/cc aptan/nkeo ,/p
 árum/nhfþ at/cn telja/sfg3fn ./p
 
-7/
+7/ta
 Hittusk/sfm3fþ æsir/nkfn
 á/aþ Iðavelli/nkeþm ,/p
 þeir/ er/ft hörg/nkeo ok/cc hof/nheo
@@ -72,15 +72,15 @@ auð/nkea smíðuðu/sfg3fþ ,/p
 tangir/nkfo skópu/sfg3fþ
 ok/cc tól/nkfo gerðu/sfg3fþ ./p
 
-8/
-Tefldu/ í/ túni/nheþ ,/
-teitir/lkfnsf váru/sfg3fþ ,/
-var/sfg3eþ þeim/ vettergis/
-vant/ ór/ gulli/ ,/
-uns/ þrjár/ kvámu/
-þursa/ meyjar/
-ámáttkar/ mjök/
-ór/ Jötunheimum/ ./
+8/ta
+Tefldu/sfg3fþ í/aþ túni/nheþ ,/p
+teitir/lkfnsf váru/sfg3fþ ,/p
+var/sfg3eþ þeim/ vettergis/nhee
+vant/lhensf ór/aþ gulli/nheþ ,/p
+uns/cc þrjár/tavfn kvámu/sfg3fþ
+þursa/nvfn meyjar/nvfn
+ámáttkar/lhfnsf mjök/aa
+ór/aþ Jötunheimum/nkfþ ./p
 
 9/
 Þá/ gengu/sfg3fþ regin/nhfn öll/lhfnsf
@@ -89,8 +89,8 @@ ginnheilög/lhfnsf goð/nhfn ,/p
 ok/cc um/ao þat/fpheo gættusk/sfn3eþ ,/p
 hverir/ skyldi/ dverga/
 dróttir/ skepja/
-ór/ Brimis/ blóði/
-ok/cc ór/ Bláins/ leggjum/ ./p
+ór/aþ Brimis/ blóði/
+ok/cc ór/aþ Bláins/ leggjum/ ./p
 
 10/
 Þar/ var/sfg3eþ Móðsognir/
