@@ -32,7 +32,6 @@ class POSNumber(Enum):
     f = auto()  # plural
 
 
-
 class POSTense(Enum):
     n = auto()  # present
     þ = auto()  # past
