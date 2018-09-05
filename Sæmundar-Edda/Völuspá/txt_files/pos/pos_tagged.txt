@@ -116,13 +116,13 @@ Bömburr/nkenm ,/p Nóri/nkenm ,/p
 
 12/
 Veggr/nkenm ok/cc Gandalfr/nkenm ,/p
-Vindalfr/nkenm ,/p Þorinn/ ,/p
+Vindalfr/nkenm ,/p Þorinn/nkenm ,/p
 Þrár/nkenm ok/cc Þráinn/nkenm ,/p
-Þekkr/nkenm ,/p Litr/nkenm ok/ Vitr/ ,/p
+Þekkr/nkenm ,/p Litr/nkenm ok/ Vitr/nkenm ,/p
 Nýr/nkenm ok/cc Nýráðr/nkenm ,/p
-nú/ hefi/ ek/ dverga/ ,/p
-Reginn/ ok/ Ráðsviðr/ ,/p
-rétt/ of/ talða/ ./p
+nú/aa hefi/svg1en ek/fp1en dverga/nkfo ,/p
+Reginn/nkenm ok/cc Ráðsviðr/nkenm ,/p
+rétt/lhen of/aa talða/sþgkfo ./p
 
 13/
 Fíli/nkenm ,/p Kíli/nkenm ,/p
@@ -134,17 +134,17 @@ Bíldr/nkenm ok/cc Buri/nkenm ,/p
 Frár/nkenm ,/p Hornbori/nkenm ,/p
 Frægr/nkenm ok/cc Lóni/nkenm ,/p
 Aurvangr/nkenm ,/p Jari/nkenm ,/p
-Eikinskjaldi/ ./p
+Eikinskjaldi/nkenm ./p
 
 14/
-Mál/ er/ dverga/
-í/ Dvalins/ liði/
-ljóna/ kindum/
-til/ Lofars/ telja/ ,/
-þeir/ er/ sóttu/
-frá/ salar/ steini/
-Aurvanga/ sjöt/
-til/ Jöruvalla/ ./
+Mál/nhen er/ct dverga/nkfo
+í/aþ Dvalins/nkeem liði/nheþ
+ljóna/nkfe kindum/nvfþ
+til/ae Lofars/nkeem telja/sng ,/p
+þeir/fpkfn er/ct sóttu/sfg3fþ
+frá/aþ salar/nkee steini/nkeþ
+Aurvanga/nxeo sjöt/nhfo
+til/ao Jöruvalla/nxeo ./p
 
 15/
 Þar/ var/ Draupnir/nkenm
