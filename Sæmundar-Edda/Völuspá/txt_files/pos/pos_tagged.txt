@@ -147,10 +147,10 @@ Aurvanga/nxeo sjöt/nhfo
 til/ao Jöruvalla/nxeo ./p
 
 15/
-Þar/ var/ Draupnir/nkenm
+Þar/aa var/sfg3eþ Draupnir/nkenm
 ok/cc Dolgþrasir/nkenm ,/p
-Hár/nkenm ,/p Haugspori/ ,/p
-Hlévangr/nkenm ,/p Glóinn/ ,/p
+Hár/nkenm ,/p Haugspori/nkenm ,/p
+Hlévangr/nkenm ,/p Glóinn/nkenm ,/p
 Dóri/nkenm ,/p Óri/nkenm
 Dúfr/nkenm ,/p Andvari/nkenm
 Skirfir/nkenm ,/p Virfir/nkenm ,/p
@@ -158,23 +158,23 @@ Skáfiðr/nkenm ,/p Ái/nkenm ./p
 
 16/
 Alfr/nkenm ok/ Yngvi/nkenm ,/p
-Eikinskjaldi/ ,/p
+Eikinskjaldi/nkenm ,/p
 Fjalarr/nkenm ok/cc Frosti/nkenm ,/p
 Finnr/nkenm ok/cc Ginnarr/nkenm ;/p
-þat/ mun/ æ/ uppi/
-meðan/ öld/ lifir/ ,/p
-langniðja/ tal/
-Lofars/ hafat/ ./p
+þat/fphen mun/sfg3en æ/aa uppi/aa
+meðan/aa öld/nven lifir/sfg3eþ ,/p
+langniðja/nkfe tal/nhen
+Lofars/nkeem hafat/x ./p
 
 17/
-Unz/ þrír/ kvámu/
-ór/ því/ liði/
-öflgir/ ok/ ástkir/
-æsir/ at/ húsi/ ,/p
-fundu/ á/ landi/
+Unz/cc þrír/takfn kvámu/sfg3fþ
+ór/aþ því/fpheþ liði/nheþ
+öflgir/ ok/cc ástkir/
+æsir/ at/ húsi/nheþ ,/p
+fundu/sfg3fþ á/aþ landi/nheþ
 lítt/ megandi/
-Ask/ ok/ Emblu/
-örlöglausa/ ./
+Ask/ ok/cc Emblu/
+örlöglausa/ ./p
 
 18/
 Önd/ þau/ né/ áttu/ ,/p
