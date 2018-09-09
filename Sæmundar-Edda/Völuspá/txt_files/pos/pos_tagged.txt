@@ -169,98 +169,98 @@ Lofars/nkeem hafat/x ./p
 17/
 Unz/cc þrír/takfn kvámu/sfg3fþ
 ór/aþ því/fpheþ liði/nheþ
-öflgir/ ok/cc ástkir/
-æsir/ at/ húsi/nheþ ,/p
+öflgir/lkfnsf ok/cc ástkir/lkfnsf
+æsir/nkfn at/aþ húsi/nheþ ,/p
 fundu/sfg3fþ á/aþ landi/nheþ
-lítt/ megandi/
-Ask/ ok/cc Emblu/
-örlöglausa/ ./p
+lítt/aa megandi/seg
+Ask/nkeom ok/cc Emblu/nkeom
+örlöglausa/lhfosf ./p
 
 18/
-Önd/ þau/ né/ áttu/ ,/p
-óð/ þau/ né/ höfðu/ ,/p
-lá/ né/ læti/
-né/ litu/ góða/ ;/p
-önd/ gaf/ Óðinn/ ,/p
-óð/ gaf/ Hænir/ ,/p
-lá/ gaf/ Lóðurr/
+Önd/nven þau/fphfn né/cc áttu/sfg3fþ ,/p
+óð/nkeo þau/fphfn né/cc höfðu/sfg3fþ ,/p
+lá/nveo né/cc læti/nhfo
+né/cc litu/ góða/ ;/p
+önd/nveo gaf/sfg3eþ Óðinn/nkenm ,/p
+óð/nkeo gaf/sfg3eþ Hænir/nkenm ,/p
+lá/nveo gaf/sfg3eþ Lóðurr/nkenm
 ok/cc litu/ góða/ ./p
 
 19/
-Ask/ veit/ ek/ standa/ ,/
-heitir/ Yggdrasill/ ,/
-hár/ baðmr/ ,/ ausinn/
-hvíta/ auri/ ;/
-þaðan/ koma/ döggvar/ ,/
-þærs/ í/ dala/ falla/ ,/
+Ask/ veit/sfg3eþ ek/ standa/ ,/p
+heitir/ Yggdrasill/ ,/p
+hár/ baðmr/ ,/p ausinn/
+hvíta/ auri/ ;/p
+þaðan/ koma/ döggvar/ ,/p
+þærs/ í/a dala/ falla/ ,/p
 stendr/ æ/ yfir/ grænn/
-Urðarbrunni/ ./
+Urðarbrunni/ ./p
 
 20/
 Þaðan/ koma/ meyjar/
 margs/ vitandi/
-þrjár/ ór/ þeim/ sæ/ ,/
-er/ und/ þolli/ stendr/ ;/
-Urð/ hétu/ eina/ ,/
-aðra/ Verðandi/ ,/
--/ skáru/ á/ skíði/ ,/ -/
-Skuld/ ina/ þriðju/ ;/
-þær/ lög/ lögðu/ ,/
+þrjár/ ór/ þeim/ sæ/ ,/p
+er/ und/ þolli/ stendr/ ;/p
+Urð/ hétu/ eina/ ,/p
+aðra/ Verðandi/ ,/p
+-/p skáru/ á/ skíði/ ,/ -/p
+Skuld/ ina/ þriðju/ ;/p
+þær/ lög/ lögðu/ ,/p
 þær/ líf/ kuru/
-alda/ börnum/ ,/
-örlög/ seggja/ ./
+alda/ börnum/ ,/p
+örlög/ seggja/ ./p
 
 21/
 Þat/ man/ hon/ folkvíg/
-fyrst/ í/ heimi/ ,/
+fyrst/ í/ heimi/ ,/p
 er/ Gullveigu/
 geirum/ studdu/
 ok/ í/ höll/ Hárs/
-hana/ brenndu/ ,/
-þrisvar/ brenndu/ ,/
-þrisvar/ borna/ ,/
-oft/ ,/ ósjaldan/ ,/
-þó/ hon/ enn/ lifir/ ./
+hana/ brenndu/ ,/p
+þrisvar/ brenndu/ ,/p
+þrisvar/ borna/ ,/p
+oft/ ,/p ósjaldan/ ,/p
+þó/ hon/ enn/ lifir/ ./p
 
 22/
 Heiði/ hana/ hétu/
-hvars/ til/ húsa/ kom/ ,/
-völu/ velspáa/ ,/
-vitti/ hon/ ganda/ ;/
-seið/ hon/ ,/ hvars/ hon/ kunni/ ,/
-seið/ hon/ hug/ leikinn/ ,/
+hvars/ til/ húsa/ kom/ ,/p
+völu/ velspáa/ ,/p
+vitti/ hon/ ganda/ ;/p
+seið/ hon/ ,/p hvars/ hon/ kunni/ ,/p
+seið/ hon/ hug/ leikinn/ ,/p
 æ/ var/ hon/ angan/
-illrar/ brúðar/ ./
+illrar/ brúðar/ ./p
 
 23/
 Þá/ gengu/ regin/ öll/
-á/ rökstóla/ ,/
-ginnheilög/ goð/ ,/
-ok/ um/ þat/ gættusk/ ,/
+á/ rökstóla/ ,/p
+ginnheilög/ goð/ ,/p
+ok/ um/ þat/ gættusk/ ,/p
 hvárt/ skyldu/ æsir/
 afráð/ gjalda/
 eða/ skyldu/ goðin/ öll/
-gildi/ eiga/ ./
+gildi/ eiga/ ./p
 
 24/
 Fleygði/ Óðinn/
-ok/ í/ folk/ of/ skaut/ ,/
+ok/ í/ folk/ of/ skaut/ ,/p
 þat/ var/ enn/ folkvíg/
-fyrst/ í/ heimi/ ;/
+fyrst/ í/ heimi/ ;/p
 brotinn/ var/ borðveggr/
-borgar/ ása/ ,/
+borgar/ ása/ ,/p
 knáttu/ vanir/ vígspá/
-völlu/ sporna/ ./
+völlu/ sporna/ ./p
 
 25/
 Þá/ gengu/ regin/ öll/
-á/ rökstóla/ ,/
-ginnheilög/ goð/ ,/
-ok/ um/ þat/ gættusk/ ,/
+á/ rökstóla/ ,/p
+ginnheilög/ goð/ ,/p
+ok/ um/ þat/ gættusk/ ,/p
 hverjir/ hefði/ loft/ allt/
 lævi/ blandit/
 eða/ ætt/ jötuns/
-Óðs/ mey/ gefna/ ./
+Óðs/ mey/ gefna/ ./p
 
 26/
 Þórr/ einn/ þar/ vá/
