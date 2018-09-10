@@ -10,7 +10,7 @@ forn/lhfosf spjöll/nhfo fira/nkfe ,/p
 
 2/ta
 Ek/fp1en man/sfg1en jötna/nkfe
-ár/aa of/? borna/sþ ,/
+ár/aa of/aa borna/sþ ,/p
 þá/? er/ct forðum/aa mik/fp1eo
 fædda/sþgve? höfðu/sfg3fþ ;/p
 níu/tfxfx man/sfgsen ek/fp1en heima/nkfe ,/p
@@ -180,21 +180,21 @@ Ask/nkeom ok/cc Emblu/nkeom
 Önd/nven þau/fphfn né/cc áttu/sfg3fþ ,/p
 óð/nkeo þau/fphfn né/cc höfðu/sfg3fþ ,/p
 lá/nveo né/cc læti/nhfo
-né/cc litu/ góða/ ;/p
+né/cc litu/nkfo góða/lkfosf ;/p
 önd/nveo gaf/sfg3eþ Óðinn/nkenm ,/p
 óð/nkeo gaf/sfg3eþ Hænir/nkenm ,/p
 lá/nveo gaf/sfg3eþ Lóðurr/nkenm
-ok/cc litu/ góða/ ./p
+ok/cc litu/nkfo góða/lkfosf ./p
 
 19/
-Ask/ veit/sfg3eþ ek/ standa/ ,/p
-heitir/ Yggdrasill/ ,/p
-hár/ baðmr/ ,/p ausinn/
-hvíta/ auri/ ;/p
-þaðan/ koma/ döggvar/ ,/p
-þærs/ í/a dala/ falla/ ,/p
-stendr/ æ/ yfir/ grænn/
-Urðarbrunni/ ./p
+Ask/nkeo veit/sfg3eþ ek/fp1e standa/sng ,/p
+heitir/sfg3en Yggdrasill/nkenm ,/p
+hár/lkensf baðmr/nken ,/p ausinn/sþken
+hvíta/lkeþvf auri/nkeþ ;/p
+þaðan/aa koma/sfg3fn döggvar/nkfo ,/p
+þærs/fpvfn í/ao dala/nkfo falla/sfg3fn ,/p
+stendr/sfg3en æ/aa yfir/aþ grænn/lkensf
+Urðarbrunni/nkeþm ./p
 
 20/
 Þaðan/ koma/ meyjar/
