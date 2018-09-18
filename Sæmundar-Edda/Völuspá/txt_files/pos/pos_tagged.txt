@@ -197,18 +197,18 @@ stendr/sfg3en æ/aa yfir/aþ grænn/lkensf
 Urðarbrunni/nkeþm ./p
 
 20/
-Þaðan/ koma/ meyjar/
-margs/ vitandi/
-þrjár/ ór/ þeim/ sæ/ ,/p
-er/ und/ þolli/ stendr/ ;/p
-Urð/ hétu/ eina/ ,/p
-aðra/ Verðandi/ ,/p
--/p skáru/ á/ skíði/ ,/ -/p
-Skuld/ ina/ þriðju/ ;/p
-þær/ lög/ lögðu/ ,/p
-þær/ líf/ kuru/
-alda/ börnum/ ,/p
-örlög/ seggja/ ./p
+Þaðan/aa koma/sfg3fn meyjar/nvfn
+margs/lkkeesf vitandi/sfg
+þrjár/tavfn ór/aþ þeim/fpvfþ sæ/nkeþ ,/p
+er/ct und/aþ þolli/nkeþ stendr/sfg3en ;/p
+Urð/nveom hétu/fg3eþ eina/taven ,/p
+aðra/fovo Verðandi/nveom ,/p
+-/p skáru/sfg3fþ á/aþ skíði/nheþ ,/p -/p
+Skuld/nveom ina/ þriðju/ ;/p
+þær/fpvfn lög/nhfo lögðu/sfg3fþ ,/p
+þær/fpvfn líf/ kuru/
+alda/nkfe börnum/nhfþ ,/p
+örlög/nhfo seggja/ ./p
 
 21/
 Þat/ man/ hon/ folkvíg/
