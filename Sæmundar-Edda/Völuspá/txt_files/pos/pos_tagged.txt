@@ -208,19 +208,19 @@ Skuld/nveom ina/ þriðju/ ;/p
 þær/fpvfn lög/nhfo lögðu/sfg3fþ ,/p
 þær/fpvfn líf/ kuru/
 alda/nkfe börnum/nhfþ ,/p
-örlög/nhfo seggja/ ./p
+örlög/nhfo seggja/sng ./p
 
 21/
-Þat/ man/ hon/ folkvíg/
-fyrst/ í/ heimi/ ,/p
-er/ Gullveigu/
-geirum/ studdu/
-ok/ í/ höll/ Hárs/
-hana/ brenndu/ ,/p
-þrisvar/ brenndu/ ,/p
-þrisvar/ borna/ ,/p
-oft/ ,/p ósjaldan/ ,/p
-þó/ hon/ enn/ lifir/ ./p
+Þat/aa man/sfg3en hon/fpven folkvíg/nheo
+fyrst/t í/aþ heimi/nkeþ ,/p
+er/cc Gullveigu/
+geirum/nkeþ studdu/sfg3fþ
+ok/cc í/aþ höll/nveþ Hárs/nkeem
+hana/fpveo brenndu/sfg3fþ ,/p
+þrisvar/aa brenndu/sfg3fþ ,/p
+þrisvar/aa borna/sþfven ,/p
+oft/aa ,/p ósjaldan/aa ,/p
+þó/aa hon/fpven enn/ lifir/sfg3en ./p
 
 22/
 Heiði/ hana/ hétu/
