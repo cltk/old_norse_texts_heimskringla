@@ -83,7 +83,7 @@ uns/cc þrjár/tavfn kvámu/sfg3fþ
 ór/aþ Jötunheimum/nkfþ ./p
 
 9/
-Þá/ gengu/sfg3fþ regin/nhfn öll/lhfnsf
+Þá/aa gengu/sfg3fþ regin/nhfn öll/lhfnsf
 á/ao rökstóla/nkfo ,/p
 ginnheilög/lhfnsf goð/nhfn ,/p
 ok/cc um/ao þat/fpheo gættusk/sfn3eþ ,/p
@@ -233,14 +233,14 @@ seið/nkeo hon/fpven hug/ leikinn/ ,/p
 illrar/lvf brúðar/ ./p
 
 23/
-Þá/ gengu/ regin/ öll/
-á/ rökstóla/ ,/p
-ginnheilög/ goð/ ,/p
-ok/ um/ þat/ gættusk/ ,/p
-hvárt/ skyldu/ æsir/
-afráð/ gjalda/
-eða/ skyldu/ goðin/ öll/
-gildi/ eiga/ ./p
+Þá/aa gengu/sfg3fþ regin/nhfn öll/lhfnsf
+á/ao rökstóla/nkfo ,/p
+ginnheilög/lhfnsf goð/nhfn ,/p
+ok/cc um/ao þat/fpheo gættusk/sfn3eþ ,/p
+hvárt/fshen skyldu/sfg3fþ æsir/nkfn
+afráð/nheo gjalda/sng
+eða/cc skyldu/sfg3fþ goðin/nhfng öll/lhfnsf
+gildi/nheo eiga/sng ./p
 
 24/
 Fleygði/ Óðinn/
@@ -253,10 +253,10 @@ knáttu/ vanir/ vígspá/
 völlu/ sporna/ ./p
 
 25/
-Þá/ gengu/ regin/ öll/
-á/ rökstóla/ ,/p
-ginnheilög/ goð/ ,/p
-ok/ um/ þat/ gættusk/ ,/p
+Þá/aa gengu/sfg3fþ regin/nhfn öll/lhfnsf
+á/ao rökstóla/nkfo ,/p
+ginnheilög/lhfnsf goð/nhfn ,/p
+ok/cc um/ao þat/fpheo gættusk/sfn3eþ ,/p
 hverjir/ hefði/ loft/ allt/
 lævi/ blandit/
 eða/ ætt/ jötuns/
