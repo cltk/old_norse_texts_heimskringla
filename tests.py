@@ -2,6 +2,7 @@
 Source:
 http://heimskringla.no/wiki/Kildeindex
 """
+from reader import PoeticEddaPOSTaggedReader
 from text_manager import *
 
 
@@ -61,7 +62,13 @@ def test_voluspa():
     print(loader.load()[:100])
 
 
+def test_voluspa_dictionary():
+    pos_annotated_text = PoeticEddaPOSTaggedReader("Völuspá")
+    print(pos_annotated_text.tagged_words()[:50])
+
+
 if __name__ == "__main__":
     # test_text_extractor()
     # test_load_text()
-    test_voluspa()
+    # test_voluspa()
+    test_voluspa_dictionary()

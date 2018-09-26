@@ -6,9 +6,22 @@
 import codecs
 import os
 import re
+import sys
 
 from nltk.corpus.reader.tagged import TaggedCorpusReader
 from cltk.tokenize.word import tokenize_old_norse_words
+from cltk.corpus.utils.importer import CorpusImporter
+
+onc = CorpusImporter("old_norse")
+onc.import_corpus("old_norse_dictionary_zoega")
+module_path = os.path.join(os.environ["HOME"], "cltk_data", "old_nors", "dictionary", "old_norse_dictionary_zoega")
+sys.path.append(module_path)
+from old_norse_dictionary_zoega import reader as dictionary_reader
+dictionary = dictionary_reader.Dictionary(dictionary_reader.dictionary_name)
+
+word = dictionary.find("heimr")
+print(word.description)
+
 
 from utils import remove_punctuations
 from text_manager import text_extractor, extract_text
@@ -42,7 +55,7 @@ class PoeticEddaPOSTaggedReader(TaggedCorpusReader):
     def __init__(self, poem_title):
         assert poem_title in poetic_edda_titles
         TaggedCorpusReader.__init__(self, os.path.join(poetic_edda, poem_title, "txt_files", "pos"),
-                                    "*.txt")
+                                    "pos_tagged.txt")
 
     @staticmethod
     def preprocess(path, filename):
@@ -68,8 +81,9 @@ class PoeticEddaPOSTaggedReader(TaggedCorpusReader):
         with open(os.path.join(path, "test_pos_tagged_" + filename), "w", encoding="utf-8") as f:
             f.write("\n".join(l_res))
 
-    def read_annotations(self):
-        TaggedCorpusReader.read_annotations(self)
+    def tagged_words(self, **kwargs):
+        return TaggedCorpusReader.tagged_words(self, kwargs)
+
 
 
 class PoeticEddaSyllabifiedReader(TaggedCorpusReader):
