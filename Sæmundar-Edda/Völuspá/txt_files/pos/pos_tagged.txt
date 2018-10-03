@@ -206,7 +206,7 @@ aðra/fovo Verðandi/nveom ,/p
 -/p skáru/sfg3fþ á/aþ skíði/nheþ ,/p -/p
 Skuld/nveom ina/ þriðju/ ;/p
 þær/fpvfn lög/nhfo lögðu/sfg3fþ ,/p
-þær/fpvfn líf/ kuru/
+þær/fpvfn líf/ kuru/sfg3fþ
 alda/nkfe börnum/nhfþ ,/p
 örlög/nhfo seggja/sng ./p
 
@@ -228,9 +228,9 @@ hvars/aa til/ae húsa/nhfe kom/sfg3eþ ,/p
 völu/nvee velspáa/nveo ,/p
 vitti/svg3en hon/fpven ganda/nkfo ;/p
 seið/nkeo hon/fpven ,/p hvars/ hon/fpven kunni/svg3en ,/p
-seið/nkeo hon/fpven hug/ leikinn/ ,/p
-æ/aa var/sfg3eþ hon/gpven angan/
-illrar/lvf brúðar/ ./p
+seið/nkeo hon/fpven hug/nkeo leikinn/sþkeo ,/p
+æ/aa var/sfg3eþ hon/fpven angan/nven
+illrar/lvfesf brúðar/nvee ./p
 
 23/
 Þá/aa gengu/sfg3fþ regin/nhfn öll/lhfnsf
