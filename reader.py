@@ -6,7 +6,8 @@
 import codecs
 import os
 import re
-from collections import Counter
+from collections import Counter, Set
+from typing import List
 
 from nltk.corpus.reader.tagged import TaggedCorpusReader
 from cltk.tokenize.word import tokenize_old_norse_words
@@ -73,13 +74,24 @@ class PoeticEddaLemmatizationReader(TaggedCorpusReader):
         with open(os.path.join(path, "lemmatization", "test_lemmatized_"+filename), "w", encoding="utf-8") as f:
             f.write("\n".join(l_res))
 
-    def get_lemmas_set(self):
+    def get_lemmas_set(self) -> Set[str]:
         lemmas = set()
+        for word, tag in self.tagged_words():
+            lemmas.add(tag)
         return lemmas
 
-    def get_sorted_lemmas(self):
-        lemmas = []
+    def get_sorted_lemmas(self) -> List[str]:
+        lemmas_set = self.get_lemmas_set()
+        lemmas = list(lemmas_set)
+        lemmas = sorted(lemmas)
         return lemmas
+
+    def get_present_forms(self, lemma) -> List[str]:
+        present_forms = []
+        for word, tag in self.tagged_words():
+            if tag == lemma:
+                present_forms.append(word)
+        return present_forms
 
 
 class PoeticEddaPOSTaggedReader(TaggedCorpusReader):
@@ -118,6 +130,8 @@ class PoeticEddaPOSTaggedReader(TaggedCorpusReader):
 
     def get_pos_tagset(self):
         pos_tags = set()
+        for word, tag in self.tagged_words():
+            pos_tags.add(tag)
         return pos_tags
 
 
@@ -232,9 +246,11 @@ class PoeticEddaSyllabifiedReader(TaggedCorpusReader):
         with codecs.open(dst_filename, "w", encoding="utf-8") as f:
             f.write(text)
 
-    def get_syllable_set(self) -> set:
+    def get_syllable_set(self) -> Set[str]:
         syllables = set()
-
+        for word, tag in self.tagged_words():
+            for syllable in tag.split("+"):
+                syllables.add(syllable)
         return syllables
 
     def get_syllable_counter(self) -> Counter:
