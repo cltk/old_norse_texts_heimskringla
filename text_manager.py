@@ -8,7 +8,6 @@ import codecs
 import json
 from bs4 import BeautifulSoup
 
-
 __author__ = ["Clément Besnier", ]
 
 accepted_formats = ["html", "json", "txt"]
