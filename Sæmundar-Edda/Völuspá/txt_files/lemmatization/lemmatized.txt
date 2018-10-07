@@ -1,9 +1,9 @@
 1/
 Hljóðs/hljóð bið/biðja ek/ef allar/allr
 helgar/helgr kindir/kind ,/,
-meiri/ ok/ok minni/
+meiri/mjök ok/ok minni/lítill
 mögu/mögr Heimdallar/Heimdallr ;/;
-viltu/ at/at ek/ek ,/ Valföðr/ ,/,
+viltu/vilja at/at ek/ek ,/ Valföðr/Valföðr ,/,
 vel/vel fyr/fyr telja/telja
 forn/forn spjöll/spjall fira/firar ,/,
 þau/þau er/er fremst/framr of/of man/muna ./
@@ -29,78 +29,78 @@ gap/gap var/vera ginnunga/ginnungr
 en/en gras/gras hvergi/ ./,
 
 4/
-Áðr/ Burs/Burr synir/
-bjöðum/ of/of yppðu/ ,/;
-þeir/þeir er/ Miðgarð/
-mæran/ skópu/ ;/;
-sól/sól skein/ sunnan/
-á/á salar/ steina/ ,/,
-þá/þá var/ grund/ gróin/
-grænum/ lauki/ ./.
+Áðr/áðr Burs/Burr synir/sonr
+bjöðum/ of/of yppðu/yppa ,/,
+þeir/þeir er/er Miðgarð/Miðgarðr
+mæran/mæran skópu/skapa ;/;
+sól/sól skein/skína sunnan/sunnan
+á/á salar/salr steina/steinn ,/,
+þá/þá var/vera grund/grund gróin/gróa
+grænum/grænn lauki/lauk ./.
 
 5/
-Sól/sól varp/verpa sunnan/ ,/,
-sinni/ mána/ ,/,
-hendi/ inni/ hægri/
-um/ himinjöður/ ;/;
-sól/ þat/ né/ vissi/ ,/,
-hvar/ hon/ sali/ átti/ ,/,
-máni/ þat/ né/ vissi/ ,/,
-hvat/ hann/ megins/ átti/ ,/,
-stjörnur/ þat/ né/ vissu/
-hvar/ þær/ staði/ áttu/ ./.
+Sól/sól varp/verpa sunnan/sunnan ,/,
+sinni/sinn mána/máni ,/,
+hendi/hönd inni/inn hægri/hægr
+um/um himinjöður/himinjöðurr ;/;
+sól/sól þat/þat né/né vissi/vita ,/,
+hvar/hvar hon/hon sali/salr átti/eiga ,/,
+máni/máni þat/þat né/né vissi/vita ,/,
+hvat/hvat hann/hann megins/megin átti/eiga ,/,
+stjörnur/stjarna þat/þat né/né vissu/vita
+hvar/hvar þær/þær staði/staðr áttu/eiga ./.
 
 6/
-Þá/ gengu/ regin/ öll/
-á/á rökstóla/ ,/,
-ginnheilög/ goð/ ,/,
-ok/ok um/ þat/ gættusk/ ;/;
-nótt/ ok/ok niðjum/
-nöfn/ of/of gáfu/gefa ,/,
-morgin/ hétu/heita
-ok/ok miðjan/ dag/dagr ,/,
-undorn/ ok/ok aftan/ ,/,
-árum/ at/at telja/telja ./.
+Þá/þá gengu/ganga regin/regin öll/allr
+á/á rökstóla/røkstólar ,/,
+ginnheilög/ginheilagr goð/goð ,/,
+ok/ok um/um þat/þat gættusk/gæta ;/;
+nótt/nótt ok/ok niðjum/niðr
+nöfn/nafn of/of gáfu/gefa ,/,
+morgin/morginn hétu/heita
+ok/ok miðjan/miðr dag/dagr ,/,
+undorn/undorn ok/ok aftan/aptann ,/,
+árum/ár at/at telja/telja ./.
 
 7/
-Hittusk/ æsir/
-á/á Iðavelli/ ,/
-þeir/þeir er/ hörg/ ok/ok hof/
-hátimbruðu/ ;/;
-afla/ lögðu/ ,/,
-auð/ smíðuðu/ ,/;
-tangir/ skópu/
-ok/ok tól/ gerðu/ ./.
+Hittusk/hitta æsir/áss
+á/á Iðavelli/iða ,/,
+þeir/þeir er/er hörg/hörgr ok/ok hof/hof
+há/há timbruðu/timbra ;/;
+afla/afl lögðu/laga ,/,
+auð/auðr smíðuðu/smíða ,/,
+tangir/tangi skópu/skapa
+ok/ok tól/tól gerðu/gøra ./.
 
 8/
-Tefldu/ í/í túni/ ,/
-teitir/ váru/ ,/
-var/ þeim/ vettergis/
-vant/ ór/ór gulli/ ,/
-uns/ þrjár/ kvámu/
-þursa/ meyjar/
-ámáttkar/ mjök/
-ór/ór Jötunheimum/ ./
+Tefldu/tefla í/í túni/tún ,/,
+teitir/teiti váru/vera ,/,vættr
+var/vera þeim/þeir vettergis/
+vant/vinna ór/ór gulli/gullr ,/,
+uns/uns þrjár/ kvámu/koma
+þursa/þuss meyjar/meyja
+ámáttkar/ámáttigr mjök/mjök
+ór/ór Jötunheimum/Jötunheimr ./.
 
 9/
-Þá/ gengu/ganga regin/ öll/allr
-á/á rökstóla/ ,/,
-ginnheilög/ goð/ ,/,
-ok/ok um/um þat/þat gættusk/ ,/,
-hverir/ skyldi/ dverga/
-dróttir/ skepja/
-ór/ór Brimis/ blóði/blóð
-ok/ok ór/ór Bláins/ leggjum/ ./.
+Þá/þá gengu/ganga regin/regin öll/allr
+á/á rökstóla/røkstólar ,/,
+ginnheilög/ginheilagr goð/goð ,/,
+ok/ok um/um þat/þat gættusk/gæta ;/;
+hverir/hverr skyldi/skulu dverga/dvergr
+dróttir/drótt skepja/skepja
+ór/ór Brimis/Brim blóði/blóð
+ok/ok ór/ór Bláins/Bláinn leggjum/leggr ./.
 
 10/
-Þar/ var/ Móðsognir/
-mæztr/ of/ orðinn/
-dverga/ allra/ ,/
-en/ Durinn/ annarr/ ;/
-þeir/ mannlíkun/
-mörg/ of/ gerðu/
-dvergar/ í/ jörðu/ ,/
-sem/ Durinn/ sagði/ ./
+Þar/þar var/vera Móðsognir/Móðsognir
+mæztr/mættr of/of orðinn/verða
+dverga/dvergr allra/allr ,/,
+en/en Durinn/Durinn annarr/annarr ;/;
+þeir/þeir mannlíkun/mannlíkan
+mörg/mögr of/of gerðu/gøra
+dvergar/dvergr í/í jörðu/jörð ,/,
+sem/sem Durinn/Durinn sagði/segja ./.
 
 11/
 Nýi/ ,/ Niði/ ,/
@@ -233,10 +233,10 @@ seið/ hon/ hug/ leikinn/ ,/
 illrar/ brúðar/ ./
 
 23/
-Þá/ gengu/ regin/ öll/
-á/ rökstóla/ ,/
-ginnheilög/ goð/ ,/
-ok/ um/ þat/ gættusk/ ,/
+Þá/þá gengu/ganga regin/regin öll/allr
+á/á rökstóla/røkstólar ,/,
+ginnheilög/ginheilagr goð/goð ,/,
+ok/ok um/um þat/þat gættusk/gæta ;/;
 hvárt/ skyldu/ æsir/
 afráð/ gjalda/
 eða/ skyldu/ goðin/ öll/
@@ -253,10 +253,10 @@ knáttu/ vanir/ vígspá/
 völlu/ sporna/ ./
 
 25/
-Þá/ gengu/ regin/ öll/
-á/ rökstóla/ ,/
-ginnheilög/ goð/ ,/
-ok/ um/ þat/ gættusk/ ,/
+Þá/þá gengu/ganga regin/regin öll/allr
+á/á rökstóla/røkstólar ,/,
+ginnheilög/ginheilagr goð/goð ,/,
+ok/ok um/um þat/þat gættusk/gæta ;/;
 hverjir/ hefði/ loft/ allt/
 lævi/ blandit/
 eða/ ætt/ jötuns/
@@ -321,7 +321,7 @@ görvar/ at/ ríða/
 grund/ valkyrjur/ ./
 
 31/
-Ek/ sá/ Baldri/ ,/
+Ek/ek sá/ Baldri/ ,/
 blóðgum/ tívur/ ,/
 Óðins/ barni/ ,/
 örlög/ folgin/ ;/
