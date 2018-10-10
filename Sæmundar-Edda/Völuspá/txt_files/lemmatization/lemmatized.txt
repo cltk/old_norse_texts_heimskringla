@@ -103,58 +103,58 @@ dvergar/dvergr í/í jörðu/jörð ,/,
 sem/sem Durinn/Durinn sagði/segja ./.
 
 11/
-Nýi/ ,/ Niði/ ,/
-Norðri/ ,/ Suðri/ ,/
-Austri/ ,/ Vestri/ ,/
-Alþjófr/ ,/ Dvalinn/ ,/
+Nýi/nýr ,/, Niði/niðr ,/,
+Norðri/Norðr ,/ Suðri/Suðr ,/,
+Austri/austr ,/ Vestri/vestr ,/,
+Alþjófr/ ,/ Dvalinn/ ,/,
 Nár/ ok/ Náinn/
 Nípingr/ ,/ Dáinn/
-Bívurr/ ,/ Bávurr/ ,/
-Bömburr/ ,/ Nóri/ ,/
-Ánn/ ok/ Ánarr/ ,/
-Óinn/ ,/ Mjöðvitnir/ ./
+Bívurr/ ,/ Bávurr/ ,/,
+Bömburr/ ,/ Nóri/ ,/,
+Ánn/ ok/ Ánarr/ ,/,
+Óinn/ ,/ Mjöðvitnir/ ./.
 
 12/
-Veggr/ ok/ Gandalfr/ ,/
-Vindalfr/ ,/ Þorinn/ ,/
-Þrár/ ok/ Þráinn/ ,/
-Þekkr/ ,/ Litr/ ok/ Vitr/ ,/
-Nýr/ ok/ Nýráðr/ ,/
-nú/ hefi/ ek/ dverga/ ,/
-Reginn/ ok/ Ráðsviðr/ ,/
-rétt/ of/ talða/ ./
+Veggr/veggr ok/ Gandalfr/gandalfr ,/,
+Vindalfr/ ,/ Þorinn/ ,/,
+Þrár/ ok/ok Þráinn/ ,/,
+Þekkr/ ,/, Litr/ ok/ Vitr/ ,/,
+Nýr/ ok/ok Nýráðr/ ,/,
+nú/nú hefi/hafa ek/ek dverga/dvergr ,/,
+Reginn/Reginn ok/ok Ráðsviðr/Ráðsviðr ,/
+rétt/ of/of talða/ ./
 
 13/
-Fíli/ ,/ Kíli/ ,/
+Fíli/ ,/, Kíli/ ,/
 Fundinn/ ,/ Náli/ ,/
 Hefti/ ,/ Víli/ ,/
 Hannar/ ,/ Svíurr/ ,/
 Billingr/ ,/ Brúni/ ,/
-Bíldr/ ok/ Buri/ ,/
+Bíldr/ ok/ok Buri/ ,/
 Frár/ ,/ Hornbori/ ,/
-Frægr/ ok/ Lóni/ ,/
-Aurvangr/ ,/ Jari/ ,/
-Eikinskjaldi/ ./
+Frægr/ ok/ok Lóni/ ,/
+Aurvangr/ ,/, Jari/ ,/
+Eikinskjaldi/ ./.
 
 14/
-Mál/ er/ dverga/
-í/ Dvalins/ liði/
-ljóna/ kindum/
-til/ Lofars/ telja/ ,/
-þeir/ er/ sóttu/
-frá/ salar/ steini/
+Mál/mál er/er dverga/dvergr
+í/í Dvalins/dvalinn liði/lið?
+ljóna/ kindum/kind
+til/til Lofars/ telja/telja ,/,
+þeir/þeir er/er sóttu/sökja
+frá/frá salar/ steini/steinn
 Aurvanga/ sjöt/
 til/ Jöruvalla/ ./
 
 15/
-Þar/ var/ Draupnir/
-ok/ok Dolgþrasir/ ,/
-Hár/ ,/ Haugspori/ ,/
-Hlévangr/ ,/ Glóinn/ ,/
+Þar/ var/vera Draupnir/
+ok/ok Dolgþrasir/ ,/,
+Hár/ ,/ Haugspori/ ,/,
+Hlévangr/ ,/ Glóinn/ ,/,
 Dóri/ ,/ Óri/
 Dúfr/ ,/ Andvari/
-Skirfir/ ,/ Virfir/ ,/
-Skáfiðr/ ,/ Ái/ ./
+Skirfir/ ,/ Virfir/ ,/,
+Skáfiðr/ ,/ Ái/ ./.
 
 16/
 Alfr/ ok/ok Yngvi/ ,/
@@ -167,30 +167,30 @@ langniðja/ tal/
 Lofars/ hafat/ ./
 
 17/
-Unz/ þrír/ kvámu/
-ór/ því/ liði/
-öflgir/ ok/ ástkir/
-æsir/ at/ húsi/ ,/
-fundu/ á/ landi/
+Unz/ þrír/ kvámu/koma
+ór/ór því/ liði/
+öflgir/ ok/ok ástkir/
+æsir/ at/at húsi/hús ,/,
+fundu/finna á/á landi/land
 lítt/ megandi/
-Ask/ ok/ Emblu/
-örlöglausa/ ./
+Ask/ ok/ok Emblu/
+örlöglausa/ ./.
 
 18/
-Önd/ þau/ né/ áttu/ ,/
-óð/ þau/ né/ höfðu/ ,/
+Önd/ þau/ né/né áttu/eiga ,/,
+óð/ þau/ né/né höfðu/hafa ,/,
 lá/ né/ læti/
 né/ litu/ góða/ ;/
 önd/ gaf/ Óðinn/ ,/
-óð/ gaf/ Hænir/ ,/
-lá/ gaf/ Lóðurr/
-ok/ litu/ góða/ ./
+óð/ gaf/gefa Hænir/ ,/
+lá/ gaf/gefa Lóðurr/
+ok/ok litu/ góða/ ./
 
 19/
-Ask/ veit/ ek/ standa/ ,/
-heitir/ Yggdrasill/ ,/
-hár/ baðmr/ ,/ ausinn/
-hvíta/ auri/ ;/
+Ask/ veit/ ek/ek standa/standa ,/,
+heitir/heita Yggdrasill/ ,/,
+hár/ baðmr/baðmr ,/ ausinn/
+hvíta/ auri/ ;/;
 þaðan/ koma/ döggvar/ ,/
 þærs/ í/ dala/ falla/ ,/
 stendr/ æ/ yfir/ grænn/
