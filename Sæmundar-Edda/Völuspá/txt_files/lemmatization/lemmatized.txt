@@ -103,37 +103,37 @@ dvergar/dvergr í/í jörðu/jörð ,/,
 sem/sem Durinn/Durinn sagði/segja ./.
 
 11/
-Nýi/ ,/ Niði/ ,/
-Norðri/ ,/ Suðri/ ,/
-Austri/ ,/ Vestri/ ,/
-Alþjófr/ ,/ Dvalinn/ ,/
+Nýi/nýr ,/, Niði/niðr ,/,
+Norðri/Norðr ,/ Suðri/Suðr ,/,
+Austri/austr ,/ Vestri/vestr ,/,
+Alþjófr/ ,/ Dvalinn/ ,/,
 Nár/ ok/ Náinn/
 Nípingr/ ,/ Dáinn/
-Bívurr/ ,/ Bávurr/ ,/
-Bömburr/ ,/ Nóri/ ,/
-Ánn/ ok/ Ánarr/ ,/
-Óinn/ ,/ Mjöðvitnir/ ./
+Bívurr/ ,/ Bávurr/ ,/,
+Bömburr/ ,/ Nóri/ ,/,
+Ánn/ ok/ Ánarr/ ,/,
+Óinn/ ,/ Mjöðvitnir/ ./.
 
 12/
-Veggr/ ok/ok Gandalfr/ ,/,
-Vindalfr/ ,/, Þorinn/ ,/,
+Veggr/veggr ok/ Gandalfr/gandalfr ,/,
+Vindalfr/ ,/ Þorinn/ ,/,
 Þrár/ ok/ok Þráinn/ ,/,
 Þekkr/ ,/, Litr/ ok/ Vitr/ ,/,
-Nýr/Nýr ok/ok Nýráðr/Nýráðr ,/,
-nú/nú hefi/ ek/ek dverga/ ,/,
-Reginn/ ok/ok Ráðsviðr/ ,/,
-rétt/ of/of talða/ ./.
+Nýr/ ok/ok Nýráðr/ ,/,
+nú/nú hefi/hafa ek/ek dverga/dvergr ,/,
+Reginn/Reginn ok/ok Ráðsviðr/Ráðsviðr ,/
+rétt/ of/of talða/ ./
 
 13/
-Fíli/ ,/ Kíli/ ,/,
-Fundinn/ ,/ Náli/ ,/,
-Hefti/ ,/ Víli/ ,/,
-Hannar/ ,/ Svíurr/ ,/,
-Billingr/ ,/ Brúni/ ,/,
-Bíldr/ ok/ Buri/ ,/,
-Frár/ ,/ Hornbori/ ,/,
-Frægr/ ok/ Lóni/ ,/,
-Aurvangr/ ,/ Jari/ ,/,
+Fíli/ ,/, Kíli/ ,/
+Fundinn/ ,/ Náli/ ,/
+Hefti/ ,/ Víli/ ,/
+Hannar/ ,/ Svíurr/ ,/
+Billingr/ ,/ Brúni/ ,/
+Bíldr/ ok/ok Buri/ ,/
+Frár/ ,/ Hornbori/ ,/
+Frægr/ ok/ok Lóni/ ,/
+Aurvangr/ ,/, Jari/ ,/
 Eikinskjaldi/ ./.
 
 14/
@@ -147,14 +147,14 @@ Aurvanga/ sjöt/
 til/til Jöruvalla/ ./
 
 15/
-Þar/ var/ Draupnir/
-ok/ok Dolgþrasir/ ,/
-Hár/ ,/ Haugspori/ ,/
-Hlévangr/ ,/ Glóinn/ ,/
+Þar/ var/vera Draupnir/
+ok/ok Dolgþrasir/ ,/,
+Hár/ ,/ Haugspori/ ,/,
+Hlévangr/ ,/ Glóinn/ ,/,
 Dóri/ ,/ Óri/
 Dúfr/ ,/ Andvari/
-Skirfir/ ,/ Virfir/ ,/
-Skáfiðr/ ,/ Ái/ ./
+Skirfir/ ,/ Virfir/ ,/,
+Skáfiðr/ ,/ Ái/ ./.
 
 16/
 Alfr/ ok/ok Yngvi/ ,/
