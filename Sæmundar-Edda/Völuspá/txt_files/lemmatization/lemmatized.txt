@@ -171,9 +171,9 @@ Unz/ þrír/ kvámu/koma
 ór/ór því/ liði/
 öflgir/ ok/ok ástkir/
 æsir/áss at/ húsi/hús ,/
-fundu/fundr á/á landi/land
+fundu/finna á/á landi/land
 lítt/ megandi/
-Ask/ ok/ok Emblu/
+Ask/Ask ok/ok Emblu/embla
 örlöglausa/ ./.
 
 18/
@@ -299,46 +299,46 @@ af/ veði/ Valföðrs/ ./
 Vituð/ ér/ enn/ -/ eða/ hvat/ ?/
 
 29/
-Valði/ henni/ Herföðr/
-hringa/ ok/ men/ ,/
-fekk/ spjöll/ spaklig/
-ok/ spá/ ganda/ ,/
-sá/ hon/ vítt/ ok/ of/ vítt/
-of/ veröld/ hverja/ ./
+Valði/ henni/hon Herföðr/Herföðr
+hringa/ ok/ok men/ma ,/
+fekk/fá spjöll/ spaklig/
+ok/ok spá/ ganda/ ,/
+sá/sá hon/ vítt/ ok/ of/ vítt/
+of/of veröld/ hverja/ ./
 
 30/
-Sá/ hon/ valkyrjur/
-vítt/ of/ komnar/ ,/
-görvar/ at/ ríða/
-til/ Goðþjóðar/ ;/
-Skuld/ helt/ skildi/ ,/
-en/ Skögul/ önnur/ ,/
-Gunnr/ ,/ Hildr/ ,/ Göndul/
-ok/ Geirskögul/ ./
-Nú/ eru/ talðar/
-nönnur/ Herjans/ ,/
-görvar/ at/ ríða/
-grund/ valkyrjur/ ./
+Sá/sá hon/ valkyrjur/valkyrja
+vítt/ of/ komnar/ ,/,
+görvar/ at/at ríða/ríða
+til/til Goðþjóðar/Goðþjóð ;/;
+Skuld/ helt/halda skildi/skulu ,/,
+en/en Skögul/ önnur/ ,/
+Gunnr/Gunnr ,/, Hildr/Hildr ,/, Göndul/Göndul
+ok/ok Geirskögul/Geirskögul ./.
+Nú/nú eru/vera talðar/tala
+nönnur/ Herjans/ ,/,
+görvar/ at/at ríða/ríða
+grund/ valkyrjur/valkyrja ./.
 
 31/
-Ek/ek sá/ Baldri/ ,/
-blóðgum/ tívur/ ,/
-Óðins/ barni/ ,/
+Ek/ek sá/seggja Baldri/Baldr ,/,
+blóðgum/ tívur/ ,/,
+Óðins/Óðinn barni/barn ,/,
 örlög/ folgin/ ;/
-stóð/ of/ vaxinn/
+stóð/standa of/ko vaxinn/vaxa
 völlum/ hæri/
-mjór/ ok/ mjök/ fagr/
-mistilteinn/ ./
+mjór/mjór ok/ok mjök/mjök fagr/fagr
+mistilteinn/mistilteinn ./.
 
 32/
-Varð/ af/ þeim/ meiði/ ,/
-er/ mær/ sýndisk/ ,/
-harmflaug/ hættlig/ ,/
-Höðr/ nam/ skjóta/ ;/
-Baldrs/ bróðir/ var/
+Varð/ af/af þeim/ meiði/ ,/,
+er/er mær/ sýndisk/ ,/,
+harmflaug/ hættlig/ ,/,
+Höðr/ nam/ skjóta/ ;/;
+Baldrs/Baldr bróðir/bróðir var/vera
 of/ borinn/ snemma/ ,/
-sá/ nam/ Óðins/ sonr/
-einnættr/ vega/ ./
+sá/ nam/nema Óðins/Óðinn sonr/sonr
+einnættr/ vega/ ./.
 
 33/
 Þó/ hann/ æva/ hendr/
@@ -623,12 +623,12 @@ ok/ á/ Fimbultýs/
 fornar/ rúnir/ ./
 
 61/
-Þar/ munu/ eftir/
+Þar/ munu/munu eftir/eftir
 undrsamligar/
 gullnar/ töflur/
-í/ grasi/ finnask/ ,/
-þærs/ í/ árdaga/
-áttar/ höfðu/ ./
+í/í grasi/ finnask/finna ,/
+þærs/ í/í árdaga/
+áttar/ höfðu/hafa ./
 
 62/
 Munu/ ósánir/
