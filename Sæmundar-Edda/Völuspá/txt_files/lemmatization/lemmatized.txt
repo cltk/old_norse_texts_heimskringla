@@ -549,14 +549,14 @@ bjartr/ at/ Surti/ ;/
 falla/ angan/ ./
 
 54/
-Geyr/ nú/ Garmr/ mjök/
-fyr/ Gnipahelli/ ,/
-festr/ mun/ slitna/ ,/
-en/ freki/ renna/ ;/
-fjölð/ veit/ ek/ fræða/ ,/
-fram/ sé/ ek/ lengra/
-um/ ragna/ rök/
-römm/ sigtíva/ ./
+Geyr/Geyr nú/nú Garmr/Garmr mjök/mjök
+fyr/fyr Gnipahelli/ ,/,
+festr/festr mun/munu slitna/ ,/,
+en/ freki/ renna/ ;/;
+fjölð/ veit/ ek/ fræða/ ,/,
+fram/fram sé/ ekek/ lengra/
+um/um ragna/ rök/
+römm/ sigtíva/ ./.
 
 55/
 Þá/ kemr/ inn/ mikli/
@@ -593,34 +593,34 @@ leikr/ hár/ hiti/
 við/ himin/ sjalfan/ ./
 
 58/
-Geyr/ nú/ Garmr/ mjök/
-fyr/ Gnipahelli/ ,/
-festr/ mun/ slitna/
-en/ freki/ renna/ ;/
-fjölð/ veit/ ek/ fræða/
+Geyr/Geyr nú/nú Garmr/Garmr mjök/mjök
+fyr/fyr Gnipahelli/ ,/,
+festr/ mun/munu slitna/
+en/en freki/ renna/ ;/;
+fjölð/ veit/vita ek/ek fræða/
 fram/ sé/ ek/ lengra/
-um/ ragna/ rök/
-römm/ sigtíva/ ./
+um/um ragna/ rök/
+römm/ sigtíva/ ./.
 
 59/
-Sér/ hon/ upp/ koma/
+Sér/ hon/hon upp/upp koma/koma
 öðru/ sinni/
-jörð/ ór/ ægi/
-iðjagræna/ ;/
-falla/ forsar/ ,/
-flýgr/ örn/ yfir/ ,/
-sá/ er/ á/ fjalli/
-fiska/ veiðir/ ./
+jörð/jörð órór/ ægi/
+iðjagræna/ ;/;
+falla/ forsar/ ,/,
+flýgr/ örn/ yfir/yfir ,/,
+sá/ er/ á/ fjalli/fjall
+fiska/ veiðir/ ./.
 
 60/
-Finnask/ æsir/
-á/ Iðavelli/
-ok/ um/ moldþinur/
+Finnask/finna æsir/áss
+á/á Iðavelli/Iðavellr
+ok/ok um/um moldþinur/
 máttkan/ dæma/
-ok/ minnask/ þar/
-á/ megindóma/
-ok/ á/ Fimbultýs/
-fornar/ rúnir/ ./
+ok/ok minnask/minna þar/þar
+á/á megindóma/
+ok/pl á/á Fimbultýs/
+fornar/ rúnir/ ./.
 
 61/
 Þar/ munu/munu eftir/eftir
@@ -631,35 +631,35 @@ gullnar/ töflur/
 áttar/ höfðu/hafa ./
 
 62/
-Munu/ ósánir/
-akrar/ vaxa/ ,/
-böls/ mun/ alls/ batna/ ,/
-Baldr/ mun/ koma/ ;/
-búa/ þeir/ Höðr/ ok/ Baldr/
-Hrofts/ sigtoftir/ ,/
-vé/ valtíva/ ./
-Vituð/ ér/ enn/ -/ eða/ hvat/ ?/
+Munu/munu ósánir/
+akrar/ vaxa/vaxa ,/,
+böls/ mun/munu alls/allr batna/batna ,/,
+Baldr/Baldr mun/muna koma/koma ;/;
+búa/búa þeir/þeir Höðr/Höðr ok/ok Baldr/Baldr
+Hrofts/Hroft sigtoftir/ ,/,
+vé/ valtíva/ ./.
+Vituð/vita ér/ enn/enn -/- eða/eða hvat/hvat ?/?
 
 63/
 Þá/ kná/ Hænir/
 hlautvið/ kjósa/
-ok/ burir/ byggja/
+ok/ok burir/ byggja/
 bræðra/ tveggja/
-vindheim/ víðan/ ./
-Vituð/ ér/ enn/ -/ eða/ hvat/ ?/
+vindheim/ víðan/ ./.
+Vituð/vita ér/ enn/enn -/- eða/eða hvat/hvat ?/?
 
 64/
-Sal/ sér/ hon/ standa/
-sólu/ fegra/ ,/
-gulli/ þakðan/
-á/ Gimléi/ ;/
-þar/ skulu/ dyggvar/
+Sal/sal sér/ hon/hon standa/standa
+sólu/sól fegra/ ,/,
+gulli/gullr þakðan/
+á/á Gimléi/ ;/;
+þar/þar skulu/skula dyggvar/
 dróttir/ byggja/
-ok/ um/ aldrdaga/
-ynðis/ njóta/ ./
+ok/ok um/um aldrdaga/
+ynðis/ njóta/njóta ./.
 
 65/
-Þá/ kemr/ inn/ ríki/
-at/ regindómi/
+Þá/ kemr/koma inn/inn ríki/
+at/at regindómi/
 öflugr/ ofan/ ,/
-sá/ er/ öllu/ ræðr/ ./
+sá/sá er/ öllu/allr ræðr/ræðr ./.
