@@ -299,12 +299,12 @@ af/af veði/veð Valföðrs/Valföðr ./.
 Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hvat ?/.
 
 29/
-Valði/ henni/hon Herföðr/Herföðr
-hringa/ ok/ok men/ma ,/
-fekk/fá spjöll/ spaklig/
-ok/ok spá/ ganda/ ,/
-sá/sá hon/ vítt/ ok/ of/ vítt/
-of/of veröld/ hverja/ ./
+Valði/velja henni/hon Herföðr/Herföðr
+hringa/hringr ok/ok men/men ,/,
+fekk/fá spjöll/spjöll spaklig/spakligr
+ok/ok spá/spá ganda/gandr ,/,
+sá/sjá hon/hon vítt/vítt ok/ok of/of vítt/vítt
+of/of veröld/veröld hverja/hverr ./.
 
 30/
 Sá/sá hon/ valkyrjur/valkyrja
