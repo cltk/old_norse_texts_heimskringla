@@ -285,18 +285,18 @@ Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hvat ?/?
 28/
 Ein/einn sat/sitja hon/hon úti/úti ,/,
 þá/þá er/er inn/inn aldni/aldinn kom/koma
-yggjungr/ ása/áss
+yggjungr/yggjungr ása/áss
 ok/ok í/í augu/auga leit/líta ./.
-Hvers/ fregnið/ mik/ek ?/?
-Hví/ freistið/ mín/ ?/
+Hvers/hverr fregnið/fregna mik/ek ?/?
+Hví/hvat freistið/freista mín/ek ?/?
 Allt/allr veit/vita ek/ek ,/, Óðinn/Óðinn ,/,
-hvar/ þú/þú auga/auga falt/fela ,/,
+hvar/hvar þú/þú auga/auga falt/fela ,/,
 í/í inum/inn mæra/mærr
-Mímisbrunni/Mímisbrunn ./.
+Mímisbrunni/Mímisbrunnr ./.
 Drekkr/drekka mjöð/mjöð Mímir/Mímir
-morgun/morgun hverjan/
+morgun/morgun hverjan/hvern dag
 af/af veði/veð Valföðrs/Valföðr ./.
-Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hvat ?/.
+Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hvat ?/?
 
 29/
 Valði/velja henni/hon Herföðr/Herföðr
@@ -307,18 +307,18 @@ sá/sjá hon/hon vítt/vítt ok/ok of/of vítt/vítt
 of/of veröld/veröld hverja/hverr ./.
 
 30/
-Sá/sá hon/ valkyrjur/valkyrja
-vítt/ of/ komnar/ ,/,
-görvar/ at/at ríða/ríða
+Sá/sá hon/hon valkyrjur/valkyrja
+vítt/vítt of/of komnar/koma ,/,
+görvar/görr at/at ríða/ríða
 til/til Goðþjóðar/Goðþjóð ;/;
-Skuld/ helt/halda skildi/skulu ,/,
-en/en Skögul/ önnur/ ,/
+Skuld/Skuld helt/halda skildi/skulu ,/,
+en/en Skögul/ önnur/annarr ,/
 Gunnr/Gunnr ,/, Hildr/Hildr ,/, Göndul/Göndul
 ok/ok Geirskögul/Geirskögul ./.
 Nú/nú eru/vera talðar/tala
-nönnur/ Herjans/ ,/,
-görvar/ at/at ríða/ríða
-grund/ valkyrjur/valkyrja ./.
+nönnur/ Herjans/Herjans ,/,
+görvar/görr at/at ríða/ríða
+grund/grund valkyrjur/valkyrja ./.
 
 31/
 Ek/ek sá/seggja Baldri/Baldr ,/,
@@ -348,7 +348,7 @@ Baldrs/ andskota/ ;/
 en/ Frigg/ of/ grét/
 í/ Fensölum/
 vá/ Valhallar/ ./
-Vituð/ ér/ enn/ -/ eða/ hvat/ ?/
+Vituð/ ér/ enn/ -/ eða/ hvat/hverr ?/
 
 34/
 Þá/ kná/ Váli/

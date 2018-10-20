@@ -46,7 +46,7 @@ um/aþ himinjöður/nkeþ ;/p
 sól/nken þat/fphen né/aa vissi/sfg3eþ ,/p
 hvar/aa hon/fpven sali/ átti/sfg3eþ ,/p
 máni/nken þat/fphen né/ vissi/sfg3eþ ,/p
-hvat/ hann/fpken megins/nhee átti/sfg3eþ ,/p
+hvat/fshen hann/fpken megins/nhee átti/sfg3eþ ,/p
 stjörnur/nhfn þat/fphen né/aa vissu/sfg3fþ
 hvar/aa þær/fpvfn staði/nkeþ áttu/sfg3fþ ./p
 
@@ -285,18 +285,18 @@ Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fshen ?/p
 28/
 Ein/lvensf sat/sfg3eþ hon/fpven úti/aa ,/p
 þá/aa er/ct inn/gken aldni/lkenvf kom/sfg3eþ
-yggjungr/ ása/nke
+yggjungr/nken ása/nkfe
 ok/cc í/ao augu/nhfo leit/sfg3eþ ./p
-Hvers/ fregnið/sfg2fþ mik/fp1eo ?/p
-Hví/ freistið/sfg2fþ mín/fp1ee ?/p
-Allt/ veit/sfg3en ek/fpken ,/p Óðinn/ ,/p
-hvar/ þú/fp2en auga/nhen falt/sfg3eþ ,/p
-í/aþ inum/g mæra/
-Mímisbrunni/ ./p
+Hvers/fskee fregnið/sfg2fþ mik/fp1eo ?/p
+Hví/fsheþ freistið/sfg2fþ mín/fp1ee ?/p
+Allt/lhensf veit/sfg3en ek/fpken ,/p Óðinn/ ,/p
+hvar/aa þú/fp2en auga/nhen falt/sfg3eþ ,/p
+í/aþ inum/gkeþ mæra/lkeþvf
+Mímisbrunni/nkeþm ./p
 Drekkr/sfg3en mjöð/ Mímir/nkenm
-morgun/nven hverjan/
+morgun/nven hverjan/aa
 af/aþ veði/nheþ Valföðrs/nkeem ./p
-Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/ ?/p
+Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 
 29/
 Valði/sfg3eþ henni/fpveþ Herföðr/nkenm
@@ -307,18 +307,18 @@ sá/sfg3þ hon/fpken vítt/aa ok/cc of/aa vítt/aa
 of/aa veröld/nve hverja/fsveo ./p
 
 30/
-Sá/ hon/ valkyrjur/
-vítt/ of/ komnar/ ,/p
-görvar/ at/ ríða/
-til/ Goðþjóðar/ ;/p
-Skuld/ helt/ skildi/ ,/
-en/ Skögul/ önnur/ ,/p
-Gunnr/nkenm ,/p Hildr/nkenm ,/p Göndul/nkenm
-ok/ Geirskögul/ ./p
-Nú/ eru/ talðar/
-nönnur/ Herjans/ ,/p
-görvar/ at/ ríða/
-grund/ valkyrjur/ ./p
+Sá/sfg3eþ hon/fpven valkyrjur/nvfo
+vítt/aa of/aa komnar/lvfosf ,/p
+görvar/lvfosf at/ct ríða/sng
+til/ae Goðþjóðar/nveee ;/p
+Skuld/nvenm helt/sfg3eþ skildi/nkeþ ,/p
+en/cc Skögul/nvenm önnur/favfn ,/p
+Gunnr/nvenm ,/p Hildr/nvenm ,/p Göndul/nvenm
+ok/cc Geirskögul/nvenm ./p
+Nú/aa eru/sfg3fn talðar/sþgvfn
+nönnur/ Herjans/nkee ,/p
+görvar/lvfosf at/ct ríða/sng
+grund/nveo valkyrjur/nvfn ./p
 
 31/
 Ek/ sá/ Baldri/ ,/p
