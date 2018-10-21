@@ -197,18 +197,18 @@ stendr/ æ/ yfir/yfir grænn/grænn
 Urðarbrunni/ ./.
 
 20/
-Þaðan/ koma/koma meyjar/
+Þaðan/Þaðan koma/koma meyjar/
 margs/ vitandi/vita
-þrjár/ ór/ór þeim/þeim sæ/ ,/
-er/er und/und þolli/ stendr/ ;/
-Urð/ hétu/heita eina/ ,/
-aðra/ Verðandi/ ,/
--/ skáru/ á/ skíði/ ,/ -/
-Skuld/ ina/ þriðju/ ;/
-þær/ lög/ lögðu/ ,/
+þrjár/ ór/ór þeim/þeim sæ/ ,/,
+er/er und/und þolli/ stendr/ ;/;
+Urð/ hétu/heita eina/ ,/,
+aðra/ Verðandi/ ,/,
+-/- skáru/ á/á skíði/ ,/, -/-
+Skuld/ ina/ þriðju/ ;/;
+þær/ lög/ lögðu/ ,/,
 þær/ líf/ kuru/
-alda/ börnum/ ,/
-örlög/ seggja/ ./
+alda/ börnum/ ,/,
+örlög/örlög seggja/seggja ./.
 
 21/
 Þat/ man/munu hon/hon folkvíg/
@@ -321,12 +321,12 @@ görvar/görr at/at ríða/ríða
 grund/grund valkyrjur/valkyrja ./.
 
 31/
-Ek/ek sá/seggja Baldri/Baldr ,/,
-blóðgum/ tívur/ ,/,
+Ek/ek sá/sjá Baldri/Baldr ,/,
+blóðgum/blóðlígr tívur/týr ,/,
 Óðins/Óðinn barni/barn ,/,
-örlög/ folgin/ ;/
-stóð/standa of/ko vaxinn/vaxa
-völlum/ hæri/
+örlög/örlög folgin/fela ;/;
+stóð/standa of/of vaxinn/vaxa
+völlum/völlr hæri/hár
 mjór/mjór ok/ok mjök/mjök fagr/fagr
 mistilteinn/mistilteinn ./.
 
