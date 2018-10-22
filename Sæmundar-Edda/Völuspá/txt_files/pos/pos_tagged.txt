@@ -331,14 +331,14 @@ mjór/lkensf ok/cc mjök/aa fagr/lkensf
 mistilteinn/nken ./p
 
 32/
-Varð/ af/ þeim/ meiði/ ,/p
-er/ mær/ sýndisk/ ,/p
-harmflaug/ hættlig/ ,/p
-Höðr/ nam/ skjóta/ ;/p
-Baldrs/ bróðir/ var/
-of/ borinn/ snemma/ ,/p
-sá/ nam/ Óðins/ sonr/
-einnættr/ vega/ ./p
+Varð/sfg3eþ  af/aþ þeim/fakeþ meiði/nkeþ ,/p
+er/ct mær/ sýndisk/sfm3eþ ,/p
+harmflaug/nven hættlig/lvensf ,/p
+Höðr/nkenm nam/sfg3eþ skjóta/l ;/p
+Baldrs/nkeem bróðir/nken var/sfg3eþ
+of/aa borinn/sþgken snemma/aa ,/p
+sá/faken nam/sfg3eþ Óðins/nkeem sonr/nken
+einnættr/lkensf vega/sng ./p
 
 33/
 Þó/ hann/ æva/ hendr/

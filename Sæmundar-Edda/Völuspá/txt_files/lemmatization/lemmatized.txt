@@ -197,17 +197,17 @@ stendr/ æ/ yfir/yfir grænn/grænn
 Urðarbrunni/ ./.
 
 20/
-Þaðan/Þaðan koma/koma meyjar/
-margs/ vitandi/vita
-þrjár/ ór/ór þeim/þeim sæ/ ,/,
+Þaðan/þaðan koma/koma meyjar/
+margs/margr vitandi/vita
+þrjár/ ór/ór þeim/þeir sæ/sær ,/,
 er/er und/und þolli/ stendr/ ;/;
-Urð/ hétu/heita eina/ ,/,
+Urð/ hétu/heita eina/einn ,/,
 aðra/ Verðandi/ ,/,
 -/- skáru/ á/á skíði/ ,/, -/-
-Skuld/ ina/ þriðju/ ;/;
-þær/ lög/ lögðu/ ,/,
-þær/ líf/ kuru/
-alda/ börnum/ ,/,
+Skuld/ ina/inn þriðju/ ;/;
+þær/þær lög/ lögðu/ ,/,
+þær/þær líf/ kuru/
+alda/öld börnum/barn ,/,
 örlög/örlög seggja/seggja ./.
 
 21/
@@ -322,7 +322,7 @@ grund/grund valkyrjur/valkyrja ./.
 
 31/
 Ek/ek sá/sjá Baldri/Baldr ,/,
-blóðgum/blóðlígr tívur/týr ,/,
+blóðgum/blóðigr tívur/týr ,/,
 Óðins/Óðinn barni/barn ,/,
 örlög/örlög folgin/fela ;/;
 stóð/standa of/of vaxinn/vaxa
@@ -331,14 +331,14 @@ mjór/mjór ok/ok mjök/mjök fagr/fagr
 mistilteinn/mistilteinn ./.
 
 32/
-Varð/ af/af þeim/ meiði/ ,/,
-er/er mær/ sýndisk/ ,/,
-harmflaug/ hættlig/ ,/,
-Höðr/ nam/ skjóta/ ;/;
+Varð/verð af/af þeim/sá meiði/meiðr ,/,
+er/er mær/ sýndisk/sýna ,/,
+harmflaug/harmflaug hættlig/hættligr ,/,
+Höðr/Höðr nam/neka skjóta/skjóta ;/;
 Baldrs/Baldr bróðir/bróðir var/vera
-of/ borinn/ snemma/ ,/
-sá/ nam/nema Óðins/Óðinn sonr/sonr
-einnættr/ vega/ ./.
+of/of borinn/bera snemma/snemma ,/
+sá/sá nam/nema Óðins/Óðinn sonr/sonr
+einnættr/einnættr vega/vega ./.
 
 33/
 Þó/ hann/ æva/ hendr/
