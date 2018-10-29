@@ -367,10 +367,10 @@ ver/verr vel/vel glýjuð/glýja ./.
 Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hverr ?/?
 
 36/
-Á/ fellur/ austan/
-um/ eitrdala/
-söxum/ ok/ sverðum/ ,/
-Slíðr/ heitir/ sú/ ./
+Á/á fellur/fell austan/austan
+um/um eitrdala/eitrdalr
+söxum/sax ok/ok sverðum/sverð ,/,
+Slíðr/Slíðr heitir/heita sú/sá ./.
 
 37/
 Stóð/standa fyr/fyr norðan/
