@@ -316,7 +316,7 @@ en/cc Skögul/nvenm önnur/favfn ,/p
 Gunnr/nvenm ,/p Hildr/nvenm ,/p Göndul/nvenm
 ok/cc Geirskögul/nvenm ./p
 Nú/aa eru/sfg3fn talðar/sþgvfn
-nönnur/ Herjans/nkee ,/p
+nönnur/ Herjans/nkeem ,/p
 görvar/lvfosf at/ct ríða/sng
 grund/nveo valkyrjur/nvfn ./p
 

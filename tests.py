@@ -2,6 +2,8 @@
 Source:
 http://heimskringla.no/wiki/Kildeindex
 """
+
+
 from reader import PoeticEddaPOSTaggedReader
 from text_manager import *
 

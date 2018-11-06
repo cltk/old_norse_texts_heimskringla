@@ -19,4 +19,5 @@ setup(
     # test_suite='cltk.tests.test_cltk',
     package_data={"Snorra-Edda": ["Snorra-Edda"],
                   "Sæmundur-Edda": ["Sæmundur-Edda"]},
+
 )
