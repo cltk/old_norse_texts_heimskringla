@@ -367,20 +367,20 @@ ver/verr vel/vel glýjuð/glýja ./.
 Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hverr ?/?
 
 36/
-Á/ fellur/ austan/
-um/ eitrdala/
-söxum/ ok/ sverðum/ ,/
-Slíðr/ heitir/ sú/ ./
+Á/á fellur/fell austan/austan
+um/um eitrdala/eitrdalr
+söxum/sax ok/ok sverðum/sverð ,/,
+Slíðr/Slíðr heitir/heita sú/sá ./.
 
 37/
-Stóð/standa fyr/fyr norðan/
-á/á Niðavöllum/
+Stóð/standa fyr/fyr norðan/norðan
+á/á Niðavöllum/Niðavallr
 salr/salr ór/ór gulli/gullr
 Sindra/ ættar/ ;/;
 en/en annarr/annarr stóð/standa
-á/á Ókólni/
-bjórsalr/ jötuns/jötunn ,/,
-en/en sá/ Brimir/ heitir/ ./.
+á/á Ókólni/Ókólnn
+bjórsalr/bjórsalr jötuns/jötunn ,/,
+en/en sá/sá Brimir/Brimir heitir/heita ./.
 
 38/
 Sal/ sá/ hon/hon standa/standa
