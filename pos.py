@@ -5,46 +5,72 @@
 __author__ = ["Clément Besnier <clemsciences@aol.com>", ]
 __license__ = "MIT License"
 
+from collections import defaultdict
 
-class Gender:
+
+class POSElement:
+
+    @staticmethod
+    def parse(tag, value):
+        return value
+
+
+class Gender(POSElement):
     masculine = "k"
     feminine = "v"
     neuter = "h"
+
+    verbose = defaultdict(str)
+    verbose[masculine] = "masculine"
+    verbose[feminine] = "feminine"
+    verbose[neuter] = "neuter"
 
     @staticmethod
     def parse(tag, value):
         """
         >>> Gender.parse("k", "")
-        " masculine"
-
+        ' masculine'
         >>> Gender.parse("v", "")
-        " feminine"
+        ' feminine'
         >>> Gender.parse("h", "")
-        " neuter"
+        ' neuter'
+
         :param tag:
         :param value:
         :return:
         """
-        if Gender.masculine == tag[0]:
-            value += " masculine"
-        elif Gender.feminine == tag[0]:
-            value += " feminine"
-        elif Gender.neuter == tag[0]:
-            value += " neuter"
-        return value
+        return value + " " + Gender.verbose[tag]
+
+    @staticmethod
+    def can_apply(tag):
+        return tag in Gender.verbose
 
 
-class Number:
+class Number(POSElement):
     singular = "e"
     plural = "f"
 
+    verbose = defaultdict(str)
+    verbose[singular] = "singular"
+    verbose[plural] = "plural"
+
     @staticmethod
     def parse(tag, value):
-        if Number.singular == tag[0]:
-            value += " singular"
-        elif Number.plural == tag[0]:
-            value += " plural"
-        return value
+        """
+        >>> Number.parse("e", "")
+        ' singular'
+        >>> Number.parse("f", "")
+        ' plural'
+
+        :param tag:
+        :param value:
+        :return:
+        """
+        return value + " " + Number.verbose[tag]
+
+    @staticmethod
+    def can_apply(tag):
+        return tag in Number.verbose
 
 
 class Case:
@@ -53,17 +79,33 @@ class Case:
     dative = "þ"
     genitive = "e"
 
+    verbose = defaultdict(str)
+    verbose[nominative] = "nominative"
+    verbose[accusative] = "accusative"
+    verbose[dative] = "dative"
+    verbose[genitive] = "genitive"
+
     @staticmethod
     def parse(tag, value):
-        if Case.nominative == tag[0]:
-            value += " nominative"
-        elif Case.accusative == tag[0]:
-            value += " accusative"
-        elif Case.dative == tag[0]:
-            value += " dative"
-        elif Case.genitive == tag[0]:
-            value += " genitive"
-        return value
+        """
+        >>> Case.parse("n", "")
+        ' nominative'
+        >>> Case.parse("o", "")
+        ' accusative'
+        >>> Case.parse("þ", "")
+        ' dative'
+        >>> Case.parse("e", "")
+        ' genitive'
+
+        :param tag:
+        :param value:
+        :return:
+        """
+        return value + " " + Case.verbose[tag]
+
+    @staticmethod
+    def can_apply(tag):
+        return tag in Case.verbose
 
 
 class Declension:
@@ -71,15 +113,30 @@ class Declension:
     weak = "v"
     indeclinable = "o"
 
+    verbose = defaultdict(str)
+    verbose[strong] = "strong"
+    verbose[weak] = "weak"
+    verbose[indeclinable] = "indeclinable"
+
     @staticmethod
     def parse(tag, value):
-        if Declension.strong == tag[0]:
-            value += " strong"
-        elif Declension.weak == tag[0]:
-            value += " weak"
-        elif Declension.indeclinable == tag[0]:
-            value += " indeclinable"
-        return value
+        """
+        >>> Declension.parse("s", "")
+        ' strong'
+        >>> Declension.parse("v", "")
+        ' weak'
+        >>> Declension.parse("o", "")
+        ' indeclinable'
+
+        :param tag:
+        :param value:
+        :return:
+        """
+        return value + " " + Declension.verbose[tag]
+
+    @staticmethod
+    def can_apply(tag):
+        return tag in Declension.verbose
 
 
 class Degree:
@@ -87,15 +144,30 @@ class Degree:
     comparative = "m"
     superlative = "e"
 
+    verbose = defaultdict(str)
+    verbose[positive] = "positive"
+    verbose[comparative] = "comparative"
+    verbose[superlative] = "superlative"
+
     @staticmethod
     def parse(tag, value):
-        if Degree.positive == tag[0]:
-            value += " positive"
-        elif Degree.comparative == tag[0]:
-            value += " comparative"
-        elif Degree.superlative == tag[0]:
-            value += " superlative"
-        return value
+        """
+        >>> Degree.parse("f", "")
+        ' positive'
+        >>> Degree.parse("m", "")
+        ' comparative'
+        >>> Degree.parse("e", "")
+        ' superlative'
+
+        :param tag:
+        :param value:
+        :return:
+        """
+        return value + " " + Degree.verbose[tag]
+
+    @staticmethod
+    def can_apply(tag):
+        return tag in Degree.verbose
 
 
 class ProperNoun:
@@ -103,43 +175,77 @@ class ProperNoun:
     place = "ö"
     other = "s"
 
+    verbose = defaultdict(str)
+    verbose[person] = "person"
+    verbose[place] = "place"
+    verbose[other] = "other"
+
     @staticmethod
     def parse(tag, value):
-        if ProperNoun.person == tag[0]:
-            value += " person"
-        elif ProperNoun.place == tag[0]:
-            value += " place"
-        elif ProperNoun.other == tag[0]:
-            value += " other"
-        return value
+        """
+        >>> ProperNoun.parse("m", "")
+        ' person'
+        >>> ProperNoun.parse("ö", "")
+        " place'
+        >>> ProperNoun.parse("s", "")
+        ' other'
+
+        :param tag:
+        :param value:
+        :return:
+        """
+        return value + " " + ProperNoun.verbose[tag]
+
+    @staticmethod
+    def can_apply(tag):
+        return tag in ProperNoun.verbose
 
 
 class Pronoun:
-    demontrative = "a"
+    demonstrative = "a"
     indefinite_demonstrative = "b"
-    prossessive = "e"
+    possessive = "e"
     indefinite = "o"
     personal = "p"
     interrogative = "s"
     relative = "t"
 
+    verbose = defaultdict(str)
+    verbose[demonstrative] = "demonstrative"
+    verbose[indefinite_demonstrative] = "indefinite demonstrative"
+    verbose[possessive] = "possessive"
+    verbose[indefinite] = "indefinite"
+    verbose[personal] = "personal"
+    verbose[interrogative] = "interrogative"
+    verbose[relative] = "relative"
+
     @staticmethod
     def parse(tag, value):
-        if Pronoun.demontrative == tag[0]:
-            value += " demontrative"
-        elif Pronoun.indefinite_demonstrative == tag[0]:
-            value += " indefinite_demonstrative"
-        elif Pronoun.prossessive == tag[0]:
-            value += " prossessive"
-        elif Pronoun.indefinite == tag[0]:
-            value += " indefinite"
-        elif Pronoun.personal == tag[0]:
-            value += " personal"
-        elif Pronoun.interrogative == tag[0]:
-            value += " interrogative"
-        elif Pronoun.relative == tag[0]:
-            value += " relative"
-        return value
+        """
+        >>> Pronoun.parse("a", "")
+        ' demonstrative'
+        >>> Pronoun.parse("b", "")
+        ' indefinite demonstrative'
+        >>> Pronoun.parse("e", "")
+        ' possessive'
+        >>> Pronoun.parse("o", "")
+        ' indefinite'
+        >>> Pronoun.parse("p", "")
+        ' personal'
+        >>> Pronoun.parse("s", "")
+        ' interrogative'
+        >>> Pronoun.parse("t", "")
+        ' relative'
+
+        :param tag:
+        :param value:
+        :return:
+        """
+        return value + " " + Pronoun.verbose[tag]
+
+    @staticmethod
+    def can_apply(tag):
+        return tag in Pronoun.verbose
 
 
 class Person:
@@ -147,38 +253,57 @@ class Person:
     second = "2"
     third = "3"
 
+    verbose = defaultdict(str)
+    verbose[first] = "first"
+    verbose[second] = "second"
+    verbose[third] = "third"
+
     @staticmethod
     def parse(tag, value):
-        if Person.first == tag[0]:
-            value += " first"
-        elif Person.second == tag[0]:
-            value += " second"
-        elif Person.third == tag[0]:
-            value += " third"
-        return value
+        """
+        >>> Person.parse("1", "")
+        ' first'
+        >>> Person.parse("2", "")
+        ' second'
+        >>> Person.parse("3", "")
+        ' third'
+
+        :param tag:
+        :param value:
+        :return:
+        """
+        return value + " " + Person.verbose[tag]
+
+    @staticmethod
+    def can_apply(tag):
+        return tag in Person.verbose
 
 
 class NumberCategory:
     cardinal = "f"
     ordinal = "o"
 
+    verbose = defaultdict(str)
+    verbose[cardinal] = "cardinal"
+    verbose[ordinal] = "ordinal"
+
     @staticmethod
     def parse(tag, value):
         """
         >>> NumberCategory.parse("f", "")
-        " cardinal"
+        ' cardinal'
         >>> NumberCategory.parse("o", "")
+        ' ordinal'
 
-        " ordinal"
         :param tag:
         :param value:
         :return:
         """
-        if NumberCategory.cardinal == tag[0]:
-            value += " cardinal"
-        elif NumberCategory.ordinal == tag[0]:
-            value += " ordinal"
-        return value
+        return value + " " + NumberCategory.verbose[tag]
+
+    @staticmethod
+    def can_apply(tag):
+        return tag in NumberCategory.verbose
 
 
 class Mood:
@@ -187,49 +312,99 @@ class Mood:
     indicative = "f"
     subjunctive = "v"
     supine = "s"
-    present_participe = "l"
+    present_participle = "l"
+    past_participle = "þ"
+
+    verbose = defaultdict(str)
+    verbose[infinitive] = "infinitive"
+    verbose[imperative] = "imperative"
+    verbose[indicative] = "indicative"
+    verbose[subjunctive] = "subjunctive"
+    verbose[supine] = "supine"
+    verbose[present_participle] = "present participle"
+    verbose[past_participle] = "past participle"
 
     @staticmethod
     def parse(tag, value):
-        if tag[0] == "n":
-            value += " infinitive"
-        elif tag[0] == "b":
-            value += " imperative"
-        elif tag[0] == "f":
-            value += " indicative"
-        elif tag[0] == "v":
-            value += " subjunctive"
-        elif tag[0] == "s":
-            value += " supine"
-        elif tag[0] == "l":
-            value += " participe present"
-        return value
+        """
+        >>> Mood.parse("n", "")
+        ' infinitive'
+        >>> Mood.parse("b", "")
+        ' imperative'
+        >>> Mood.parse("f", "")
+        ' indicative'
+        >>> Mood.parse("v", "")
+        ' subjunctive'
+        >>> Mood.parse("s", "")
+        ' supine'
+        >>> Mood.parse("l", "")
+        ' present participle'
+        >>> Mood.parse("þ", "")
+        ' past participle'
+
+        :param tag:
+        :param value:
+        :return:
+        """
+        return value + " " + Mood.verbose[tag]
+
+    @staticmethod
+    def can_apply(tag):
+        return tag in Mood.verbose
 
 
 class Voice:
     active = "g"
     middle = "m"
 
+    verbose = defaultdict(str)
+    verbose[active] = "active"
+    verbose[middle] = "middle"
+
     @staticmethod
     def parse(tag, value):
-        if Voice.active == tag[0]:
-            value += " active"
-        elif Voice.middle == tag[0]:
-            value += " middle"
-        return value
+        """
+        >>> Voice.parse("g", "")
+        ' active'
+        >>> Voice.parse("m", "")
+        ' middle'
+
+        :param tag:
+        :param value:
+        :return:
+        """
+        return value + " " + Voice.verbose[tag]
+
+    @staticmethod
+    def can_apply(tag):
+        return tag in Voice.verbose
 
 
 class Tense:
     present = "n"
     past = "þ"
 
+    verbose = defaultdict(str)
+    verbose[present] = "present"
+    verbose[past] = "past"
+
     @staticmethod
     def parse(tag, value):
-        if Tense.present == tag[0]:
-            value += " present"
-        elif Tense.past == tag[0]:
-            value += " past"
-        return value
+        """
+        >>> Tense.parse("n", "")
+        'present"
+        >>> Tense.parse("þ", "")
+        'past'
+
+        :param tag:
+        :param value:
+        :return:
+        """
+        return value + " " + Tense.verbose[tag]
+
+    @staticmethod
+    def can_apply(tag):
+        return tag in Tense.verbose
 
 
 class MainPOS:
@@ -245,25 +420,50 @@ class MainPOS:
     unanalysed = "x"
     punctuation = "p"
 
+    verbose = defaultdict(str)
+    verbose[noun] = "noun"
+    verbose[adjective] = "adjective"
+    verbose[pronoun] = "pronoun"
+    verbose[article] = "article"
+    verbose[numeral] = "numeral"
+    verbose[verb] = "verb"
+    verbose[adverb] = "adverb"
+    verbose[conjunction] = "conjunction"
+    verbose[unanalysed] = "unanalysed"
+    verbose[punctuation] = "punctuation"
+
+    @staticmethod
+    def apply(tag: str, l_pos: list, value: str):
+        i = 1
+        for pos in l_pos:
+            if isinstance(pos, list):
+                for j in pos:
+                    if j.can_apply(tag[i]):
+                        value = j.parse(tag[i], value)
+            else:
+                value = pos.parse(tag[i], value)
+            i += 1
+        return value
+
     @staticmethod
     def parse(tag):
         """
         >>> MainPOS.parse('fakeþ')
-
+        'pronoun demonstrative masculine singular dative'
         >>> MainPOS.parse('sfg3eþ')
-
+        'verb indicative active third singular past'
         >>> MainPOS.parse('lvensf')
-
+        'adjective feminine singular nominative strong positive'
         >>> MainPOS.parse('fp1en')
-
+        'pronoun personal first singular nominative'
         >>> MainPOS.parse('nkee')
-
-        >>> MainPOS.parse('sþken')
-
+        'noun masculine singular genitive'
+        >>> MainPOS.parse('sþgken')
+        'verb past participle active masculine singular nominative'
         >>> MainPOS.parse('nhfn')
-
+        'noun neuter plural nominative'
         >>> MainPOS.parse('nveo')
-
+        'noun feminine singular accusative'
 
         :param tag:
         :return:
@@ -272,72 +472,86 @@ class MainPOS:
         value = ""
         if tag[0] == MainPOS.noun:
             if len(tag) >= 4:
-                value = "noun"
-                value = Gender.parse(tag[1], value)
-                value = Number.parse(tag[2], value)
-                value = Case.parse(tag[3], value)
+                value = MainPOS.verbose[tag[0]]
+
+                value = MainPOS.apply(tag, [Gender, Number, Case], value)
+
+                # value = Gender.parse(tag[1], value)
+                # value = Number.parse(tag[2], value)
+                # value = Case.parse(tag[3], value)
+
                 if len(tag) == 5:
                     value = ProperNoun.parse(tag[4], value)
             return value
 
         elif tag[0] == MainPOS.adjective:
             if len(tag) == 6:
-                value = "adjective"
-                value = Gender.parse(tag[1], value)
-                value = Number.parse(tag[2], value)
-                value = Case.parse(tag[3], value)
-                value = Declension.parse(tag[4], value)
-                value = Degree.parse(tag[5], value)
+
+                value = MainPOS.verbose[tag[0]]
+                value = MainPOS.apply(tag, [Gender, Number, Case, Declension, Degree], value)
+                # value = Gender.parse(tag[1], value)
+                # value = Number.parse(tag[2], value)
+                # value = Case.parse(tag[3], value)
+                # value = Declension.parse(tag[4], value)
+                # value = Degree.parse(tag[5], value)
             return value
 
         elif tag[0] == MainPOS.pronoun:
             if len(tag) == 5:
-                value = "pronoun"
-
-                value = Pronoun.parse(tag[1], value)
-
-                value = Person.parse(tag[2], value)
-                value = Gender.parse(tag[2], value)
-
-                value = Number.parse(tag[3], value)
-                value = Case.parse(tag[4], value)
+                value = MainPOS.verbose[tag[0]]
+                value = MainPOS.apply(tag, [Pronoun, [Person, Gender], Number, Case], value)
+                # value = Pronoun.parse(tag[1], value)
+                # value = Person.parse(tag[2], value)
+                # value = Gender.parse(tag[2], value)
+                # value = Number.parse(tag[3], value)
+                # value = Case.parse(tag[4], value)
             return value
 
         elif tag[0] == MainPOS.article:
             if len(tag) == 4:
-                value = "article"
-                value = Gender.parse(tag[1], value)
-                value = Number.parse(tag[2], value)
-                value = Case.parse(tag[3], value)
+                value = MainPOS.verbose[tag[0]]
+                value = MainPOS.apply(tag, [Gender, Number, Case], value)
+
+                # value = Gender.parse(tag[1], value)
+                # value = Number.parse(tag[2], value)
+                # value = Case.parse(tag[3], value)
             return value
 
         elif tag[0] == MainPOS.numeral:
             if len(tag) == 5:
-                value = "numeral"
-                value = NumberCategory.parse(tag[1], value)
-                value = Gender.parse(tag[2], value)
-                value = Number.parse(tag[3], value)
-                value = Case.parse(tag[4], value)
+                value = MainPOS.verbose[tag[0]]
+                value = MainPOS.apply(tag, [NumberCategory, Gender, Number, Case], value)
+                # value = NumberCategory.parse(tag[1], value)
+                # value = Gender.parse(tag[2], value)
+                # value = Number.parse(tag[3], value)
+                # value = Case.parse(tag[4], value)
 
         elif tag[0] == MainPOS.verb:
             if len(tag) == 3 and tag[1] == "n":
-                value = "verb"
+                value = MainPOS.verbose[tag[0]]
+                value = MainPOS.apply(tag, [Mood, Voice], value)
                 value = Mood.parse(tag[1], value)
                 value = Voice.parse(tag[2], value)
 
+            elif len(tag) == 6 and tag[1] == "þ":
+                value = MainPOS.verbose[tag[0]]
+                value = MainPOS.apply(tag, [Mood, Voice, Gender, Number, Case], value)
+                # value = Mood.parse(tag[1], value)
+                # value = Voice.parse(tag[2], value)
+
             elif len(tag) == 6:
-                value = "verb" + value
-                value = Mood.parse(tag[1], value)
-                value = Voice.parse(tag[2], value)
-                value = Person.parse(tag[3], value)
-                value = Number.parse(tag[4], value)
-                value = Tense.parse(tag[5], value)
+                value = MainPOS.verbose[tag[0]]
+                value = MainPOS.apply(tag, [Mood, Voice, Person, Number, Tense], value)
+                # value = Mood.parse(tag[1], value)
+                # value = Voice.parse(tag[2], value)
+                # value = Person.parse(tag[3], value)
+                # value = Number.parse(tag[4], value)
+                # value = Tense.parse(tag[5], value)
             return value
 
         elif tag[0] == MainPOS.adverb:
             if len(tag) == 2:
-
-                value = "adverb"
+                value = MainPOS.verbose[tag[0]]
                 if tag[1] == "a":
                     value += " no case "
                 elif tag[1] == "u":
@@ -352,7 +566,7 @@ class MainPOS:
 
         elif tag[0] == MainPOS.conjunction:
             if len(tag) == 2:
-                value += "conjunction"
+                value = MainPOS.verbose[tag[0]]
                 if tag[1] == "n":
                     value += ""
                 elif tag[1] == "t":
@@ -360,15 +574,15 @@ class MainPOS:
                 return value
 
         elif tag[0] == MainPOS.foreign:
-            value += "foreign"
+            value = MainPOS.verbose[tag[0]]
             return value
 
         elif tag[0] == MainPOS.unanalysed:
-            value = "unanalysed word"
+            value = MainPOS.verbose[tag[0]]
             return value
 
         elif tag[0] == MainPOS.punctuation:
-            value = "punctuation"
+            value = MainPOS.verbose[tag[0]]
             return value
 
         return value
