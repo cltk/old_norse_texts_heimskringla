@@ -473,58 +473,33 @@ class MainPOS:
         if tag[0] == MainPOS.noun:
             if len(tag) >= 4:
                 value = MainPOS.verbose[tag[0]]
-
                 value = MainPOS.apply(tag, [Gender, Number, Case], value)
-
-                # value = Gender.parse(tag[1], value)
-                # value = Number.parse(tag[2], value)
-                # value = Case.parse(tag[3], value)
-
                 if len(tag) == 5:
                     value = ProperNoun.parse(tag[4], value)
             return value
 
         elif tag[0] == MainPOS.adjective:
             if len(tag) == 6:
-
                 value = MainPOS.verbose[tag[0]]
                 value = MainPOS.apply(tag, [Gender, Number, Case, Declension, Degree], value)
-                # value = Gender.parse(tag[1], value)
-                # value = Number.parse(tag[2], value)
-                # value = Case.parse(tag[3], value)
-                # value = Declension.parse(tag[4], value)
-                # value = Degree.parse(tag[5], value)
             return value
 
         elif tag[0] == MainPOS.pronoun:
             if len(tag) == 5:
                 value = MainPOS.verbose[tag[0]]
                 value = MainPOS.apply(tag, [Pronoun, [Person, Gender], Number, Case], value)
-                # value = Pronoun.parse(tag[1], value)
-                # value = Person.parse(tag[2], value)
-                # value = Gender.parse(tag[2], value)
-                # value = Number.parse(tag[3], value)
-                # value = Case.parse(tag[4], value)
             return value
 
         elif tag[0] == MainPOS.article:
             if len(tag) == 4:
                 value = MainPOS.verbose[tag[0]]
                 value = MainPOS.apply(tag, [Gender, Number, Case], value)
-
-                # value = Gender.parse(tag[1], value)
-                # value = Number.parse(tag[2], value)
-                # value = Case.parse(tag[3], value)
             return value
 
         elif tag[0] == MainPOS.numeral:
             if len(tag) == 5:
                 value = MainPOS.verbose[tag[0]]
                 value = MainPOS.apply(tag, [NumberCategory, Gender, Number, Case], value)
-                # value = NumberCategory.parse(tag[1], value)
-                # value = Gender.parse(tag[2], value)
-                # value = Number.parse(tag[3], value)
-                # value = Case.parse(tag[4], value)
 
         elif tag[0] == MainPOS.verb:
             if len(tag) == 3 and tag[1] == "n":
@@ -536,17 +511,10 @@ class MainPOS:
             elif len(tag) == 6 and tag[1] == "þ":
                 value = MainPOS.verbose[tag[0]]
                 value = MainPOS.apply(tag, [Mood, Voice, Gender, Number, Case], value)
-                # value = Mood.parse(tag[1], value)
-                # value = Voice.parse(tag[2], value)
 
             elif len(tag) == 6:
                 value = MainPOS.verbose[tag[0]]
                 value = MainPOS.apply(tag, [Mood, Voice, Person, Number, Tense], value)
-                # value = Mood.parse(tag[1], value)
-                # value = Voice.parse(tag[2], value)
-                # value = Person.parse(tag[3], value)
-                # value = Number.parse(tag[4], value)
-                # value = Tense.parse(tag[5], value)
             return value
 
         elif tag[0] == MainPOS.adverb:
