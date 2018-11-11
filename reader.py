@@ -71,22 +71,25 @@ class PoeticEddaLemmatizationReader(TaggedCorpusReader):
         paragraphs = [str(i+1) + "\n" + text[indices[i][1]:indices[i+1][0]] for i in range(len(indices)-1)]
         l_res = ["\n".join([" ".join([word+"/" for word in tokenize_old_norse_words(line)])
                             for line in paragraph.split("\n") if len(line) > 0]) for paragraph in paragraphs]
-        with open(os.path.join(path, "lemmatization", "test_lemmatized_"+filename), "w", encoding="utf-8") as f:
+
+        if not os.path.exists(os.path.join(path, "lemmatization")):
+            os.mkdir(os.path.join(path, "lemmatization"))
+        with open(os.path.join(path, "lemmatization", "lemmatized.txt"), "w", encoding="utf-8") as f:
             f.write("\n".join(l_res))
 
-    def get_lemmas_set(self) -> Set[str]:
+    def get_lemmas_set(self):
         lemmas = set()
         for word, tag in self.tagged_words():
             lemmas.add(tag)
         return lemmas
 
-    def get_sorted_lemmas(self) -> List[str]:
+    def get_sorted_lemmas(self):
         lemmas_set = self.get_lemmas_set()
         lemmas = list(lemmas_set)
         lemmas = sorted(lemmas)
         return lemmas
 
-    def get_present_forms(self, lemma) -> List[str]:
+    def get_present_forms(self, lemma):
         present_forms = []
         for word, tag in self.tagged_words():
             if tag == lemma:
@@ -121,11 +124,13 @@ class PoeticEddaPOSTaggedReader(TaggedCorpusReader):
         indices = [(m.start(0), m.end(0)) for m in re.finditer(r"[0-9]{1,2}\.", text)]
         # Extract the paragraphs thanks to indices
         paragraphs = [str(i + 1) + "\n" + text[indices[i][1]:indices[i + 1][0]] for i in range(len(indices) - 1)]
-        print(paragraphs[0].split(os.linesep))
+        # print(paragraphs[0].split(os.linesep))
         l_res = ["\n".join([" ".join([word+"/" for word in tokenize_old_norse_words(line)])
                             for line in paragraph.split("\n") if len(line) > 0]) for paragraph in paragraphs]
-        print(l_res[:3])
-        with open(os.path.join(path, "test_pos_tagged_" + filename), "w", encoding="utf-8") as f:
+        # print(l_res[:3])
+        if not os.path.exists(os.path.join(path, "pos")):
+            os.mkdir(os.path.join(path, "pos"))
+        with open(os.path.join(path, "pos", "pos_tagged.txt"), "w", encoding="utf-8") as f:
             f.write("\n".join(l_res))
 
     def get_pos_tagset(self):
@@ -165,7 +170,7 @@ class PoeticEddaSyllabifiedReader(TaggedCorpusReader):
         presyllabified_text = [[line.strip().split(" ") for line in remove_punctuations(paragraph).split("\n")
                                 if line.strip() != ""]
                                for paragraph in paragraphs]
-        print(presyllabified_text[:3])
+        # print(presyllabified_text[:3])
         # l_res is the list of lines of the returned file
         l_res = []
         for index, paragraph in enumerate(presyllabified_text):
@@ -181,8 +186,9 @@ class PoeticEddaSyllabifiedReader(TaggedCorpusReader):
                         l_res.append(word)
                     else:
                         l_res.append(str(index + 1) + ".")
-
-        with open(os.path.join(path, "test_pre_syl_" + filename), "w", encoding="utf-8") as f:
+        if not os.path.exists(os.path.join(path, "syllabified")):
+            os.mkdir(os.path.join(path, "syllabified"))
+        with open(os.path.join(path, "syllabified", "syllabified.txt"), "w", encoding="utf-8") as f:
             f.write("\n".join(l_res))
 
     @staticmethod
@@ -246,14 +252,14 @@ class PoeticEddaSyllabifiedReader(TaggedCorpusReader):
         with codecs.open(dst_filename, "w", encoding="utf-8") as f:
             f.write(text)
 
-    def get_syllable_set(self) -> Set[str]:
+    def get_syllable_set(self):
         syllables = set()
         for word, tag in self.tagged_words():
             for syllable in tag.split("+"):
                 syllables.add(syllable)
         return syllables
 
-    def get_syllable_counter(self) -> Counter:
+    def get_syllable_counter(self):
         return Counter(self.get_syllable_set())
 
 
