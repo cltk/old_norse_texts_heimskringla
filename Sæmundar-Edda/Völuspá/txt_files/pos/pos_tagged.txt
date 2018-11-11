@@ -3,34 +3,34 @@ Hljóðs/nhee bið/sfg1eþ ek/fp1en allar/lvfosf
 helgar/lvfosf kindir/nvfo ,/p
 meiri/lvfovm ok/cc minni/lvfovm
 mögu/nkfo Heimdallar/nkeem ;/p
-viltu/ at/cn ek/fp1em ,/p Valföðr/nkenm ,/p
-vel/aa fyr/cn telja/sg
+viltu/sfg2en at/cn ek/fp1em ,/p Valföðr/nkenm ,/p
+vel/aa fyr/cn telja/sng
 forn/lhfosf spjöll/nhfo fira/nkfe ,/p
-þau/fa er/ct fremst/aae of/? man/sfg1en ./p
+þau/fa er/ct fremst/aa of/aa man/sfg1en ./p
 
 2/ta
 Ek/fp1en man/sfg1en jötna/nkfe
 ár/aa of/aa borna/sþ ,/p
 þá/aa er/ct forðum/aa mik/fp1eo
-fædda/sþgve? höfðu/sfg3fþ ;/p
+fædda/sþgveo höfðu/sfg3fþ ;/p
 níu/tfxfx man/sfgsen ek/fp1en heima/nkfe ,/p
 níu/tfxfx íviðjur/nhfe ,/p
-mjötvið/nk?? mæran/lk??
+mjötvið/nkeo mæran/lkeosf
 fyr/ao mold/nveo neðan/a? ./p
 
 3/ta
 Ár/aa var/sfg3eþ alda/nvfe ,/p
-þat/? er/ct ekki/aa var/sfg3eþ ,/p
-var/aa? -a/?aa sandr/nken né/aa sær/nken
+þat/fphen er/ct ekki/aa var/sfg3eþ ,/p
+vara/aa sandr/nken né/aa sær/nken
 né/aa svalar/lvfnsf unnir/nvfn ;/p
 jörð/nven fannsk/svm3eþ æva/aa
 né/aa upphiminn/nken ,/p
-gap/nhen var/sfg3eþ ginnunga/nken(?)
+gap/nhen var/sfg3eþ ginnunga/nken
 en/cc gras/nhen hvergi/aa ./p
 
 4/ta
 Áðr/aa Burs/nkeem synir/nkfn
-bjöðum/x  of/aa yppðu/sfg3fþ ,/p
+bjöðum/nvfþ  of/aa yppðu/sfg3fþ ,/p
 þeir/fpkfn er/ct Miðgarð/nkeoö
 mæran/lkeos skópu/sfg3fþ ;/p
 sól/nhen skein/sfg3eþ sunnan/aa
@@ -111,14 +111,14 @@ Nár/nkenm ok/cc Náinn/nkenm
 Nípingr/nkenm ,/p Dáinn/nkenm
 Bívurr/nkenm ,/p Bávurr/nkenm ,/p
 Bömburr/nkenm ,/p Nóri/nkenm ,/p
-Ánn/nkenm ok/ Ánarr/nkenm ,/p
+Ánn/nkenm ok/cc Ánarr/nkenm ,/p
 Óinn/nkenm ,/p Mjöðvitnir/nkenm ./p
 
 12/
 Veggr/nkenm ok/cc Gandalfr/nkenm ,/p
 Vindalfr/nkenm ,/p Þorinn/nkenm ,/p
 Þrár/nkenm ok/cc Þráinn/nkenm ,/p
-Þekkr/nkenm ,/p Litr/nkenm ok/ Vitr/nkenm ,/p
+Þekkr/nkenm ,/p Litr/nkenm ok/cc Vitr/nkenm ,/p
 Nýr/nkenm ok/cc Nýráðr/nkenm ,/p
 nú/aa hefi/svg1en ek/fp1en dverga/nkfo ,/p
 Reginn/nkenm ok/cc Ráðsviðr/nkenm ,/p
@@ -157,7 +157,7 @@ Skirfir/nkenm ,/p Virfir/nkenm ,/p
 Skáfiðr/nkenm ,/p Ái/nkenm ./p
 
 16/
-Alfr/nkenm ok/ Yngvi/nkenm ,/p
+Alfr/nkenm ok/cc Yngvi/nkenm ,/p
 Eikinskjaldi/nkenm ,/p
 Fjalarr/nkenm ok/cc Frosti/nkenm ,/p
 Finnr/nkenm ok/cc Ginnarr/nkenm ;/p
@@ -278,7 +278,7 @@ hljóð/nhen of/aa folgit/sþghen
 und/aþ heiðvönum/nkfþ
 helgum/lkeþsf baðmi/nkeþ ,/p
 á/aþ sér/feþ hon/fpven ausask/sfm3en
-aurgum/lkfþsf forsi/nk?
+aurgum/lkfþsf forsi/nheþ
 af/aþ veði/nheþ Valföðrs/nkee ./p
 Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fshen ?/p
 
@@ -348,7 +348,7 @@ Baldrs/nkeem andskota/nkeo ;/p
 en/cc Frigg/nven of/aa grét/sfg3eþ
 í/aþ Fensölum/nkfþm
 vá/nveo Valhallar/nveem ./p
-Vituð/sfg2fn ér/fp2fn enn/aa -/p eða/cc hvat/ ?/p
+Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 
 34/
 Þá/aa kná/sfg3eþ Váli/nkenm
@@ -364,7 +364,7 @@ Loka/nkeþm áþekkjan/áþekkjan ;/p
 þar/aa sitr/sfg3en Sigyn/nvenm
 þeygi/cc of/aa sínum/
 ver/nkeo vel/aa glýjuð/ ./p
-Vituð/sfg2fn ér/fp2fn enn/aa -/p eða/cc hvat/ ?/p
+Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 
 36/
 Á/ao fellr/ austan/aa
@@ -373,10 +373,10 @@ söxum/nhfþ ok/cc sverðum/nhfþ ,/p
 Slíðr/nkenm heitir/sfg3en sú/faven ./p
 
 37/
-Stóð/sfg3eþ fyr/ norðan/aa
+Stóð/sfg3eþ fyr/aa norðan/aa
 á/aþ Niðavöllum/nkfþm
-salr/ ór/aþ gulli/nheþ
-Sindra/ ættar/ ;/p
+salr/nken ór/aþ gulli/nheþ
+Sindra/ ættar/nvee ;/p
 en/cc annarr/lkensf stóð/sfg3eþ
 á/aþ Ókólni/nkeþm
 bjórsalr/ jötuns/nkee ,/p
@@ -384,30 +384,30 @@ en/aa sá/faken Brimir/nkenm heitir/sfg3en ./p
 
 38/
 Sal/nkeo sá/sfg3eþ hon/fpven standa/sng
-sólu/ fjarri/
-Náströndu/ á/ ,/p
-norðr/nken horfa/ dyrr/ ;/p
+sólu/nveþ fjarri/aa
+Náströndu/ á/aþ ,/p
+norðr/nken horfa/sgn dyrr/ ;/p
 falla/ eitrdropar/
 inn/ um/ ljóra/ ,/p
 sá/ er/ undinn/ salr/nken
 orma/ hryggjum/ ./p
 
 39/
-Sá/ hon/ þar/ vaða/
+Sá/ hon/fpven þar/ vaða/
 þunga/ strauma/
 menn/ meinsvara/
-ok/ morðvarga/
-ok/ þann/ er/ annars/ glepr/
+ok/cc morðvarga/
+ok/cc þann/fakeo er/ annars/ glepr/
 eyrarúnu/ ;/p
 þar/ saug/ Niðhöggr/
 nái/ framgengna/ ,/p
 sleit/ vargr/ vera/ ./p
-Vituð/ ér/ enn/ -/p eða/ hvat/ ?/p
+Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 
 40/
 Austr/ sat/ in/ aldna/
 í/ Járnviði/
-ok/ fæddi/ þar/
+ok/cc fæddi/ þar/
 Fenris/ kindir/ ;/p
 verðr/ af/ þeim/ öllum/
 einna/ nokkurr/
@@ -422,20 +422,20 @@ rauðum/ dreyra/ ;/p
 svört/ verða/ sólskin/
 um/ sumur/ eftir/ ,/p
 veðr/ öll/ válynd/ ./p
-Vituð/ ér/ enn/ -/p eða/ hvat/ ?/p
+Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 
 42/
-Sat/ þar/ á/ haugi/
-ok/ sló/ hörpu/
+Sat/ þar/ á/aþ haugi/
+ok/cc sló/ hörpu/
 gýgjar/ hirðir/ ,/p
 glaðr/ Eggþér/ ;/p
-gól/ of/ hánum/
+gól/ of/aa hánum/
 í/ galgviði/
 fagrrauðr/ hani/ ,/p
 sá/ er/ Fjalarr/ heitir/ ./p
 
 43/
-Gól/ of/ ásum/
+Gól/ of/aa ásum/
 Gullinkambi/ ,/p
 sá/ vekr/ hölða/
 at/ Herjaföðrs/ ;/p
@@ -456,7 +456,7 @@ römm/ sigtíva/ ./p
 
 45/
 Bræðr/ munu/ berjask/
-ok/ at/ bönum/ verðask/ ,/p
+ok/cc at/ bönum/ verðask/ ,/p
 munu/ systrungar/
 sifjum/ spilla/ ;/p
 hart/ er/ í/ heimi/ ,/p
@@ -474,7 +474,7 @@ en/ mjötuðr/ kyndisk/
 at/ inu/ galla/
 Gjallarhorni/ ;/p
 hátt/ blæss/ Heimdallr/ ,/p
-horn/ er/ á/ lofti/ ,/p
+horn/ er/ á/aþ lofti/ ,/p
 mælir/ Óðinn/
 við/ Míms/ höfuð/ ./p
 
@@ -484,19 +484,19 @@ askr/ standandi/ ,/p
 ymr/ it/ aldna/ tré/ ,/p
 en/ jötunn/ losnar/ ;/p
 hræðask/ allir/
-á/ helvegum/
-áðr/ Surtar/ þann/
-sefi/ of/ gleypir/ ./p
+á/aþ helvegum/
+áðr/ Surtar/ þann/fakeo
+sefi/ of/aa gleypir/ ./p
 
 48/
 Hvat/ er/ með/ ásum/ ?/p
 Hvat/ er/ með/ alfum/ ?/p
 Gnýr/ allr/ Jötunheimr/ ,/p
-æsir/ ro/ á/ þingi/ ,/p
+æsir/ ro/ á/aþ þingi/ ,/p
 stynja/ dvergar/
 fyr/ steindurum/ ,/p
 veggbergs/ vísir/ ./p
-Vituð/ ér/ enn/ -/p eða/ hvat/ ?/p
+Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 
 49/
 Geyr/ nú/ Garmr/ mjök/
@@ -521,7 +521,7 @@ Naglfar/ losnar/ ./p
 51/
 Kjóll/ ferr/ austan/ ,/p
 koma/ munu/ Múspells/
-of/ lög/ lýðir/ ,/p
+of/aa lög/ lýðir/ ,/p
 en/ Loki/ stýrir/ ;/p
 fara/ fíflmegir/
 með/ freka/ allir/ ,/p
@@ -579,7 +579,7 @@ munu/ halir/ allir/
 heimstöð/ ryðja/ ;/p
 gengr/ fet/ níu/
 Fjörgynjar/ burr/
-neppr/ frá/ naðri/
+neppr/ frá/aþ naðri/
 níðs/ ókvíðnum/ ./p
 
 57/
@@ -588,7 +588,7 @@ sígr/ fold/ í/ mar/ ,/p
 hverfa/ af/ himni/
 heiðar/ stjörnur/ ;/p
 geisar/ eimi/
-ok/ aldrnari/ ,/p
+ok/cc aldrnari/ ,/p
 leikr/ hár/ hiti/
 við/ himin/ sjalfan/ ./p
 
@@ -609,17 +609,17 @@ jörð/ ór/ ægi/
 iðjagræna/ ;/p
 falla/ forsar/ ,/p
 flýgr/ örn/ yfir/ ,/p
-sá/ er/ á/ fjalli/
+sá/ er/ á/aþ fjalli/
 fiska/ veiðir/ ./p
 
 60/
 Finnask/ æsir/
-á/ Iðavelli/
-ok/ um/ moldþinur/
+á/aþ Iðavelli/
+ok/cc um/ moldþinur/
 máttkan/ dæma/
-ok/ minnask/ þar/
+ok/cc minnask/ þar/
 á/ megindóma/
-ok/ á/ Fimbultýs/
+ok/cc á/ Fimbultýs/
 fornar/ rúnir/ ./p
 
 61/
@@ -635,27 +635,27 @@ Munu/ ósánir/
 akrar/ vaxa/ ,/p
 böls/ mun/ alls/ batna/ ,/p
 Baldr/ mun/ koma/ ;/p
-búa/ þeir/ Höðr/ ok/ Baldr/
+búa/ þeir/ Höðr/ ok/cc Baldr/
 Hrofts/ sigtoftir/ ,/p
 vé/ valtíva/ ./p
-Vituð/ ér/ enn/ -/p eða/ hvat/ ?/p
+Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 
 63/
 Þá/ kná/ Hænir/
 hlautvið/ kjósa/
-ok/ burir/ byggja/
+ok/cc burir/ byggja/
 bræðra/ tveggja/
 vindheim/ víðan/ ./p
-Vituð/ ér/ enn/ -/p eða/ hvat/ ?/p
+Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 
 64/
-Sal/ sér/ hon/ standa/
-sólu/ fegra/ ,/p
+Sal/nkeo sá/sfg3eþ hon/fpven standa/sng
+sólu/nveþ fegra/ ,/p
 gulli/ þakðan/
-á/ Gimléi/ ;/p
+á/aþ Gimléi/ ;/p
 þar/ skulu/ dyggvar/
 dróttir/ byggja/
-ok/ um/ aldrdaga/
+ok/cc um/ aldrdaga/
 ynðis/ njóta/ ./p
 
 65/
