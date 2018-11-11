@@ -2,6 +2,10 @@
 
 import re
 
+import os
+
+from nltk.corpus import PlaintextCorpusReader
+
 __author__ = ["Clément Besnier <clemsciences@aol.com>", ]
 __license__ = "MIT License"
 
@@ -14,3 +18,11 @@ def remove_punctuations(text):
     res = re.sub("x", "ks", res)
     res = re.sub(r" +", " ", res)
     return res
+
+
+if __name__ == "__main__":
+    # pos_annotated_text = PoeticEddaPOSTaggedReader("Völuspá")
+    text = PlaintextCorpusReader(os.path.join(poetic_edda, "Völuspá", "txt_files", "pos"),
+                                    "pos_tagged.txt")
+    # print(pos_annotated_text.tagged_words()[:50])
+    print(text.raw()[:50])
