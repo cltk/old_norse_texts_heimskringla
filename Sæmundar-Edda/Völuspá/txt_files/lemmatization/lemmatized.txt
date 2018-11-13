@@ -383,26 +383,26 @@ bjórsalr/bjórsalr jötuns/jötunn ,/,
 en/en sá/sá Brimir/Brimir heitir/heita ./.
 
 38/
-Sal/ sá/ hon/hon standa/standa
+Sal/salr sá/ hon/hon standa/standa
 sólu/sól fjarri/
 Náströndu/ á/á ,/,
-norðr/ horfa/ dyrr/ ;/;
+norðr/norðr horfa/ dyrr/ ;/;
 falla/ eitrdropar/
-inn/ um/ ljóra/ ,/,
-sá/ er/ undinn/ salr/
+inn/inn um/um ljóra/ ,/,
+sá/sá er/vera undinn/ salr/salr
 orma/ hryggjum/ ./.
 
 39/
-Sá/ hon/hon þar/ vaða/
-þunga/ strauma/
-menn/ meinsvara/
-ok/ok morðvarga/
-ok/ok þann/ er/ annars/ glepr/
-eyrarúnu/ ;/;
-þar/þar saug/ Niðhöggr/
-nái/ framgengna/ ,/,
-sleit/ vargr/ vera/ ./.
-Vituð/ ér/ enn/ -/- eða/eða hvat/ ?/?
+Sá/sá hon/hon þar/þar vaða/vaða
+þunga/þungr strauma/straumr
+menn/maðr meinsvara/meinsvari
+ok/ok morðvarga/morðvargr
+ok/ok þann/sá er/er annars/annarr glepr/glepja
+eyrarúnu/eyrarúna ;/;
+þar/þar saug/súga Niðhöggr/Niðhöggr
+nái/nár framgengna/framgenginn ,/,
+sleit/slíta vargr/vargr vera/verr ./.
+Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hverr ?/?
 
 40/
 Austr/ sat/ in/in aldna/
@@ -422,7 +422,7 @@ rauðum/ dreyra/ ;/;
 svört/ verða/ sólskin/
 um/ sumur/ eftir/ ,/,
 veðr/ öll/ válynd/ ./.
-Vituð/ ér/ enn/ -/- eða/ hvat/ ?/?
+Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hverr ?/?
 
 42/
 Sat/ þar/ á/ haugi/
@@ -496,7 +496,7 @@ Gnýr/ allr/ Jötunheimr/ ,/,
 stynja/ dvergar/
 fyr/ steindurum/ ,/,
 veggbergs/ vísir/ ./.
-Vituð/ ér/ enn/ -/- eða/ hvat/ ?/?
+Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hverr ?/?
 
 49/
 Geyr/ nú/ Garmr/ mjök/
@@ -646,7 +646,7 @@ hlautvið/ kjósa/
 ok/ok burir/ byggja/
 bræðra/ tveggja/
 vindheim/ víðan/ ./.
-Vituð/vita ér/ enn/enn -/- eða/eða hvat/hvat ?/?
+Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hverr ?/?
 
 64/
 Sal/sal sér/ hon/hon standa/standa
