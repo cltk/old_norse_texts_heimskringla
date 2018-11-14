@@ -383,14 +383,14 @@ bjórsalr/bjórsalr jötuns/jötunn ,/,
 en/en sá/sá Brimir/Brimir heitir/heita ./.
 
 38/
-Sal/salr sá/ hon/hon standa/standa
-sólu/sól fjarri/
-Náströndu/ á/á ,/,
-norðr/norðr horfa/ dyrr/ ;/;
-falla/ eitrdropar/
-inn/inn um/um ljóra/ ,/,
-sá/sá er/vera undinn/ salr/salr
-orma/ hryggjum/ ./.
+Sal/salr sá/sjá hon/hon standa/standa
+sólu/sól fjarri/fjarri
+Náströndu/Náströnd á/á ,/,
+norðr/norðr horfa/horfa dyrr/dyrr ;/;
+falla/falla eitrdropar/eitrdropi
+inn/inn um/um ljóra/ljóra ,/,
+sá/sá er/vera undinn/vinda salr/salr
+orma/ormr hryggjum/hryggr ./.
 
 39/
 Sá/sá hon/hon þar/þar vaða/vaða
@@ -405,11 +405,11 @@ sleit/slíta vargr/vargr vera/verr ./.
 Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hverr ?/?
 
 40/
-Austr/ sat/ in/in aldna/
-í/í Járnviði/
-ok/ok fæddi/ þar/
+Austr/austr sat/sitja in/in aldna/
+í/í Járnviði/Járnviðr
+ok/ok fæddi/ þar/þar
 Fenris/ kindir/ ;/;
-verðr/ af/ þeim/ öllum/
+verðr/ af/af þeim/ öllum/allr
 einna/ nokkurr/
 tungls/ tjúgari/
 í/í trölls/ hami/ ./.

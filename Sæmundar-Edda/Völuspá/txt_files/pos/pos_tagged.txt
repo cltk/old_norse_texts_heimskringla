@@ -385,12 +385,12 @@ en/aa sá/faken Brimir/nkenm heitir/sfg3en ./p
 38/
 Sal/nkeo sá/sfg3eþ hon/fpven standa/sng
 sólu/nveþ fjarri/aa
-Náströndu/ á/aþ ,/p
-norðr/nken horfa/sgn dyrr/ ;/p
-falla/ eitrdropar/
-inn/ um/ ljóra/ ,/p
-sá/ er/ undinn/ salr/nken
-orma/ hryggjum/ ./p
+Náströndu/nveö á/aþ ,/p
+norðr/nken horfa/sgn dyrr/nvfn ;/p
+falla/sfg3fn eitrdropar/nkfn
+inn/gken um/aþ ljóra/nkeþ ,/p
+sá/faken er/sfg3en undinn/sþgken salr/nken
+orma/nkfe hryggjum/nkfþ ./p
 
 39/
 Sá/sfg3eþ hon/fpven þar/aa vaða/sng
@@ -405,14 +405,14 @@ sleit/sfg3eþ vargr/nken vera/nkeo ./p
 Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 
 40/
-Austr/ sat/ in/ aldna/
-í/ Járnviði/
+Austr/nken sat/sfg3eþ in/aa aldna/
+í/aþ Járnviði/nkeþö
 ok/cc fæddi/ þar/
 Fenris/ kindir/ ;/p
-verðr/ af/ þeim/ öllum/
+verðr/ af/aþ þeim/ öllum/
 einna/ nokkurr/
 tungls/ tjúgari/
-í/ trölls/ hami/ ./p
+í/aþ trölls/ hami/ ./p
 
 41/
 Fyllisk/ fjörvi/
