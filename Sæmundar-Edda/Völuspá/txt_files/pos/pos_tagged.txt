@@ -263,7 +263,7 @@ eða/cc ætt/nven jötuns/nkee
 Óðs/nkeem mey/nveo gefna/sþveo ./p
 
 26/
-Þórr/nkenm einn/lkrnsf þar/aa vá/sfg3eþ
+Þórr/nkenm einn/tfen þar/aa vá/sfg3eþ
 þrunginn/sþken móði/lkeþsf ,/p
 -/p hann/fpken sjaldan/aa sitr/sfg3en -/p
 er/ct hann/fpken slíkt/aa of/aa fregn/nken -/p :/p
@@ -405,14 +405,14 @@ sleit/sfg3eþ vargr/nken vera/nkeo ./p
 Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 
 40/
-Austr/nken sat/sfg3eþ in/aa aldna/
+Austr/nken sat/sfg3eþ in/gven aldna/lvensf
 í/aþ Járnviði/nkeþö
-ok/cc fæddi/ þar/
-Fenris/ kindir/ ;/p
-verðr/ af/aþ þeim/ öllum/
-einna/ nokkurr/
-tungls/ tjúgari/
-í/aþ trölls/ hami/ ./p
+ok/cc fæddi/sfg3eþ þar/aa
+Fenris/nkeem kindir/nvfo ;/p
+verðr/sþken af/aþ þeim/fp3fþ öllum/lkfþsf
+einna/tfkfe nokkurr/foken
+tungls/nhee tjúgari/nken
+í/aþ trölls/nkee hami/nkeþ ./p
 
 41/
 Fyllisk/ fjörvi/
@@ -430,26 +430,26 @@ ok/cc sló/ hörpu/
 gýgjar/ hirðir/ ,/p
 glaðr/ Eggþér/ ;/p
 gól/ of/aa hánum/
-í/ galgviði/
+í/aþ galgviði/
 fagrrauðr/ hani/ ,/p
-sá/ er/ Fjalarr/ heitir/ ./p
+sá/ er/cc Fjalarr/ heitir/sfg3en ./p
 
 43/
 Gól/ of/aa ásum/
 Gullinkambi/ ,/p
 sá/ vekr/ hölða/
-at/ Herjaföðrs/ ;/p
+at/ct Herjaföðrs/ ;/p
 en/ annarr/ gelr/
-fyr/ jörð/ neðan/
+fyr/ jörð/ neðan/aa
 sótrauðr/ hani/
-at/ sölum/ Heljar/ ./p
+at/ct sölum/ Heljar/ ./p
 
 44/
 Geyr/ nú/ Garmr/ mjök/
 fyr/ Gnipahelli/ ,/p
 festr/ mun/ slitna/ ,/p
 en/ freki/ renna/ ;/p
-fjölð/ veit/ ek/ fræða/ ,/p
+fjölð/ veit/ ek/fp1en fræða/ ,/p
 fram/ sé/ ek/ lengra/
 um/ ragna/ rök/
 römm/ sigtíva/ ./p
@@ -459,7 +459,7 @@ Bræðr/ munu/ berjask/
 ok/cc at/ bönum/ verðask/ ,/p
 munu/ systrungar/
 sifjum/ spilla/ ;/p
-hart/ er/ í/ heimi/ ,/p
+hart/ er/ í/aþ heimi/ ,/p
 hórdómr/ mikill/ ,/p
 skeggöld/ ,/p skalmöld/ ,/p
 skildir/ ro/ klofnir/ ,/p
@@ -470,31 +470,31 @@ mun/ engi/ maðr/
 
 46/
 Leika/ Míms/ synir/ ,/p
-en/ mjötuðr/ kyndisk/
-at/ inu/ galla/
+en/cc mjötuðr/ kyndisk/
+at/ct inu/ galla/
 Gjallarhorni/ ;/p
 hátt/ blæss/ Heimdallr/ ,/p
 horn/ er/ á/aþ lofti/ ,/p
-mælir/ Óðinn/
-við/ Míms/ höfuð/ ./p
+mælir/ Óðinn/nkenm
+við/ae Míms/ höfuð/ ./p
 
 47/
 Skelfr/ Yggdrasils/
 askr/ standandi/ ,/p
 ymr/ it/ aldna/ tré/ ,/p
-en/ jötunn/ losnar/ ;/p
+en/cc jötunn/ losnar/ ;/p
 hræðask/ allir/
 á/aþ helvegum/
 áðr/ Surtar/ þann/fakeo
 sefi/ of/aa gleypir/ ./p
 
 48/
-Hvat/ er/ með/ ásum/ ?/p
-Hvat/ er/ með/ alfum/ ?/p
+Hvat/ er/ með/aþ ásum/ ?/p
+Hvat/ er/ með/aþ alfum/ ?/p
 Gnýr/ allr/ Jötunheimr/ ,/p
 æsir/ ro/ á/aþ þingi/ ,/p
 stynja/ dvergar/
-fyr/ steindurum/ ,/p
+fyr/aþ steindurum/ ,/p
 veggbergs/ vísir/ ./p
 Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 

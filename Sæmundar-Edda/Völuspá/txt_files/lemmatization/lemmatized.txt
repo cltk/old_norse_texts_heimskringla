@@ -405,14 +405,14 @@ sleit/slíta vargr/vargr vera/verr ./.
 Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hverr ?/?
 
 40/
-Austr/austr sat/sitja in/in aldna/
+Austr/austr sat/sitja in/in aldna/aldinn
 í/í Járnviði/Járnviðr
 ok/ok fæddi/ þar/þar
-Fenris/ kindir/ ;/;
-verðr/ af/af þeim/ öllum/allr
-einna/ nokkurr/
-tungls/ tjúgari/
-í/í trölls/ hami/ ./.
+Fenris/Fenrir kindir/kind ;/;
+verðr/verða af/af þeim/ öllum/allr
+einna/einn nokkurr/nökkurr
+tungls/tungl tjúgari/tjúgari
+í/í trölls/trölls hami/hamr ./.
 
 41/
 Fyllisk/ fjörvi/
