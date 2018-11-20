@@ -415,13 +415,13 @@ tungls/tungl tjúgari/tjúgari
 í/í trölls/trölls hami/hamr ./.
 
 41/
-Fyllisk/ fjörvi/
-feigra/ manna/ ,/,
-rýðr/ ragna/ sjöt/
-rauðum/ dreyra/ ;/;
-svört/ verða/ sólskin/
-um/ sumur/ eftir/ ,/,
-veðr/ öll/ válynd/ ./.
+Fyllisk/fylla fjörvi/fjör
+feigra/feigr manna/maðr ,/,
+rýðr/rjóða ragna/regin sjöt/sjöt
+rauðum/rauðr dreyra/dreyra ;/;
+svört/svartr verða/verða sólskin/sólskin
+um/um sumur/sumur eftir/eftir ,/,
+veðr/veðr öll/allr válynd/vályndr ./.
 Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hverr ?/?
 
 42/
