@@ -425,24 +425,24 @@ veðr/veðr öll/allr válynd/vályndr ./.
 Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hverr ?/?
 
 42/
-Sat/ þar/ á/ haugi/
-ok/ sló/ hörpu/
-gýgjar/ hirðir/ ,/,
-glaðr/ Eggþér/ ;/;
-gól/ of/ hánum/
-í/ galgviði/
-fagrrauðr/ hani/ ,/,
-sá/ er/ Fjalarr/ heitir/ ./.
+Sat/sitja þar/þar á/á haugi/haugr
+ok/ok sló/slá hörpu/harpa
+gýgjar/gýgr hirðir/hirðir ,/,
+glaðr/glaðr Eggþér/Eggþér ;/;
+gól/gala of/of hánum/hann
+í/í gaglviði/galgviðr
+fagrrauðr/fagrrauðr hani/hani ,/,
+sá/sá er/er Fjalarr/Fjalarr heitir/heita ./.
 
 43/
-Gól/ of/ ásum/
-Gullinkambi/ ,/,
-sá/ vekr/ hölða/
-at/ Herjaföðrs/ ;/;
-en/ annarr/ gelr/
-fyr/ jörð/ neðan/
-sótrauðr/ hani/
-at/ sölum/ Heljar/ ./.
+Gól/gala of/of ásum/áss
+Gullinkambi/Gullinkambr ,/,
+sá/sá vekr/vekja hölða/höldr
+at/at Herjaföðrs/Herjaföðr ;/;
+en/en annarr/annarr gelr/gala
+fyr/fyr jörð/jörð neðan/neðan
+sótrauðr/sótrauðr hani/hani
+at/at sölum/sala Heljar/Hel ./.
 
 44/
 Geyr/ nú/ Garmr/ mjök/

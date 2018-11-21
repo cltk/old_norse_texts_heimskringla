@@ -425,24 +425,24 @@ veðr/nhen öll/lhensf válynd/lhen./p
 Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 
 42/
-Sat/ þar/ á/aþ haugi/
-ok/cc sló/ hörpu/
-gýgjar/ hirðir/ ,/p
-glaðr/ Eggþér/ ;/p
-gól/ of/aa hánum/
-í/aþ galgviði/
-fagrrauðr/ hani/ ,/p
-sá/ er/cc Fjalarr/ heitir/sfg3en ./p
+Sat/sfg3eþ þar/aa á/aþ haugi/nkeþ
+ok/cc sló/sfg3e hörpu/nveo
+gýgjar/nvee hirðir/nken ,/p
+glaðr/lkensf Eggþér/nkenm ;/p
+gól/sfg3eþ of/aþ hánum/fpkeþ
+í/aþ gaglviði/nkeþ
+fagrrauðr/lkensf hani/nken ,/p
+sá/faken er/cc Fjalarr/nkenm heitir/sfg3en ./p
 
 43/
-Gól/ of/aa ásum/
-Gullinkambi/ ,/p
-sá/ vekr/ hölða/
-at/ct Herjaföðrs/ ;/p
-en/ annarr/ gelr/
-fyr/ jörð/ neðan/aa
-sótrauðr/ hani/
-at/ct sölum/ Heljar/ ./p
+Gól/sfg3eþ of/aa ásum/nkfþ
+Gullinkambi/nkeþm ,/p
+sá/faken vekr/sfg3en hölða/nkfo
+at/ct Herjaföðrs/nkeem ;/p
+en/cc annarr/lkensf gelr/sfg3en
+fyr/ao jörð/nveo neðan/aa
+sótrauðr/lkensf hani/nken
+at/ct sölum/nvfþ Heljar/nveem ./p
 
 44/
 Geyr/ nú/ Garmr/ mjök/
