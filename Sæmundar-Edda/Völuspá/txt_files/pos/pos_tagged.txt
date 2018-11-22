@@ -445,12 +445,12 @@ sótrauðr/lkensf hani/nken
 at/ct sölum/nvfþ Heljar/nveem ./p
 
 44/
-Geyr/ nú/ Garmr/ mjök/
-fyr/ Gnipahelli/ ,/p
-festr/ mun/ slitna/ ,/p
-en/ freki/ renna/ ;/p
-fjölð/ veit/ ek/fp1en fræða/ ,/p
-fram/ sé/ ek/ lengra/
+Geyr/nkenm nú/aa Garmr/nkenm mjök/aa
+fyr/aþ Gnipahelli/nkeþm ,/p
+festr/ mun/sfg3en slitna/ ,/p
+en/cc freki/ renna/ ;/p
+fjölð/ veit/sfg3en ek/fp1en fræða/ ,/p
+fram/ sé/ ek/fp1en lengra/
 um/ ragna/ rök/
 römm/ sigtíva/ ./p
 
