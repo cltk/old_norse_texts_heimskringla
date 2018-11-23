@@ -445,14 +445,14 @@ sótrauðr/lkensf hani/nken
 at/ct sölum/nvfþ Heljar/nveem ./p
 
 44/
-Geyr/nkenm nú/aa Garmr/nkenm mjök/aa
+Geyr/sfg3en nú/aa Garmr/nkenm mjök/aa
 fyr/aþ Gnipahelli/nkeþm ,/p
-festr/ mun/sfg3en slitna/ ,/p
-en/cc freki/ renna/ ;/p
-fjölð/ veit/sfg3en ek/fp1en fræða/ ,/p
-fram/ sé/ ek/fp1en lengra/
-um/ ragna/ rök/
-römm/ sigtíva/ ./p
+festr/nken mun/sfg3en slitna/sng ,/p
+en/cc freki/nken renna/sng ;/p
+fjölð/aa veit/sfg3en ek/fp1en fræða/nveo ,/p
+fram/aa sé/sfg1en ek/fp1en lengra/lhensm
+um/ao ragna/nhfe rök/nhfo
+römm/lhfosf sigtíva/nkfe ./p
 
 45/
 Bræðr/ munu/ berjask/
@@ -499,52 +499,52 @@ veggbergs/ vísir/ ./p
 Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 
 49/
-Geyr/ nú/ Garmr/ mjök/
+Geyr/ nú/aa Garmr/ mjök/aa
 fyr/ Gnipahelli/ ,/p
 festr/ mun/ slitna/
 en/ freki/ renna/ ;/p
-fjölð/ veit/ ek/ fræða/ ,/p
-fram/ sé/ ek/ lengra/
+fjölð/ veit/ ek/fp1en fræða/ ,/p
+fram/ sé/ ek/fp1en lengra/
 um/ ragna/ rök/
 römm/ sigtíva/ ./p
 
 50/
-Hrymr/ ekr/ austan/ ,/p
+Hrymr/ ekr/ austan/aa ,/p
 hefisk/ lind/ fyrir/ ,/p
 snýsk/ Jörmungandr/
-í/ jötunmóði/ ;/p
+í/aþ jötunmóði/ ;/p
 ormr/ knýr/ unnir/ ,/p
-en/ ari/ hlakkar/ ,/p
+en/cc ari/ hlakkar/ ,/p
 slítr/ nái/ niðfölr/ ,/p
 Naglfar/ losnar/ ./p
 
 51/
-Kjóll/ ferr/ austan/ ,/p
+Kjóll/ ferr/sfg3en austan/aa ,/p
 koma/ munu/ Múspells/
 of/aa lög/ lýðir/ ,/p
 en/ Loki/ stýrir/ ;/p
 fara/ fíflmegir/
-með/ freka/ allir/ ,/p
+með/a freka/ allir/ ,/p
 þeim/ er/ bróðir/
-Býleists/ í/ för/ ./p
+Býleists/ í/a för/ ./p
 
 52/
-Surtr/ ferr/ sunnan/
+Surtr/ ferr/sfg3en sunnan/
 með/ sviga/ lævi/ ,/p
 skínn/ af/ sverði/
 sól/ valtíva/ ;/p
 grjótbjörg/ gnata/ ,/p
 en/ gífr/ rata/ ,/p
 troða/ halir/ helveg/ ,/p
-en/ himinn/ klofnar/ ./p
+en/cc himinn/ klofnar/ ./p
 
 53/
-Þá/ kemr/ Hlínar/
+Þá/aa kemr/sfg3en Hlínar/
 harmr/ annarr/ fram/ ,/p
-er/ Óðinn/ ferr/
-við/ ulf/ vega/ ,/p
-en/ bani/ Belja/
-bjartr/ at/ Surti/ ;/p
+er/ct Óðinn/nkenm ferr/
+við/ao ulf/nkeo vega/ ,/p
+en/cc bani/ Belja/
+bjartr/ at/ct Surti/ ;/p
 þá/ mun/ Friggjar/
 falla/ angan/ ./p
 
@@ -553,27 +553,27 @@ Geyr/ nú/ Garmr/ mjök/
 fyr/ Gnipahelli/ ,/p
 festr/ mun/ slitna/ ,/p
 en/ freki/ renna/ ;/p
-fjölð/ veit/ ek/ fræða/ ,/p
-fram/ sé/ ek/ lengra/
+fjölð/ veit/ ek/fp1en fræða/ ,/p
+fram/ sé/ ek/fp1en lengra/
 um/ ragna/ rök/
 römm/ sigtíva/ ./p
 
 55/
-Þá/ kemr/ inn/ mikli/
-mögr/ Sigföður/ ,/p
+Þá/aa kemr/sfg3en inn/ mikli/
+mögr/ Sigföður/nkenm ,/p
 Víðarr/ ,/p vega/
 at/ valdýri/ ./p
-Lætr/ hann/ megi/ Hveðrungs/
+Lætr/ hann/fpken megi/ Hveðrungs/
 mundum/ standa/
 hjör/ til/ hjarta/ ,/p
-þá/ er/ hefnt/ föður/ ./p
+þá/aa er/ hefnt/ föður/ ./p
 
 56/
-Þá/ kemr/ inn/ mæri/
+Þá/aa kemr/sfg3en inn/ mæri/
 mögr/ Hlóðynjar/ ,/p
 gengr/ Óðins/ sonr/
 við/ orm/ vega/ ,/p
-drepr/ af/ móði/
+drepr/ af/ móði/nkeþ
 Miðgarðs/ véurr/ ,/p
 munu/ halir/ allir/
 heimstöð/ ryðja/ ;/p
@@ -584,7 +584,7 @@ níðs/ ókvíðnum/ ./p
 
 57/
 Sól/ tér/ sortna/ ,/p
-sígr/ fold/ í/ mar/ ,/p
+sígr/nken fold/ í/a mar/ ,/p
 hverfa/ af/ himni/
 heiðar/ stjörnur/ ;/p
 geisar/ eimi/
@@ -594,16 +594,16 @@ við/ himin/ sjalfan/ ./p
 
 58/
 Geyr/ nú/ Garmr/ mjök/
-fyr/ Gnipahelli/ ,/p
+fyr/ Gnipahelli/nkeþm ,/p
 festr/ mun/ slitna/
 en/ freki/ renna/ ;/p
-fjölð/ veit/ ek/ fræða/
-fram/ sé/ ek/ lengra/
+fjölð/ veit/ ek/fp1en fræða/
+fram/ sé/ ek/fp1en lengra/
 um/ ragna/ rök/
 römm/ sigtíva/ ./p
 
 59/
-Sér/ hon/ upp/ koma/
+Sér/ hon/fpven upp/ koma/
 öðru/ sinni/
 jörð/ ór/ ægi/
 iðjagræna/ ;/p
@@ -614,11 +614,11 @@ fiska/ veiðir/ ./p
 
 60/
 Finnask/ æsir/
-á/aþ Iðavelli/
+á/aþ Iðavelli/nkeþm
 ok/cc um/ moldþinur/
 máttkan/ dæma/
-ok/cc minnask/ þar/
-á/ megindóma/
+ok/cc minnask/ þar/aa
+á/a megindóma/
 ok/cc á/ Fimbultýs/
 fornar/ rúnir/ ./p
 
@@ -626,9 +626,9 @@ fornar/ rúnir/ ./p
 Þar/ munu/ eftir/
 undrsamligar/
 gullnar/ töflur/
-í/ grasi/ finnask/ ,/p
+í/aþ grasi/ finnask/ ,/p
 þærs/ í/ árdaga/
-áttar/ höfðu/ ./p
+áttar/ höfðu/sfg3fþ ./p
 
 62/
 Munu/ ósánir/
@@ -659,7 +659,7 @@ ok/cc um/ aldrdaga/
 ynðis/ njóta/ ./p
 
 65/
-Þá/ kemr/ inn/ ríki/
+Þá/aa kemr/sfg3en inn/ ríki/
 at/ regindómi/
 öflugr/ ofan/ ,/p
 sá/ er/ öllu/ ræðr/ ./p
