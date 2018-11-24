@@ -469,24 +469,24 @@ mun/ engi/ maðr/
 öðrum/ þyrma/ ./.
 
 46/
-Leika/ Míms/ synir/ ,/,
-en/ mjötuðr/ kyndisk/
-at/ inu/ galla/
+Leika/leika Míms/Mímir synir/synr ,/,
+en/en mjötuðr/ kyndisk/
+at/at inu/inn galla/
 Gjallarhorni/ ;/;
-hátt/ blæss/ Heimdallr/ ,/,
-horn/ er/ á/ lofti/ ,/,
-mælir/ Óðinn/
-við/ Míms/ höfuð/ ./.
+hátt/ blæss/ Heimdallr/Heimdallr ,/,
+horn/ er/ á/á lofti/ ,/,
+mælir/mæla Óðinn/Óðinn
+við/við Míms/Mímir höfuð/höfuð ./.
 
 47/
-Skelfr/ Yggdrasils/
-askr/ standandi/ ,/,
-ymr/ it/ aldna/ tré/ ,/,
-en/ jötunn/ losnar/ ;/;
-hræðask/ allir/
-á/ helvegum/
-áðr/ Surtar/ þann/
-sefi/ of/ gleypir/ ./.
+Skelfr/skjálfa Yggdrasils/Yggdrasill
+askr/askr standandi/standa ,/,
+ymr/ymr it/inn aldna/aldinn tré/tré ,/,
+en/cc jötunn/jötunn losnar/losna ;/;
+hræðask/hræða allir/allr
+á/á helvegum/helvegr
+áðr/áðr Surtar/Surtr þann/þann
+sefi/sefi of/of gleypir/gleypa ./.
 
 48/
 Hvat/ er/ með/ ásum/ ?/?
