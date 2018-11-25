@@ -489,13 +489,13 @@ hræðask/sfm3en allir/lkfnsf
 sefi/nken of/aa gleypir/sfg3en ./p
 
 48/
-Hvat/ er/ með/aþ ásum/ ?/p
-Hvat/ er/ með/aþ alfum/ ?/p
-Gnýr/ allr/ Jötunheimr/ ,/p
-æsir/ ro/ á/aþ þingi/ ,/p
-stynja/ dvergar/
-fyr/aþ steindurum/ ,/p
-veggbergs/ vísir/ ./p
+Hvat/fps er/sfg3en með/aþ ásum/nkfþ ?/p
+Hvat/fps er/sfg3en með/aþ álfum/nkfþ ?/p
+Gnýr/sfg3en allr/lkensf Jötunheimr/nkenm ,/p
+æsir/nkfn ro/ á/aþ þingi/nheþ ,/p
+stynja/sfg3fn dvergar/nkfn
+fyr/aþ steindurum/nvfþ ,/p
+veggbergs/nhee vísir/nkfn ./p
 Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 
 49/

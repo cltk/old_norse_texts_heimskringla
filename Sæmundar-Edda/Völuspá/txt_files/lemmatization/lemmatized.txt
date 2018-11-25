@@ -489,13 +489,13 @@ hræðask/hræða allir/allr
 sefi/sefi of/of gleypir/gleypa ./.
 
 48/
-Hvat/ er/ með/ ásum/ ?/?
-Hvat/ er/ með/ alfum/ ?/?
-Gnýr/ allr/ Jötunheimr/ ,/,
-æsir/ ro/ á/ þingi/ ,/,
-stynja/ dvergar/
-fyr/ steindurum/ ,/,
-veggbergs/ vísir/ ./.
+Hvat/hvat er/vera með/með ásum/áss ?/?
+Hvat/hvat er/vera með/með álfum/álfr ?/?
+Gnýr/gnýja allr/allr Jötunheimr/Jötunheimr ,/,
+æsir/áss ro/ á/á þingi/þingi ,/,
+stynja/stynja dvergar/dvergr
+fyr/fyr steindurum/steindyrr ,/,
+veggbergs/veggberg vísir/vísi ./.
 Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hverr ?/?
 
 49/
