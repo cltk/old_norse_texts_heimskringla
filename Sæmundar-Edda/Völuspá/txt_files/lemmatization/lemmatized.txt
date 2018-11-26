@@ -455,26 +455,26 @@ um/um ragna/regin rök/rökr
 römm/ramr sigtíva/sigtívamr ./.
 
 45/
-Bræðr/ munu/ berjask/
-ok/ at/ bönum/ verðask/ ,/,
-munu/ systrungar/
-sifjum/ spilla/ ;/;
-hart/ er/ í/ heimi/ ,/,
-hórdómr/ mikill/ ,/,
-skeggöld/ ,/, skalmöld/ ,/,
-skildir/ ro/ klofnir/ ,/,
-vindöld/ ,/, vargöld/ ,/,
-áðr/ veröld/ steypisk/ ;/;
-mun/ engi/ maðr/
-öðrum/ þyrma/ ./.
+Bræðr/bróðir munu/munu berjask/berja
+ok/ok at/at bönum/bani verðask/verða ,/,
+munu/munu systrungar/systrungr
+sifjum/sifjar spilla/spilla ;/;
+hart/harðr er/vera í/í heimi/heimr ,/,
+hórdómr/hórdómr mikill/mikill ,/,
+skeggöld/skeggöld ,/, skalmöld/skalmöld ,/,
+skildir/skjöldr ro/vera klofnir/kljúfa ,/,
+vindöld/vindöld ,/, vargöld/vargöld ,/,
+áðr/áðr veröld/veröld steypisk/steypa ;/;
+mun/munu engi/ maðr/maðr
+öðrum/annarr þyrma/þyrma ./.
 
 46/
-Leika/leika Míms/Mímir synir/synr ,/,
-en/en mjötuðr/ kyndisk/
-at/at inu/inn galla/
-Gjallarhorni/ ;/;
-hátt/ blæss/ Heimdallr/Heimdallr ,/,
-horn/ er/ á/á lofti/ ,/,
+Leika/leika Míms/Mímir synir/sonr ,/,
+en/en mjötuðr/mjötuðr kyndisk/kynda
+at/at inu/inn galla/galli
+Gjallarhorni/Gjallarhorn ;/;
+hátt/hár blæss/blása Heimdallr/Heimdallr ,/,
+horn/horn er/vera á/á lofti/loft ,/,
 mælir/mæla Óðinn/Óðinn
 við/við Míms/Mímir höfuð/höfuð ./.
 
@@ -499,14 +499,14 @@ veggbergs/veggberg vísir/vísi ./.
 Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hverr ?/?
 
 49/
-Geyr/ nú/ Garmr/ mjök/
-fyr/ Gnipahelli/ ,/,
-festr/ mun/ slitna/
-en/ freki/ renna/ ;/;
-fjölð/ veit/ ek/ fræða/ ,/,
-fram/ sé/ ek/ lengra/
-um/ ragna/ rök/
-römm/ sigtíva/ ./.
+Geyr/geyja nú/nú Garmr/Garmr mjök/mjök
+fyr/fyr Gnipahelli/Gnipahellir ,/,
+festr/festr mun/munu slitna/slitna ,/,
+en/en freki/freki renna/renna ;/;
+fjölð/fjölð veit/vita ek/ek frœða/frœði ,/,
+fram/fram sé/sé ek/ek lengra/lengi
+um/um ragna/regin rök/rökr
+römm/ramr sigtíva/sigtívamr ./.
 
 50/
 Hrymr/ ekr/ austan/ ,/,
@@ -549,14 +549,14 @@ bjartr/ at/ Surti/ ;/;
 falla/ angan/ ./.
 
 54/
-Geyr/Geyr nú/nú Garmr/Garmr mjök/mjök
-fyr/fyr Gnipahelli/ ,/,
-festr/festr mun/munu slitna/ ,/,
-en/ freki/ renna/ ;/;
-fjölð/ veit/ ek/ fræða/ ,/,
-fram/fram sé/ ekek/ lengra/
-um/um ragna/ rök/
-römm/ sigtíva/ ./.
+Geyr/geyja nú/nú Garmr/Garmr mjök/mjök
+fyr/fyr Gnipahelli/Gnipahellir ,/,
+festr/festr mun/munu slitna/slitna ,/,
+en/en freki/freki renna/renna ;/;
+fjölð/fjölð veit/vita ek/ek frœða/frœði ,/,
+fram/fram sé/sé ek/ek lengra/lengi
+um/um ragna/regin rök/rökr
+römm/ramr sigtíva/sigtívamr ./.
 
 55/
 Þá/ kemr/koma inn/inn mikli/
@@ -593,14 +593,14 @@ leikr/ hár/ hiti/
 við/ himin/ sjalfan/ ./.
 
 58/
-Geyr/Geyr nú/nú Garmr/Garmr mjök/mjök
-fyr/fyr Gnipahelli/ ,/,
-festr/ mun/munu slitna/
-en/en freki/ renna/ ;/;
-fjölð/ veit/vita ek/ek fræða/
-fram/ sé/ ek/ lengra/
-um/um ragna/ rök/
-römm/ sigtíva/ ./.
+Geyr/geyja nú/nú Garmr/Garmr mjök/mjök
+fyr/fyr Gnipahelli/Gnipahellir ,/,
+festr/festr mun/munu slitna/slitna ,/,
+en/en freki/freki renna/renna ;/;
+fjölð/fjölð veit/vita ek/ek frœða/frœði ,/,
+fram/fram sé/sé ek/ek lengra/lengi
+um/um ragna/regin rök/rökr
+römm/ramr sigtíva/sigtívamr ./.
 
 59/
 Sér/ hon/hon upp/upp koma/koma

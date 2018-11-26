@@ -455,26 +455,26 @@ um/ao ragna/nhfe rök/nhfo
 römm/lhfosf sigtíva/nkfe ./p
 
 45/
-Bræðr/ munu/ berjask/
-ok/cc at/ bönum/ verðask/ ,/p
-munu/ systrungar/
-sifjum/ spilla/ ;/p
-hart/ er/ í/aþ heimi/ ,/p
-hórdómr/ mikill/ ,/p
-skeggöld/ ,/p skalmöld/ ,/p
-skildir/ ro/ klofnir/ ,/p
-vindöld/ ,/p vargöld/ ,/p
-áðr/ veröld/ steypisk/ ;/p
-mun/ engi/ maðr/
-öðrum/ þyrma/ ./p
+Bræðr/nkfn munu/sfg3fn berjask/sfm3fn
+ok/cc at/ct bönum/nkfþ verðask/sfm3fn ,/p
+munu/sfg3fn systrungar/nkfn
+sifjum/nvfþ spilla/sng ;/p
+hart/lhensf er/sng3en í/aþ heimi/nkespilla ,/p
+hórdómr/nken mikill/lkensf ,/p
+skeggöld/nven ,/p skalmöld/nven ,/p
+skildir/nkfn ro/sfg3fn klofnir/sþkfn ,/p
+vindöld/nven ,/p vargöld/nven ,/p
+áðr/aa veröld/nven steypisk/snm3en ;/p
+mun/sfg3en engi/fohen maðr/nken
+öðrum/fokfþ þyrma/sng ./p
 
 46/
 Leika/sfg3fn Míms/nkeem synir/nkfn ,/p
-en/cc mjötuðr/ kyndisk/
-at/ct inu/gkeþ galla/
-Gjallarhorni/ ;/p
-hátt/ blæss/ Heimdallr/ ,/p
-horn/ er/ á/aþ lofti/ ,/p
+en/cc mjötuðr/nken kyndisk/sfm3en
+at/ct inu/gkeþ galla/nkeþ
+Gjallarhorni/nheþm ;/p
+hátt/lhensf blæss/sfg3en Heimdallr/nkenm ,/p
+horn/nhen er/sfg3en á/aþ lofti/nheþ ,/p
 mælir/sfg3eþ Óðinn/nkenm
 við/ao Míms/nkeem höfuð/nheo ./p
 
@@ -492,21 +492,21 @@ sefi/nken of/aa gleypir/sfg3en ./p
 Hvat/fps er/sfg3en með/aþ ásum/nkfþ ?/p
 Hvat/fps er/sfg3en með/aþ álfum/nkfþ ?/p
 Gnýr/sfg3en allr/lkensf Jötunheimr/nkenm ,/p
-æsir/nkfn ro/ á/aþ þingi/nheþ ,/p
+æsir/nkfn ro/sfg3fn á/aþ þingi/nheþ ,/p
 stynja/sfg3fn dvergar/nkfn
 fyr/aþ steindurum/nvfþ ,/p
 veggbergs/nhee vísir/nkfn ./p
 Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 
 49/
-Geyr/ nú/aa Garmr/ mjök/aa
-fyr/ Gnipahelli/ ,/p
-festr/ mun/ slitna/
-en/ freki/ renna/ ;/p
-fjölð/ veit/ ek/fp1en fræða/ ,/p
-fram/ sé/ ek/fp1en lengra/
-um/ ragna/ rök/
-römm/ sigtíva/ ./p
+Geyr/sfg3en nú/aa Garmr/nkenm mjök/aa
+fyr/aþ Gnipahelli/nkeþm ,/p
+festr/nken mun/sfg3en slitna/sng ,/p
+en/cc freki/nken renna/sng ;/p
+fjölð/aa veit/sfg3en ek/fp1en fræða/nveo ,/p
+fram/aa sé/sfg1en ek/fp1en lengra/lhensm
+um/ao ragna/nhfe rök/nhfo
+römm/lhfosf sigtíva/nkfe ./p
 
 50/
 Hrymr/ ekr/ austan/aa ,/p
@@ -549,14 +549,14 @@ bjartr/ at/ct Surti/ ;/p
 falla/ angan/ ./p
 
 54/
-Geyr/ nú/ Garmr/ mjök/
-fyr/ Gnipahelli/ ,/p
-festr/ mun/ slitna/ ,/p
-en/ freki/ renna/ ;/p
-fjölð/ veit/ ek/fp1en fræða/ ,/p
-fram/ sé/ ek/fp1en lengra/
-um/ ragna/ rök/
-römm/ sigtíva/ ./p
+Geyr/sfg3en nú/aa Garmr/nkenm mjök/aa
+fyr/aþ Gnipahelli/nkeþm ,/p
+festr/nken mun/sfg3en slitna/sng ,/p
+en/cc freki/nken renna/sng ;/p
+fjölð/aa veit/sfg3en ek/fp1en fræða/nveo ,/p
+fram/aa sé/sfg1en ek/fp1en lengra/lhensm
+um/ao ragna/nhfe rök/nhfo
+römm/lhfosf sigtíva/nkfe ./p
 
 55/
 Þá/aa kemr/sfg3en inn/ mikli/
@@ -593,14 +593,14 @@ leikr/ hár/ hiti/
 við/ himin/ sjalfan/ ./p
 
 58/
-Geyr/ nú/ Garmr/ mjök/
-fyr/ Gnipahelli/nkeþm ,/p
-festr/ mun/ slitna/
-en/ freki/ renna/ ;/p
-fjölð/ veit/ ek/fp1en fræða/
-fram/ sé/ ek/fp1en lengra/
-um/ ragna/ rök/
-römm/ sigtíva/ ./p
+Geyr/sfg3en nú/aa Garmr/nkenm mjök/aa
+fyr/aþ Gnipahelli/nkeþm ,/p
+festr/nken mun/sfg3en slitna/sng ,/p
+en/cc freki/nken renna/sng ;/p
+fjölð/aa veit/sfg3en ek/fp1en fræða/nveo ,/p
+fram/aa sé/sfg1en ek/fp1en lengra/lhensm
+um/ao ragna/nhfe rök/nhfo
+römm/lhfosf sigtíva/nkfe ./p
 
 59/
 Sér/ hon/fpven upp/ koma/
