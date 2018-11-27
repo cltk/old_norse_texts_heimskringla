@@ -509,27 +509,27 @@ um/ao ragna/nhfe rök/nhfo
 römm/lhfosf sigtíva/nkfe ./p
 
 50/
-Hrymr/ ekr/ austan/aa ,/p
-hefisk/ lind/ fyrir/ ,/p
-snýsk/ Jörmungandr/
-í/aþ jötunmóði/ ;/p
-ormr/ knýr/ unnir/ ,/p
-en/cc ari/ hlakkar/ ,/p
-slítr/ nái/ niðfölr/ ,/p
-Naglfar/ losnar/ ./p
+Hrymr/nkenm ekr/sfg3en austan/aa ,/p
+hefisk/sfm3en lind/nven fyrir/aa ,/p
+snýsk/sfg3en Jörmungandr/nkenm
+í/aþ jötunmóði/nkeþ ;/p
+ormr/nken knýr/sfg3en unnir/nvfn ,/p
+en/cc ari/nken hlakkar/sfg3en ,/p
+slítr/sfg3en nái/nkfo niðfölr/nkenm ,/p
+Naglfar/nhen losnar/sfg3en ./p
 
 51/
-Kjóll/ ferr/sfg3en austan/aa ,/p
-koma/ munu/ Múspells/
-of/aa lög/ lýðir/ ,/p
-en/ Loki/ stýrir/ ;/p
-fara/ fíflmegir/
-með/a freka/ allir/ ,/p
-þeim/ er/ bróðir/
-Býleists/ í/a för/ ./p
+Kjóll/nken ferr/sfg3en austan/aa ,/p
+koma/sng munu/sfg3en Múspells/nkeem
+of/aa lög/nkeo lýðir/nkfn ,/p
+en/cc Loki/nkenm stýrir/sfg3en ;/p
+fara/sfg3fn fíflmegir/nkfn
+með/ao freka/nkeþ allir/lkfnsf ,/p
+þeim/fpkfþ er/sfg3en bróðir/nken
+Býleists/nkeem í/ao för/nveo ./p
 
 52/
-Surtr/ ferr/sfg3en sunnan/
+Surtr/nkenm ferr/sfg3en sunnan/aa
 með/ sviga/ lævi/ ,/p
 skínn/ af/ sverði/
 sól/ valtíva/ ;/p
