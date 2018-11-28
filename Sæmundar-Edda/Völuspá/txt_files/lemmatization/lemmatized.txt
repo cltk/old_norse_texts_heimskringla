@@ -530,13 +530,13 @@ Býleists/Býleists í/í för/för ./.
 
 52/
 Surtr/Surtr ferr/fara sunnan/sunnan
-með/með sviga/ lævi/ ,/,
-skínn/ af/af sverði/
-sól/ valtíva/ ;/;
-grjótbjörg/ gnata/ ,/,
-en/en gífr/ rata/ ,/,
-troða/ halir/ helveg/ ,/,
-en/en himinn/ klofnar/ ./.
+með/með sviga/svigi lævi/læ ,/,
+skínn/skína af/af sverði/sverð
+sól/sól valtíva/valtivar ;/;
+grjótbjörg/grjótbjörg gnata/gnata ,/,
+en/en gífr/gífr rata/rata ,/,
+troða/troða halir/hali helveg/helvegr ,/,
+en/en himinn/himinn klofnar/klofna ./.
 
 53/
 Þá/ kemr/ Hlínar/
