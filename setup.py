@@ -11,7 +11,7 @@ setup(
     keywords=['nlp', 'old norse', "philology"],
     license='MIT',
     long_description='',
-    name='old_norse_texts_heimskringla',
+    name='eddas',
     packages=find_packages(),
     url='https://github.com/cltk/old_norse_texts_heimskringla',
     version='1.2.0',
