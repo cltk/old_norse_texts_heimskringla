@@ -539,14 +539,14 @@ troða/sfg3fn halir/nkfn helveg/nkeo ,/p
 en/cc himinn/nken klofnar/sfg3en ./p
 
 53/
-Þá/aa kemr/sfg3en Hlínar/
-harmr/ annarr/ fram/ ,/p
-er/ct Óðinn/nkenm ferr/
-við/ao ulf/nkeo vega/ ,/p
-en/cc bani/ Belja/
-bjartr/ at/ct Surti/ ;/p
-þá/ mun/ Friggjar/
-falla/ angan/ ./p
+Þá/aa kemr/sfg3en Hlínar/nveem
+harmr/nken annarr/lkensf fram/aa ,/p
+er/ct Óðinn/nkenm ferr/sfg3en
+við/ao ulf/nkeo vega/nkfo ,/p
+en/cc bani/nken Belja/nkeem
+bjartr/lkensf at/ct Surti/nkeþm ;/p
+þá/aa mun/sfg3en Friggjar/nveem
+falla/sng angan/nven ./p
 
 54/
 Geyr/sfg3en nú/aa Garmr/nkenm mjök/aa
