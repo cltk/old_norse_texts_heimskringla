@@ -577,10 +577,10 @@ drepr/drepa af/af móði/móðr
 Miðgarðs/Miðgarðr véurr/véurr ,/,
 munu/munu halir/halr allir/lkfnsf
 heimstöð/heimstöð ryðja/ryðja ;/;
-gengr/ fet/ níu/níu
+gengr/ganga fet/fet níu/níu
 Fjörgynjar/Fjörgyn burr/burr
 neppr/neppr frá/frá naðri/naðr
-níðs/ ókvíðnum/ ./.
+níðs/níð ókvíðnum/ókvíð ./.
 
 57/
 Sól/ tér/ sortna/ ,/,
