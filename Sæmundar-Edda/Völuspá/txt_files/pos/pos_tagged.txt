@@ -559,33 +559,33 @@ um/ao ragna/nhfe rök/nhfo
 römm/lhfosf sigtíva/nkfe ./p
 
 55/
-Þá/aa kemr/sfg3en inn/ mikli/
-mögr/ Sigföður/nkenm ,/p
-Víðarr/ ,/p vega/
-at/ valdýri/ ./p
-Lætr/ hann/fpken megi/ Hveðrungs/
-mundum/ standa/
-hjör/ til/ hjarta/ ,/p
-þá/aa er/ hefnt/ föður/ ./p
+Þá/aa kemr/sfg3en inn/gken mikli/lkenvf
+mögr/nken Sigföður/nkenm ,/p
+Víðarr/nkenm ,/p vega/sng
+at/ct valdýri/nheþ ./p
+Lætr/sfg3en hann/fpken megi/nkeþ Hveðrungs/nkeem
+mundum/nveþ standa/sng
+hjör/nkeo til/ae hjarta/nheo ,/p
+þá/aa er/sfg3en hefnt/sþhen föður/nken ./p
 
 56/
-Þá/aa kemr/sfg3en inn/ mæri/
-mögr/ Hlóðynjar/ ,/p
-gengr/ Óðins/ sonr/
-við/ orm/ vega/ ,/p
-drepr/ af/ móði/nkeþ
-Miðgarðs/ véurr/ ,/p
-munu/ halir/ allir/
-heimstöð/ ryðja/ ;/p
-gengr/ fet/ níu/
-Fjörgynjar/ burr/
-neppr/ frá/aþ naðri/
+Þá/aa kemr/sfg3en inn/gken mæri/lkenvf
+mögr/nken Hlóðynjar/nkeem ,/p
+gengr/sfg3en Óðins/nkeem sonr/nken
+við/ao orm/nkeo vega/sng ,/p
+drepr/sfg3en af/aþ móði/nkeþ
+Miðgarðs/nkeem véurr/nken ,/p
+munu/sfg3fn halir/nkfn allir/allr
+heimstöð/nveo ryðja/sng ;/p
+gengr/ fet/nhfn níu/f
+Fjörgynjar/nkeem burr/nken
+neppr/lkensf frá/aþ naðri/nke
 níðs/ ókvíðnum/ ./p
 
 57/
 Sól/ tér/ sortna/ ,/p
 sígr/nken fold/ í/a mar/ ,/p
-hverfa/ af/ himni/
+hverfa/ af/aþ himni/
 heiðar/ stjörnur/ ;/p
 geisar/ eimi/
 ok/cc aldrnari/ ,/p
@@ -605,7 +605,7 @@ römm/lhfosf sigtíva/nkfe ./p
 59/
 Sér/ hon/fpven upp/ koma/
 öðru/ sinni/
-jörð/ ór/ ægi/
+jörð/ ór/a ægi/
 iðjagræna/ ;/p
 falla/ forsar/ ,/p
 flýgr/ örn/ yfir/ ,/p
@@ -623,25 +623,25 @@ ok/cc á/ Fimbultýs/
 fornar/ rúnir/ ./p
 
 61/
-Þar/ munu/ eftir/
+Þar/aa munu/sfg3fn eftir/aa
 undrsamligar/
 gullnar/ töflur/
-í/aþ grasi/ finnask/ ,/p
+í/aþ grasi/nkeþ finnask/sfm3en ,/p
 þærs/ í/ árdaga/
 áttar/ höfðu/sfg3fþ ./p
 
 62/
-Munu/ ósánir/
+Munu/sfg3fn ósánir/
 akrar/ vaxa/ ,/p
-böls/ mun/ alls/ batna/ ,/p
-Baldr/ mun/ koma/ ;/p
-búa/ þeir/ Höðr/ ok/cc Baldr/
+böls/ mun/sfg3en alls/ batna/aa ,/p
+Baldr/ mun/sfg3en koma/aa ;/p
+búa/ þeir/fpkfn Höðr/nkenm ok/cc Baldr/nkenm
 Hrofts/ sigtoftir/ ,/p
 vé/ valtíva/ ./p
 Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 
 63/
-Þá/ kná/ Hænir/
+Þá/aa kná/ Hænir/
 hlautvið/ kjósa/
 ok/cc burir/ byggja/
 bræðra/ tveggja/
@@ -652,7 +652,7 @@ Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 Sal/nkeo sá/sfg3eþ hon/fpven standa/sng
 sólu/nveþ fegra/ ,/p
 gulli/ þakðan/
-á/aþ Gimléi/ ;/p
+á/aþ Gimléi/nkeþm ;/p
 þar/ skulu/ dyggvar/
 dróttir/ byggja/
 ok/cc um/ aldrdaga/
@@ -660,6 +660,6 @@ ynðis/ njóta/ ./p
 
 65/
 Þá/aa kemr/sfg3en inn/ ríki/
-at/ regindómi/
+at/ct regindómi/
 öflugr/ ofan/ ,/p
 sá/ er/ öllu/ ræðr/ ./p

@@ -559,27 +559,27 @@ um/um ragna/regin rök/rökr
 römm/ramr sigtíva/sigtívamr ./.
 
 55/
-Þá/ kemr/koma inn/inn mikli/
-mögr/ Sigföður/ ,/,
-Víðarr/ ,/, vega/
-at/ valdýri/ ./.
-Lætr/ hann/ megi/ Hveðrungs/
-mundum/ standa/
-hjör/ til/ hjarta/ ,/,
-þá/ er/ hefnt/ föður/ ./.
+Þá/þá kemr/koma inn/inn mikli/mikill
+mögr/mögr Sigföður/Sigföður ,/,
+Víðarr/Víðarr ,/, vega/vega
+at/at valdýri/valdýr ./.
+Lætr/láta hann/hann megi/mögr Hveðrungs/Hveðrungr
+mundum/mund standa/standa
+hjör/hjörr til/til hjarta/hjarta ,/,
+þá/þá er/vera hefnt/hefna föður/nken ./.
 
 56/
-Þá/ kemr/koma inn/inn mæri/
-mögr/ Hlóðynjar/ ,/,
-gengr/ Óðins/Óðinn sonr/
-við/ orm/ vega/ ,/,
-drepr/ af/af móði/
-Miðgarðs/ véurr/ ,/,
-munu/ halir/ allir/
-heimstöð/ ryðja/ ;/;
-gengr/ fet/ níu/
-Fjörgynjar/ burr/
-neppr/ frá/ naðri/
+Þá/þá kemr/koma inn/inn mæri/mærr
+mögr/mögr Hlóðynjar/Hlóðyn ,/,
+gengr/ganga Óðins/Óðinn sonr/sonr
+við/við orm/ormr vega/vega ,/,
+drepr/drepa af/af móði/móðr
+Miðgarðs/Miðgarðr véurr/véurr ,/,
+munu/munu halir/halr allir/lkfnsf
+heimstöð/heimstöð ryðja/ryðja ;/;
+gengr/ fet/ níu/níu
+Fjörgynjar/Fjörgyn burr/burr
+neppr/neppr frá/frá naðri/naðr
 níðs/ ókvíðnum/ ./.
 
 57/
@@ -641,7 +641,7 @@ vé/ valtíva/ ./.
 Vituð/vita ér/ enn/enn -/- eða/eða hvat/hvat ?/?
 
 63/
-Þá/ kná/ Hænir/
+Þá/þá kná/ Hænir/
 hlautvið/ kjósa/
 ok/ok burir/ byggja/
 bræðra/ tveggja/
