@@ -21,7 +21,7 @@ fyr/fyr mold/mold neðan/neðan ./.
 3/
 Ár/ár var/vera alda/öld ,/,
 þat/þat er/er ekki/ekki var/vera ,/,
-var/ -a/ sandr/sandr né/né sær/sær
+vara/vara sandr/sandr né/né sær/sær
 né/né svalar/svalr unnir/unnr ;/;
 jörð/jörð fannsk/finna æva/
 né/né upphiminn/upphiminn ,/,
@@ -30,7 +30,7 @@ en/en gras/gras hvergi/ ./,
 
 4/
 Áðr/áðr Burs/Burr synir/sonr
-bjöðum/ of/of yppðu/yppa ,/,
+bjöðum/bjöð of/of yppðu/yppa ,/,
 þeir/þeir er/er Miðgarð/Miðgarðr
 mæran/mæran skópu/skapa ;/;
 sól/sól skein/skína sunnan/sunnan
@@ -137,14 +137,14 @@ Aurvangr/Aurvangr ,/, Jari/Jari ,/,
 Eikinskjaldi/Eikinskjaldi ./.
 
 14/
-Mál/ er/vera dverga/dvergr
-í/í Dvalins/Dvalinn liði/
-ljóna/ kindum/kindr
-til/til Lofars/ telja/telja ,/,
+Mál/mál er/vera dverga/dvergr
+í/í Dvalins/Dvalinn liði/lið
+ljóna/ljónar kindum/kindr
+til/til Lofars/Lofarr telja/telja ,/,
 þeir/þeir er/er sóttu/sökja
-frá/frá salar/ steini/steinn
-Aurvanga/ sjöt/
-til/til Jöruvalla/ ./.
+frá/frá salar/salr steini/steinn
+Aurvanga/Aurvanga sjöt/sjöt
+til/til Jöruvalla/Jöruvalla ./.
 
 15/
 Þar/þar var/vera Draupnir/Draupnir
@@ -161,9 +161,9 @@ Alfr/Alfr ok/ok Yngvi/Yngvi ,/,
 Eikinskjaldi/Eikinskjaldi ,/,
 Fjalarr/Fjalarr ok/ok Frosti/Frosti ,/,
 Finnr/Finnr ok/ok Ginnarr/Ginnarr ;/;
-þat/þat mun/munu æ/ uppi/
-meðan/meðan öld/ lifir/ ,/,
-langniðja/ tal/
+þat/þat mun/munu æ/æ uppi/uppi
+meðan/meðan öld/öld lifir/lifa ,/,
+langniðja/langniðjar tal/tal
 Lofars/Lofar hafat/hafa ./.
 
 17/
@@ -246,21 +246,21 @@ gildi/ eiga/ ./.
 Fleygði/ Óðinn/Óðinn
 ok/ok í/í folk/folk of/of skaut/ ,/,
 þat/þat var/vera enn/en folkvíg/folkvígr
-fyrst/fyrst í/ heimi/ ;/;
+fyrst/fyrst í/í heimi/heimr ;/;
 brotinn/ var/vera borðveggr/borðveggr
-borgar/ ása/áss ,/,
-knáttu/ vanir/ vígspá/vígspá
-völlu/ sporna/ ./.
+borgar/borg ása/áss ,/,
+knáttu/kná vanir/ vígspá/vígspá
+völlu/ sporna/sporna ./.
 
 25/
 Þá/þá gengu/ganga regin/regin öll/allr
 á/á rökstóla/røkstólar ,/,
 ginnheilög/ginheilagr goð/goð ,/,
 ok/ok um/um þat/þat gættusk/gæta ;/;
-hverjir/ hefði/hafa loft/ allt/
-lævi/læ blandit/
-eða/eða ætt/ jötuns/jötunn
-Óðs/Óðr mey/ gefna/gefa ./.
+hverjir/ hefði/hafa loft/ allt/allr
+lævi/læ blandit/blanda
+eða/eða ætt/ætt jötuns/jötunn
+Óðs/Óðr mey/mær gefna/gefa ./.
 
 26/
 Þórr/Þórr einn/einn þar/þar vá/vega
@@ -482,7 +482,7 @@ við/við Míms/Mímir höfuð/höfuð ./.
 Skelfr/skjálfa Yggdrasils/Yggdrasill
 askr/askr standandi/standa ,/,
 ymr/ymr it/inn aldna/aldinn tré/tré ,/,
-en/cc jötunn/jötunn losnar/losna ;/;
+en/en jötunn/jötunn losnar/losna ;/;
 hræðask/hræða allir/allr
 á/á helvegum/helvegr
 áðr/áðr Surtar/Surtr þann/þann
@@ -492,7 +492,7 @@ sefi/sefi of/of gleypir/gleypa ./.
 Hvat/hvat er/vera með/með ásum/áss ?/?
 Hvat/hvat er/vera með/með álfum/álfr ?/?
 Gnýr/gnýja allr/allr Jötunheimr/Jötunheimr ,/,
-æsir/áss ro/ á/á þingi/þingi ,/,
+æsir/áss ro/vera á/á þingi/þingi ,/,
 stynja/stynja dvergar/dvergr
 fyr/fyr steindurum/steindyrr ,/,
 veggbergs/veggberg vísir/vísi ./.
