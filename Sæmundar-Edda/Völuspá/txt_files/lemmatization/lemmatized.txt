@@ -64,7 +64,7 @@ undorn/undorn ok/ok aftan/aptann ,/,
 
 7/
 Hittusk/hitta æsir/áss
-á/á Iðavelli/iða ,/,
+á/á Iðavelli/iðavöllr ,/,
 þeir/þeir er/er hörg/hörgr ok/ok hof/hof
 há/há timbruðu/timbra ;/;
 afla/afl lögðu/laga ,/,
@@ -614,13 +614,13 @@ fiska/fiskr veiðir/veiða ./.
 
 60/
 Finnask/finna æsir/áss
-á/á Iðavelli/Iðavellr
-ok/ok um/um moldþinur/
-máttkan/ dæma/
+á/á Iðavelli/Iðavöllr
+ok/ok um/um moldþinur/moldþinnur
+máttkan/máttigr dæma/dæma
 ok/ok minnask/minna þar/þar
-á/á megindóma/
-ok/pl á/á Fimbultýs/
-fornar/ rúnir/ ./.
+á/á megindóma/megindómar
+ok/ok á/á Fimbultýs/Fimbultýr
+fornar/forn rúnir/rúnar ./.
 
 61/
 Þar/ munu/munu eftir/eftir
