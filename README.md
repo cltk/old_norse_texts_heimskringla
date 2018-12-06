@@ -45,6 +45,8 @@ The tagset is available at http://nlp.cs.ru.is/pdf/Tagset.pdf
 
 God names are like person names.
 
+A POS tags reader is available. For a tag like 'sfg3eþ', it returns the correponding meaning, here it is 'verb indicative active third singular past'..
+
 Annotated texts:
 * Völuspá
 

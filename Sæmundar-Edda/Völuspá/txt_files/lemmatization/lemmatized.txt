@@ -624,11 +624,11 @@ fornar/forn rúnir/rúnar ./.
 
 61/
 Þar/ munu/munu eftir/eftir
-undrsamligar/
-gullnar/ töflur/
-í/í grasi/ finnask/finna ,/
-þærs/ í/í árdaga/
-áttar/ höfðu/hafa ./
+undrsamligar/undrsamligr
+gullnar/gullinn töflur/tafla
+í/í grasi/gras finnask/finna ,/
+þærs/sá+er í/í árdaga/árdagr
+áttar/átt höfðu/hafa ./
 
 62/
 Munu/munu ósánir/

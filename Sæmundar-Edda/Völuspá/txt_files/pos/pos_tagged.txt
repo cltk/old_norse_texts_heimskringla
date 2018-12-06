@@ -624,17 +624,17 @@ fornar/lvfosf rúnir/nvfo ./p
 
 61/
 Þar/aa munu/sfg3fn eftir/aa
-undrsamligar/
-gullnar/ töflur/
+undrsamligar/lvfosf
+gullnar/lvfosf töflur/nvfo
 í/aþ grasi/nkeþ finnask/sfm3en ,/p
-þærs/ í/ árdaga/
-áttar/ höfðu/sfg3fþ ./p
+þærs/favfn í/ao árdaga/nkfo
+áttar/nvfn höfðu/sfg3fþ ./p
 
 62/
 Munu/sfg3fn ósánir/
 akrar/ vaxa/ ,/p
 böls/ mun/sfg3en alls/ batna/aa ,/p
-Baldr/ mun/sfg3en koma/aa ;/p
+Baldr/nkenm mun/sfg3en koma/aa ;/p
 búa/ þeir/fpkfn Höðr/nkenm ok/cc Baldr/nkenm
 Hrofts/ sigtoftir/ ,/p
 vé/ valtíva/ ./p
