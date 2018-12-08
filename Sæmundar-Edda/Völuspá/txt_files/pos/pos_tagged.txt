@@ -421,7 +421,7 @@ rýðr/sfg3en ragna/nhfe sjöt/nhfo
 rauðum/lkfþ dreyra/sfg3fn ;/p
 svört/lhfnsf verða/sfg3fn sólskin/nhfn
 um/aþ sumur/nhfo eftir/aþ ,/p
-veðr/nhen öll/lhensf válynd/lhen./p
+veðr/nhen öll/lhensf válynd/lhen ./p
 Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 
 42/
