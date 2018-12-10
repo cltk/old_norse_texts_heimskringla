@@ -509,13 +509,13 @@ um/um ragna/ra+gna rök/rök
 römm/römm sigtíva/sig+tí+va 
 
 Þá/Þá kemr/kemr inn/inn mikli/mi+kli 
-mögr/mögr Sigföður/Sig+föður 
+mögr/mögr Sigföður/Sig+föð+ur
 Víðarr/Ví+ðarr vega/ve+ga 
 at/at valdýri/val+dý+ri 
-Lætr/Lætr hann/hann megi/megi Hveðrungs/Hveð+rungs 
+Lætr/Lætr hann/hann megi/me+gi Hveðrungs/Hveð+rungs
 mundum/mun+dum standa/stan+da 
 hjör/hjör til/til hjarta/hjar+ta 
-þá/þá er/er hefnt/hefnt föður&&&/fö+ður+&&& 
+þá/þá er/er hefnt/hefnt föður/fö+ður
 
 Þá/Þá kemr/kemr inn/inn mæri/mæ+ri 
 mögr/mögr Hlóðynjar/Hló+ðyn+jar 
@@ -536,7 +536,7 @@ hverfa/hver+fa af/af himni/him+ni
 heiðar/hei+ðar stjörnur/stjör+nur 
 geisar/gei+sar eimi/eimi 
 ok/ok aldrnari/aldr+na+ri 
-leikr/leikr hár/hár hiti/hiti 
+leikr/leikr hár/hár hiti/hi+ti
 við/við himin/him+in sjalfan/sjal+fan 
 
 Geyr/Geyr nú/nú Garmr/Garmr mjök/mjök 
@@ -562,7 +562,7 @@ Finnask/Fin+nask æsir/æ+sir
 ok/ok um/um moldþinur/mold+þi+nur 
 máttkan/mát+tkan dæma/dæ+ma 
 ok/ok minnask/min+nask þar/þar 
-á/á megindóma/me+gin+dó+ma 
+á/á megindóma/me+gin+dó+ma
 ok/ok á/á Fimbultýs/Fim+bul+týs 
 fornar/for+nar rúnir/rú+nir 
 
