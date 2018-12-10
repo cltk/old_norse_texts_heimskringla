@@ -148,7 +148,7 @@ Alfr/Alfr ok/ok Yngvi/Yng+vi
 Eikinskjaldi/Ei+kin+skjal+di 
 Fjalarr/Fja+larr ok/ok Frosti/Fro+sti 
 Finnr/Finnr ok/ok Ginnarr/Gin+narr 
-þat/þat mun/mun æ/æ uppi/uppi 
+þat/þat mun/mun æ/æ uppi/up+pi
 meðan/me+ðan öld/öld lifir/li+fir 
 langniðja/lang+nið+ja tal/tal
 Lofars/Lo+fars hafat/ha+fat 
@@ -158,7 +158,7 @@ Uns/Uns þrír/þrír kvámu/kvá+mu
 ór/ór því/því liði/li+ði 
 öflgir/öfl+gir ok/ok ástkir/ást+kir
 æsir/æs+ir at/at húsi/hús+i
-fundu/fun+du á/á landi/lan+di 
+fundu/fun+du á/á landi/lan+di
 lítt/lítt megandi/me+gan+di 
 Ask/Ask ok/ok Emblu/Em+blu 
 örlöglausa/ör+lög+lau+sa 
