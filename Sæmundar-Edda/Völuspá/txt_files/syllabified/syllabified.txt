@@ -13,8 +13,8 @@ Ek/Ek man/man jötna/jö+tna
 ár/ár of/of borna/bor+na 
 þá/þá er/er forðum/for+ðum mik/mik 
 fædda/fæd+da höfðu/höf+ðu 
-níu/níu man/man ek/ek heima/hei+ma 
-níu/níu íviðjur/í+við+jur 
+níu/ní+u man/man ek/ek heima/hei+ma
+níu/ní+u íviðjur/í+við+jur
 mjötvið/mjöt+við mæran/mæ+ran 
 fyr/fyr mold/mold neðan/ne+ðan 
 
@@ -416,7 +416,7 @@ römm/römm sigtíva/sig+tí+va
 
 Bræðr/Bræðr munu/mu+nu berjask/ber+jask 
 ok/ok at/at bönum/bö+num verðask/ver+ðask 
-munu/munu systrungar/sys+trung+ar 
+munu/mu+nu systrungar/sys+trung+ar
 sifjum/sif+jum spilla/spil+la 
 hart/hart er/er í/í heimi/hei+mi 
 hórdómr/hór+dómr mikill/mi+kill 
@@ -523,9 +523,9 @@ gengr/gengr Óðins/Ó+ðins sonr/sonr
 við/við orm/orm vega/ve+ga 
 drepr/drepr af/af móði/mó+ði 
 Miðgarðs/Mið+garðs véurr/vé+urr 
-munu/mu+nu halir/ha+lir allir/al+lir 
+munu/mu+nu halir/hal+ir allir/al+lir
 heimstöð/heim+stöð ryðja/ryð+ja 
-gengr/gengr fet/fet níu/níu 
+gengr/gengr fet/fet níu/ní+u
 Fjörgynjar/Fjör+gyn+jar burr/burr 
 neppr/neppr frá/frá naðri/na+ðri 
 níðs/níðs ókvíðnum/ó+kvíð+num 
@@ -566,7 +566,7 @@ ok/ok minnask/min+nask þar/þar
 ok/ok á/á Fimbultýs/Fim+bul+týs 
 fornar/for+nar rúnir/rú+nir 
 
-Þar/Þar munu/munu eftir/ef+tir 
+Þar/Þar munu/mu+nu eftir/ef+tir
 undrsamligar/undr+sam+li+gar 
 gullnar/gul+lnar töflur/töf+lur 
 í/í grasi/gra+si finnask/fin+nask 
