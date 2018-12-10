@@ -553,7 +553,7 @@ Sér/Sér hon/hon upp/upp koma/ko+ma
 jörð/jörð ór/ór ægi/æ+gi 
 iðjagræna/ið+ja+græ+na 
 falla/fal+la forsar/for+sar 
-flýgr/flýgr örn/örn yfir/yfir 
+flýgr/flýgr örn/örn yfir/y+fir
 sá/sá er/er á/á fjalli/fjal+li 
 fiska/fi+ska veiðir/vei+ðir 
 
