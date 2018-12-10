@@ -243,8 +243,8 @@ eða/e+ða ætt/ætt jötuns/jö+tuns
 
 Þórr/Þórr einn/einn þar/þar vá/vá 
 þrunginn/þrung+inn móði/mó+ði 
-_/_ hann/hann sjaldan/sjal+dan sitr/sitr / 
-er/er hann/hann slíkt/slíkt of/of fregn/fregn / / 
+hann/hann sjaldan/sjal+dan sitr/sitr
+er/er hann/hann slíkt/slíkt of/of fregn/fregn
 á/á gengusk/geng+usk eiðar/ei+ðar 
 orð/orð ok/ok særi/sæ+ri 
 mál/mál öll/öll meginlig/me+gin+lig 
@@ -257,7 +257,7 @@ helgum/hel+gum baðmi/bað+mi
 á/á sér/sér hon/hon ausask/au+sask 
 aurgum/aur+gum forsi/for+si 
 af/af veði/ve+ði Valföðrs/Val+föðrs 
-Vituð/Vi+tuð ér/ér enn/enn _/_ eða/e+ða hvat/hvat 
+Vituð/Vi+tuð ér/ér enn/enn eða/e+ða hvat/hvat
 
 Ein/Ein sat/sat hon/hon úti/úti 
 þá/þá er/er inn/inn aldni/al+dni kom/kom 
@@ -272,7 +272,7 @@ Mímisbrunni/Mí+mis+brun+ni
 Drekkr/Drekkr mjöð/mjöð Mímir/Mí+mir 
 morgun/mor+gun hverjan/hver+jan 
 af/af veði/ve+ði Valföðrs/Val+föðrs 
-Vituð/Vi+tuð ér/ér enn/enn _/_ eða/e+ða hvat/hvat 
+Vituð/Vi+tuð ér/ér enn/enn eða/e+ða hvat/hvat
 
 Valði/Val+ði henni/hen+ni Herföðr/Her+föðr 
 hringa/hring+a ok/ok men/men 
@@ -319,7 +319,7 @@ Baldrs/Baldrs andskota/and+sko+ta
 en/en Frigg/Frigg of/of grét/grét 
 í/í Fensölum/Fen+sö+lum 
 vá/vá Valhallar/Val+hal+lar 
-Vituð/Vi+tuð ér/ér enn/enn _/_ eða/e+ða hvat/hvat 
+Vituð/Vi+tuð ér/ér enn/enn eða/e+ða hvat/hvat
 
 Þá/Þá kná/kná Váli/Vá+li 
 vígbönd/víg+bönd snúa/snú+a 
@@ -333,7 +333,7 @@ Loka/Lo+ka áþekkjan/á+þek+kjan
 þar/þar sitr/sitr Sigyn/Si+gyn 
 þeygi/þey+gi of/of sínum/sí+num 
 ver/ver vel/vel glýjuð/glý+juð 
-Vituð/Vi+tuð ér/ér enn/enn _/_ eða/e+ða hvat/hvat 
+Vituð/Vi+tuð ér/ér enn/enn  eða/e+ða hvat/hvat
 
 Á/Á fellur/fel+lur austan/aus+tan 
 um/um eitrdala/eitr+da+la 
@@ -367,7 +367,7 @@ eyrarúnu/ey+ra+rú+nu
 þar/þar saug/saug Niðhöggr/Nið+höggr 
 nái/ná+i framgengna/fram+gen+gna 
 sleit/sleit vargr/vargr vera/vera 
-Vituð/Vi+tuð ér/ér enn/enn _/_ eða/e+ða hvat/hvat 
+Vituð/Vi+tuð ér/ér enn/enn eða/e+ða hvat/hvat
 
 Austr/Austr sat/sat in/in aldna/ald+na 
 í/í Járnviði/Járn+vi+ði 
@@ -385,7 +385,7 @@ rauðum/rau+ðum dreyra/drey+ra
 svört/svört verða/ver+ða sólskin/sól+skin 
 um/um sumur/su+mur eftir/ef+tir 
 veðr/veðr öll/öll válynd/vál+ynd 
-Vituð/Vit+uð ér/ér enn/enn _/_ eða/e+ða hvat/hvat 
+Vituð/Vit+uð ér/ér enn/enn eða/e+ða hvat/hvat
 
 Sat/Sat þar/þar á/á haugi/hau+gi 
 ok/ok sló/sló hörpu/hör+pu 
@@ -452,7 +452,7 @@ Gnýr/Gnýr allr/allr Jötunheimr/Jö+tun+heimr
 stynja/styn+ja dvergar/dver+gar 
 fyr/fyr steindurum/stein+du+rum 
 veggbergs/vegg+bergs vísir/ví+sir 
-Vituð/Vi+tuð ér/ér enn/enn _/_ eða/e+ða hvat/hvat 
+Vituð/Vi+tuð ér/ér enn/enn eða/e+ða hvat/hvat
 
 Geyr/Geyr nú/nú Garmr/Garmr mjök/mjök 
 fyr/fyr Gnipahelli/Gni+pa+hel+li 
@@ -580,14 +580,14 @@ Baldr/Baldr mun/mun koma/ko+ma
 búa/bú+a þeir/þeir Höðr/Höðr ok/ok Baldr/Baldr 
 Hrofts/Hrofts sigtoftir/sig+tof+tir 
 vé/vé valtíva/val+tí+va 
-Vituð/Vi+tuð ér/ér enn/enn _/_ eða/e+ða hvat/hvat 
+Vituð/Vi+tuð ér/ér enn/enn eða/e+ða hvat/hvat
 
 Þá/Þá kná/kná Hænir/Hæ+nir 
 hlautvið/hlaut+við kjósa/kjó+sa 
 ok/ok burir/bu+rir byggja/byg+gja 
 bræðra/bræð+ra tveggja/tveg+gja 
 vindheim/vind+heim víðan/ví+ðan 
-Vituð/Vi+tuð ér/ér enn/enn _/_ eða/e+ða hvat/hvat 
+Vituð/Vi+tuð ér/ér enn/enn eða/e+ða hvat/hvat
 
 Sal/Sal sér/sér hon/hon standa/stan+da 
 sólu/só+lu fegra/fe+gra 
