@@ -427,7 +427,7 @@ vindöld/vind+öld vargöld/varg+öld
 mun/mun engi/eng+i maðr/maðr 
 öðrum/öð+rum þyrma/þyr+ma 
 
-Leika/Lei+ka Míms/Míms synir/synir 
+Leika/Lei+ka Míms/Míms synir/syn+ir
 en/en mjötuðr/mjö+tuðr kyndisk/kynd+isk 
 at/at inu/inu galla/gal+la 
 Gjallarhorni/Gjal+lar+hor+ni 
@@ -439,20 +439,20 @@ við/við Míms/Míms höfuð/hö+fuð
 Skelfr/Skelfr Yggdrasils/Ygg+dra+sils 
 askr/askr standandi/stand+and+i 
 ymr/ymr it/it aldna/ald+na tré/tré 
-en/en jötunn/jö+tunn losnar/los+nar 
+en/en jötunn/jöt+unn losnar/los+nar
 hræðask/hræ+ðask allir/al+lir 
-á/á helvegum/hel+ve+gum 
+á/á helvegum/hel+veg+um
 áðr/áðr Surtar/Sur+tar þann/þann 
-sefi/sefi of/of gleypir/gley+pir 
+sefi/se+fi of/of gleypir/gley+pir
 
-Hvat/Hvat er/er með/með ásum/á+sum 
+Hvat/Hvat er/er með/með ásum/ás+um
 Hvat/Hvat er/er með/með alfum/al+fum 
 Gnýr/Gnýr allr/allr Jötunheimr/Jö+tun+heimr 
 æsir/æsir ro/ro á/á þingi/þing+i 
 stynja/styn+ja dvergar/dver+gar 
 fyr/fyr steindurum/stein+du+rum 
-veggbergs/vegg+bergs vísir/ví+sir 
-Vituð/Vi+tuð ér/ér enn/enn eða/e+ða hvat/hvat
+veggbergs/vegg+bergs vísir/vís+ir
+Vituð/Vit+uð ér/ér enn/enn eða/e+ða hvat/hvat
 
 Geyr/Geyr nú/nú Garmr/Garmr mjök/mjök 
 fyr/fyr Gnipahelli/Gni+pa+hel+li 
