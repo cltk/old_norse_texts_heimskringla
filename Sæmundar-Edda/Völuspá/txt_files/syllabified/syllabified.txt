@@ -47,7 +47,7 @@ hvat/hvat hann/hann megins/me+gins átti/át+ti
 stjörnur/stjör+nur þat/þat né/né vissu/vis+su 
 hvar/hvar þær/þær staði/sta+ði áttu/át+tu 
 
-Þá/Þá gengu/gen+gu regin/re+gin öll/öll 
+Þá/Þá gengu/geng+u regin/reg+in öll/öll
 á/á rökstóla/rök+stó+la 
 ginnheilög/ginn+hei+lög goð/goð 
 ok/ok um/um þat/þat gættusk/gæt+tusk 
@@ -77,7 +77,7 @@ uns/uns þrjár/þrjár kvámu/kvá+mu
 ór/ór Jötunheimum/Jö+tun+hei+mum 
 
 
-Þá/Þá gengu/gengu regin/regin öll/öll 
+Þá/Þá gengu/geng+u regin/reg+in öll/öll
 á/á rökstóla/rök+stóla 
 ginnheilög/ginn+hei+lög goð/goð 
 ok/ok um/um þat/þat gættusk/gæt+tusk 
@@ -214,7 +214,7 @@ seið/seið hon/hon hug/hug leikinn/lei+kinn
 æ/æ var/var hon/hon angan/an+gan 
 illrar/ill+rar brúðar/brú+ðar 
 
-Þá/Þá gengu/gen+gu regin/re+gin öll/öll 
+Þá/Þá gengu/geng+u regin/reg+in öll/öll
 á/á rökstóla/rök+stó+la 
 ginnheilög/ginn+hei+lög goð/goð 
 ok/ok um/um þat/þat gættusk/gæt+tusk 
@@ -232,7 +232,7 @@ borgar/bor+gar ása/á+sa
 knáttu/knát+tu vanir/va+nir vígspá/víg+spá 
 völlu/völ+lu sporna/spor+na 
 
-Þá/Þá gengu/gen+gu regin/re+gin öll/öll 
+Þá/Þá gengu/geng+u regin/reg+in öll/öll
 á/á rökstóla/rök+stó+la 
 ginnheilög/ginn+hei+lög goð/goð 
 ok/ok um/um þat/þat gættusk/gæt+tusk 
