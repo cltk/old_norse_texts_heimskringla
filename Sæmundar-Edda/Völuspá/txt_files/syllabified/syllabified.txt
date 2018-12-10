@@ -137,27 +137,27 @@ til/til Jöruvalla/Jö+ru+val+la
 
 Þar/Þar var/var Draupnir/Draup+nir 
 ok/ok Dolgþrasir/Dolg+þra+sir 
-Hár/Hár Haugspori/Haug+spori 
+Hár/Hár Haugspori/Haug+spor+i
 Hlévangr/Hlé+vangr Glóinn/Gló+inn 
 Dóri/Dó+ri Óri/Ó+ri 
 Dúfr/Dúfr Andvari/And+va+ri 
-Skirfir/Skir+fir Virfir/Vir+fir 
-Skáfiðr/Ská+fiðr Ái/Ái 
+Skirfir/Skirf+ir Virfir/Virf+ir
+Skáfiðr/Skáf+iðr Ái/Ái
 
-Alfr/Alfr ok/ok Yngvi/Yn+gvi 
+Alfr/Alfr ok/ok Yngvi/Yng+vi
 Eikinskjaldi/Ei+kin+skjal+di 
 Fjalarr/Fja+larr ok/ok Frosti/Fro+sti 
 Finnr/Finnr ok/ok Ginnarr/Gin+narr 
 þat/þat mun/mun æ/æ uppi/uppi 
 meðan/me+ðan öld/öld lifir/li+fir 
-langniðja/lang+niðja tal/tal 
+langniðja/lang+nið+ja tal/tal
 Lofars/Lo+fars hafat/ha+fat 
 
 
 Uns/Uns þrír/þrír kvámu/kvá+mu 
 ór/ór því/því liði/li+ði 
-öflgir/ö+flgir ok/ok ástkir/ást+kir 
-æsir/æ+sir at/at húsi/hú+si 
+öflgir/öfl+gir ok/ok ástkir/ást+kir
+æsir/æs+ir at/at húsi/hús+i
 fundu/fun+du á/á landi/lan+di 
 lítt/lítt megandi/me+gan+di 
 Ask/Ask ok/ok Emblu/Em+blu 
@@ -187,7 +187,7 @@ margs/margs vitandi/vi+tan+di
 er/er und/und þolli/þol+li stendr/stendr 
 Urð/Urð hétu/hé+tu eina/ei+na 
 aðra/a+ðra Verðandi/Ver+ðan+di 
-_/_ skáru/ská+ru á/á skíði/skí+ði / 
+skáru/ská+ru á/á skíði/skí+ði
 Skuld/Skuld ina/ina þriðju/þrið+ju 
 þær/þær lög/lög lögðu/lög+ðu 
 þær/þær líf/líf kuru/ku+ru 
