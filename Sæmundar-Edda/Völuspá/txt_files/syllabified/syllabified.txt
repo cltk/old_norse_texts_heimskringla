@@ -289,7 +289,7 @@ Skuld/Skuld helt/helt skildi/skil+di
 en/en Skögul/Skö+gul önnur/ön+nur 
 Gunnr/Gunnr Hildr/Hildr Göndul/Gön+dul 
 ok/ok Geirskögul/Geir+skö+gul 
-Nú/Nú eru/eru talðar/tal+ðar 
+Nú/Nú eru/e+ru talðar/tal+ðar
 nönnur/nön+nur Herjans/Her+jans 
 görvar/gör+var at/at ríða/rí+ða 
 grund/grund valkyrjur/val+kyr+jur 
