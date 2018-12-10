@@ -476,7 +476,7 @@ Kjóll/Kjóll ferr/ferr austan/aust+an
 koma/ko+ma munu/mu+nu Múspells/Mú+spells 
 of/of lög/lög lýðir/lý+ðir 
 en/en Loki/Lo+ki stýrir/stýr+ir
-fara/fa+ra fíflmegir/fífl+megir 
+fara/fa+ra fíflmegir/fífl+meg+ir
 með/með freka/fre+ka allir/al+lir
 þeim/þeim er/er bróðir/bró+ðir 
 Býleists/Bý+leists í/í för/för 
@@ -488,7 +488,7 @@ sól/sól valtíva/val+tí+va
 grjótbjörg/grjót+björg gnata/gna+ta 
 en/en gífr/gífr rata/ra+ta 
 troða/tro+ða halir/ha+lir helveg/hel+veg 
-en/en himinn/hi+minn klofnar/klo+fnar 
+en/en himinn/him+inn klofnar/klo+fnar
 
 Þá/Þá kemr/kemr Hlínar/Hlí+nar 
 harmr/harmr annarr/an+narr fram/fram 
