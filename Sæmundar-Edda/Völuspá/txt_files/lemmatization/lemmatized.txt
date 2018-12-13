@@ -631,13 +631,13 @@ gullnar/gullinn töflur/tafla
 áttar/átt höfðu/hafa ./
 
 62/
-Munu/munu ósánir/
-akrar/ vaxa/vaxa ,/,
-böls/ mun/munu alls/allr batna/batna ,/,
+Munu/munu ósánir/sá
+akrar/akr vaxa/vaxa ,/,
+böls/böl mun/munu alls/allr batna/batna ,/,
 Baldr/Baldr mun/muna koma/koma ;/;
 búa/búa þeir/þeir Höðr/Höðr ok/ok Baldr/Baldr
-Hrofts/Hroft sigtoftir/ ,/,
-vé/ valtíva/ ./.
+Hrofts/Hroft sigtoftir/sigtoftir ,/,
+vé/vé valtíva/valtívar ./.
 Vituð/vita ér/ enn/enn -/- eða/eða hvat/hvat ?/?
 
 63/

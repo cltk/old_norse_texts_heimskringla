@@ -631,13 +631,13 @@ gullnar/lvfosf töflur/nvfo
 áttar/nvfn höfðu/sfg3fþ ./p
 
 62/
-Munu/sfg3fn ósánir/
-akrar/ vaxa/ ,/p
-böls/ mun/sfg3en alls/ batna/aa ,/p
-Baldr/nkenm mun/sfg3en koma/aa ;/p
-búa/ þeir/fpkfn Höðr/nkenm ok/cc Baldr/nkenm
-Hrofts/ sigtoftir/ ,/p
-vé/ valtíva/ ./p
+Munu/sfg3fn ósánir/sþgkfn
+akrar/nkfn vaxa/sng ,/p
+böls/nhee mun/sfg3en alls/lheesf batna/sng ,/p
+Baldr/nkenm mun/sfg3en koma/sng ;/p
+búa/sng þeir/fpkfn Höðr/nkenm ok/cc Baldr/nkenm
+Hrofts/nkee sigtoftir/nvfo ,/p
+vé/nhfn valtíva/nkfe ./p
 Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 
 63/
@@ -649,7 +649,7 @@ vindheim/ víðan/ ./p
 Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 
 64/
-Sal/nkeo sá/sfg3eþ hon/fpven standa/sng
+Sal/nkeo sá/sfg3enke hon/fpven standa/sng
 sólu/nveþ fegra/ ,/p
 gulli/ þakðan/
 á/aþ Gimléi/nkeþm ;/p
@@ -659,7 +659,7 @@ ok/cc um/ aldrdaga/
 ynðis/ njóta/ ./p
 
 65/
-Þá/aa kemr/sfg3en inn/ ríki/
-at/ct regindómi/
-öflugr/ ofan/ ,/p
-sá/ er/ öllu/ ræðr/ ./p
+Þá/aa kemr/sfg3en inn/gken ríki/lkenvf
+at/ct regindómi/nkeþ
+öflugr/lkensf ofan/aa ,/p
+sá/faken er/ct öllu/lkeþsf ræðr/sfg3en ./p
