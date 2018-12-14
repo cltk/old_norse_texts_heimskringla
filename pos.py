@@ -452,7 +452,7 @@ class MainPOS:
     universal[conjunction] = "CONJ"
     universal[unanalysed] = "X"
     universal[foreign] = "X"
-    verbose[punctuation] = "."
+    universal[punctuation] = "PUNC"
 
     @staticmethod
     def apply(tag: str, l_pos: list, value: str):
@@ -684,5 +684,6 @@ def parse(tag):
 
 if __name__ == "__main__":
     print(parse("sfg3en"))
+    print(parse("p"))
     print(len(MainPOS.generate_all_possible_tags()))
     print(MainPOS.generate_all_possible_tags())
