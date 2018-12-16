@@ -3,15 +3,15 @@ Hljóðs/hljóð bið/biðja ek/ek allar/allr
 helgar/helgr kindir/kind ,/,
 meiri/mjök ok/ok minni/lítill
 mögu/mögr Heimdallar/Heimdallr ;/;
-viltu/vilja at/at ek/ek ,/ Valföðr/Valföðr ,/,
+viltu/vilja at/at ek/ek ,/, Valföðr/Valföðr ,/,
 vel/vel fyr/fyr telja/telja
 forn/forn spjöll/spjall fira/firar ,/,
-þau/þau er/er fremst/framr of/of man/muna ./
+þau/þau er/er fremst/framr of/of man/muna ./.
 
 2/
 Ek/ek man/muna jötna/jötunn
 ár/ár of/of borna/bera ,/,
-þá/ er/er forðum/ mik/ek
+þá/þá er/er forðum/forðum mik/ek
 fædda/fœða höfðu/hafa ;/;
 níu/níu man/muna ek/ek heima/heimr ,/,
 níu/níu íviðjur/íviði ,/,
@@ -23,10 +23,10 @@ fyr/fyr mold/mold neðan/neðan ./.
 þat/þat er/er ekki/ekki var/vera ,/,
 vara/vara sandr/sandr né/né sær/sær
 né/né svalar/svalr unnir/unnr ;/;
-jörð/jörð fannsk/finna æva/
+jörð/jörð fannsk/finna æva/æva
 né/né upphiminn/upphiminn ,/,
 gap/gap var/vera ginnunga/ginnungr
-en/en gras/gras hvergi/ ./,
+en/en gras/gras hvergi/hvergi ./,
 
 4/
 Áðr/áðr Burs/Burr synir/sonr
@@ -74,10 +74,10 @@ ok/ok tól/tól gerðu/gøra ./.
 
 8/
 Tefldu/tefla í/í túni/tún ,/,
-teitir/teiti váru/vera ,/,vættr
-var/vera þeim/þeir vettergis/
+teitir/teiti váru/vera ,/,
+var/vera þeim/þeir vettergis/vættki
 vant/vinna ór/ór gulli/gullr ,/,
-uns/uns þrjár/ kvámu/koma
+uns/uns þrjár/þrír kvámu/koma
 þursa/þuss meyjar/meyja
 ámáttkar/ámáttigr mjök/mjök
 ór/ór Jötunheimum/Jötunheimr ./.
