@@ -619,7 +619,7 @@ ok/cc um/aa moldþinur/nkeo
 máttkan/lkeosf dæma/sfg3fn
 ok/cc minnask/sfm3fn þar/aa
 á/a megindóma/nkfe
-ok/cc á/ Fimbultýs/nkee
+ok/cc á/ae Fimbultýs/nkee
 fornar/lvfosf rúnir/nvfo ./p
 
 61/
@@ -641,11 +641,11 @@ vé/nhfn valtíva/nkfe ./p
 Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 
 63/
-Þá/aa kná/ Hænir/
-hlautvið/ kjósa/
-ok/cc burir/ byggja/
-bræðra/ tveggja/
-vindheim/ víðan/ ./p
+Þá/aa kná/sfg3en Hænir/nkenm
+hlautvið/nkeo kjósa/sng
+ok/cc burir/nkfn byggja/nfg3fn
+bræðra/nkfe tveggja/tfkfe
+vindheim/nkeo víðan/lkeosf ./p
 Vituð/sfg2fþ ér/fp2fn enn/aa -/p eða/cc hvat/fps ?/p
 
 64/
