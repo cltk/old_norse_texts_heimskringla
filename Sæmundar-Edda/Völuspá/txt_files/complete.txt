@@ -601,7 +601,7 @@ Geyr nú Garmr mjök
 fyr Gnipahelli,
 festr mun slitna
 en freki renna;
-fjölð veit ek fræða
+fjölð veit ek fræða,
 fram sé ek lengra
 um ragna rök
 römm sigtíva.

@@ -1,6 +1,6 @@
 # Classic Texts from Old Norse Litterature 
 ### About
-Texts retrieved from heimskrinla.no for easy use with cltk!
+Texts retrieved from heimskringla.no for easy use with cltk!
 
 ### License
 Of course, texts are in public domain due to their age, but please look at http://heimskringla.no/wiki/Heimskringla.no:Copyright for the credit to **Heimskringla**. So, as soon as you use the texts here, you should mention **Heimskringla** and the authors of the texts.
