@@ -332,7 +332,7 @@ mistilteinn/mistilteinn ./.
 
 32/
 Varð/verð af/af þeim/sá meiði/meiðr ,/,
-er/er mær/ sýndisk/sýna ,/,
+er/er mær/mjór sýndisk/sýna ,/,
 harmflaug/harmflaug hættlig/hættligr ,/,
 Höðr/Höðr nam/neka skjóta/skjóta ;/;
 Baldrs/Baldr bróðir/bróðir var/vera
@@ -376,7 +376,7 @@ Slíðr/Slíðr heitir/heita sú/sá ./.
 Stóð/standa fyr/fyr norðan/norðan
 á/á Niðavöllum/Niðavallr
 salr/salr ór/ór gulli/gullr
-Sindra/ ættar/ ;/;
+Sindra/Sindri ættar/ætt ;/;
 en/en annarr/annarr stóð/standa
 á/á Ókólni/Ókólnn
 bjórsalr/bjórsalr jötuns/jötunn ,/,
@@ -407,9 +407,9 @@ Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hverr ?/?
 40/
 Austr/austr sat/sitja in/in aldna/aldinn
 í/í Járnviði/Járnviðr
-ok/ok fæddi/ þar/þar
+ok/ok fæddi/fœða þar/þar
 Fenris/Fenrir kindir/kind ;/;
-verðr/verða af/af þeim/ öllum/allr
+verðr/verða af/af þeim/þeir öllum/allr
 einna/einn nokkurr/nökkurr
 tungls/tungl tjúgari/tjúgari
 í/í trölls/trölls hami/hamr ./.
@@ -465,7 +465,7 @@ skeggöld/skeggöld ,/, skalmöld/skalmöld ,/,
 skildir/skjöldr ro/vera klofnir/kljúfa ,/,
 vindöld/vindöld ,/, vargöld/vargöld ,/,
 áðr/áðr veröld/veröld steypisk/steypa ;/;
-mun/munu engi/ maðr/maðr
+mun/munu engi/engi maðr/maðr
 öðrum/annarr þyrma/þyrma ./.
 
 46/
@@ -623,10 +623,10 @@ ok/ok á/á Fimbultýs/Fimbultýr
 fornar/forn rúnir/rúnar ./.
 
 61/
-Þar/ munu/munu eftir/eftir
+Þar/þar munu/munu eftir/eftir
 undrsamligar/undrsamligr
 gullnar/gullinn töflur/tafla
-í/í grasi/gras finnask/finna ,/
+í/í grasi/gras finnask/finna ,/,
 þærs/sá+er í/í árdaga/árdagr
 áttar/átt höfðu/hafa ./
 
@@ -638,7 +638,7 @@ Baldr/Baldr mun/muna koma/koma ;/;
 búa/búa þeir/þeir Höðr/Höðr ok/ok Baldr/Baldr
 Hrofts/Hroft sigtoftir/sigtoftir ,/,
 vé/vé valtíva/valtívar ./.
-Vituð/vita ér/ enn/enn -/- eða/eða hvat/hvat ?/?
+Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hvat ?/?
 
 63/
 Þá/þá kná/kná Hænir/Hænir
@@ -649,17 +649,17 @@ vindheim/vindheimr víðan/víðr ./.
 Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hverr ?/?
 
 64/
-Sal/sal sér/ hon/hon standa/standa
-sólu/sól fegra/ ,/,
-gulli/gullr þakðan/
-á/á Gimléi/ ;/;
-þar/þar skulu/skula dyggvar/
-dróttir/ byggja/
-ok/ok um/um aldrdaga/
-ynðis/ njóta/njóta ./.
+Sal/sal sér/sjá hon/hon standa/standa
+sólu/sól fegra/fegr ,/,
+gulli/gull þakðan/
+á/á Gimléi/Gimlé ;/;
+þar/þar skulu/skula dyggvar/dyggr
+dróttir/drótt byggja/byggja
+ok/ok um/um aldrdaga/aldrdagr
+ynðis/yndi njóta/njóta ./.
 
 65/
-Þá/ kemr/koma inn/inn ríki/
-at/at regindómi/
-öflugr/ ofan/ ,/
-sá/sá er/ öllu/allr ræðr/ræðr ./.
+Þá/þá kemr/koma inn/inn ríki/ríkr
+at/at regindómi/regindómr
+öflugr/öflugr ofan/ofan  ,/
+sá/sá er/er öllu/allr ræðr/ræðr ./.
