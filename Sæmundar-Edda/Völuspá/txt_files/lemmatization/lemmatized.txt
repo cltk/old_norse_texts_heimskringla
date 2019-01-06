@@ -211,7 +211,7 @@ alda/öld börnum/barn ,/,
 örlög/örlög seggja/seggja ./.
 
 21/
-Þat/ man/munu hon/hon folkvíg/
+Þat/þar man/munu hon/hon folkvíg/
 fyrst/fyrst í/í heimi/heimr ,/
 er/ Gullveigu/Gullveig
 geirum/ studdu/
@@ -223,14 +223,14 @@ oft/ ,/, ósjaldan/ósjaldan ,/,
 þó/þó hon/hon enn/ lifir/ ./.
 
 22/
-Heiði/ hana/hon hétu/heita
-hvars/ til/til húsa/hús kom/koma ,/,
-völu/ velspáa/ ,/,
+Heiði/Heiður hana/hon hétu/heita
+hvars/hvar+es til/til húsa/hús kom/koma ,/,
+völu/völva velspáa/velspá ,/,
 vitti/vita hon/hon ganda/ ;/;
-seið/ hon/hon ,/, hvars/ hon/hon kunni/ ,/,
-seið/ hon/hon hug/ leikinn/ ,/,
+seið/seiðr hon/hon ,/, hvars/ hon/hon kunni/ ,/,
+seið/seiðr hon/hon hug/ leikinn/ ,/,
 æ/æ var/vera hon/hon angan/
-illrar/ brúðar/ ./.
+illrar/illr brúðar/ ./.
 
 23/
 Þá/þá gengu/ganga regin/regin öll/allr
@@ -257,7 +257,7 @@ völlu/ sporna/sporna ./.
 á/á rökstóla/røkstólar ,/,
 ginnheilög/ginheilagr goð/goð ,/,
 ok/ok um/um þat/þat gættusk/gæta ;/;
-hverjir/ hefði/hafa loft/ allt/allr
+hverjir/hverr hefði/hafa loft/ allt/allr
 lævi/læ blandit/blanda
 eða/eða ætt/ætt jötuns/jötunn
 Óðs/Óðr mey/mær gefna/gefa ./.
@@ -312,7 +312,7 @@ vítt/vítt of/of komnar/koma ,/,
 görvar/görr at/at ríða/ríða
 til/til Goðþjóðar/Goðþjóð ;/;
 Skuld/Skuld helt/halda skildi/skulu ,/,
-en/en Skögul/ önnur/annarr ,/,
+en/en Skögul/Skögul önnur/annarr ,/,
 Gunnr/Gunnr ,/, Hildr/Hildr ,/, Göndul/Göndul
 ok/ok Geirskögul/Geirskögul ./.
 Nú/nú eru/vera talðar/tala
