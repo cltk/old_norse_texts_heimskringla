@@ -115,14 +115,14 @@ Bömburr/Bömburr ,/, Nóri/Nóri ,/,
 Óinn/Óinn ,/, Mjöðvitnir/Mjöðvitnir ./.
 
 12/
-Veggr/veggr ok/ Gandalfr/Gandalfr ,/,
+Veggr/veggr ok/ok Gandalfr/Gandalfr ,/,
 Vindalfr/Vindalfr ,/, Þorinn/Þorinn ,/,
 Þrár/Þrár ok/ok Þráinn/Þráinn ,/,
 Þekkr/Þekkr ,/, Litr/Litr ok/ok Vitr/Vitr ,/,
 Nýr/Nýr ok/ok Nýráðr/Nýráðr ,/,
 nú/nú hefi/hafa ek/ek dverga/dvergr ,/,
 Reginn/Reginn ok/ok Ráðsviðr/Ráðsviðr ,/,
-rétt/ of/of talða/telja ./.
+rétt/réttr of/of talða/telja ./.
 
 13/
 Fíli/Fíli ,/, Kíli/Kíli ,/,
@@ -167,23 +167,23 @@ langniðja/langniðjar tal/tal
 Lofars/Lofar hafat/hafa ./.
 
 17/
-Unz/und+es þrír/ kvámu/koma
-ór/ór því/ liði/
-öflgir/ ok/ok ástkir/
-æsir/áss at/ húsi/hús ,/,
+Unz/und+es þrír/þrír kvámu/koma
+ór/ór því/það liði/lið
+öflgir/öflugr ok/ok ástkir/
+æsir/áss at/at húsi/hús ,/,
 fundu/finna á/á landi/land
 lítt/ megandi/
 Ask/Ask ok/ok Emblu/embla
 örlöglausa/ ./.
 
 18/
-Önd/ þau/ né/né áttu/eiga ,/,
-óð/ þau/ né/né höfðu/hafa ,/,
-lá/ né/né læti/
+Önd/önd þau/þeir né/né áttu/eiga ,/,
+óð/óðr þau/þeir né/né höfðu/hafa ,/,
+lá/lá né/né læti/
 né/né litu/ góða/ ;/;
-önd/ gaf/ Óðinn/Óðinn ,/,
-óð/ gaf/gefa Hænir/Hænir ,/
-lá/ gaf/gefa Lóðurr/Lóðurr
+önd/önd gaf/gefa Óðinn/Óðinn ,/,
+óð/óðr gaf/gefa Hænir/Hænir ,/
+lá/lá gaf/gefa Lóðurr/Lóðurr
 ok/ok litu/ góða/góð ./;
 
 19/
@@ -193,7 +193,7 @@ hár/hár baðmr/baðmr ,/, ausinn/ausinn
 hvíta/ auri/ ;/;
 þaðan/þaðan koma/koma döggvar/ ,/,
 þærs/ í/í dala/ falla/ ,/,
-stendr/ æ/ yfir/yfir grænn/grænn
+stendr/ æ/æ yfir/yfir grænn/grænn
 Urðarbrunni/ ./.
 
 20/
@@ -213,7 +213,7 @@ alda/öld börnum/barn ,/,
 21/
 Þat/þar man/munu hon/hon folkvíg/
 fyrst/fyrst í/í heimi/heimr ,/
-er/ Gullveigu/Gullveig
+er/er Gullveigu/Gullveig
 geirum/ studdu/
 ok/ok í/í höll/höll Hárs/Hár
 hana/hon brenndu/ ,/,
@@ -226,11 +226,11 @@ oft/ ,/, ósjaldan/ósjaldan ,/,
 Heiði/Heiður hana/hon hétu/heita
 hvars/hvar+es til/til húsa/hús kom/koma ,/,
 völu/völva velspáa/velspá ,/,
-vitti/vita hon/hon ganda/ ;/;
-seið/seiðr hon/hon ,/, hvars/ hon/hon kunni/ ,/,
-seið/seiðr hon/hon hug/ leikinn/ ,/,
-æ/æ var/vera hon/hon angan/
-illrar/illr brúðar/ ./.
+vitti/vita hon/hon ganda/gandr ;/;
+seið/seiðr hon/hon ,/, hvars/hvar+es hon/hon kunni/ ,/,
+seið/seiðr hon/hon hug/hugr leikinn/leika ,/,
+æ/æ var/vera hon/hon angan/angan
+illrar/illr brúðar/brúðr ./.
 
 23/
 Þá/þá gengu/ganga regin/regin öll/allr
