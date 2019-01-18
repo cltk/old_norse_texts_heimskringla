@@ -172,41 +172,41 @@ Unz/und+es þrír/þrír kvámu/koma
 öflgir/öflugr ok/ok ástkir/
 æsir/áss at/at húsi/hús ,/,
 fundu/finna á/á landi/land
-lítt/ megandi/
+lítt/lítt megandi/mega
 Ask/Ask ok/ok Emblu/embla
-örlöglausa/ ./.
+örlöglausa/örlöglauss ./.
 
 18/
 Önd/önd þau/þeir né/né áttu/eiga ,/,
 óð/óðr þau/þeir né/né höfðu/hafa ,/,
 lá/lá né/né læti/
-né/né litu/ góða/ ;/;
+né/né litu/litr góða/góðr ;/;
 önd/önd gaf/gefa Óðinn/Óðinn ,/,
 óð/óðr gaf/gefa Hænir/Hænir ,/
 lá/lá gaf/gefa Lóðurr/Lóðurr
-ok/ok litu/ góða/góð ./;
+ok/ok litu/litr góða/góð ./;
 
 19/
-Ask/ veit/vita ek/ek standa/standa ,/,
+Ask/askr veit/vita ek/ek standa/standa ,/,
 heitir/heita Yggdrasill/Yggdrasill ,/,
 hár/hár baðmr/baðmr ,/, ausinn/ausinn
-hvíta/ auri/ ;/;
-þaðan/þaðan koma/koma döggvar/ ,/,
-þærs/ í/í dala/ falla/ ,/,
-stendr/ æ/æ yfir/yfir grænn/grænn
+hvíta/hvítr auri/aurr ;/;
+þaðan/þaðan koma/koma döggvar/dögg ,/,
+þærs/ í/í dala/dalr falla/falla ,/,
+stendr/standa æ/æ yfir/yfir grænn/grænn
 Urðarbrunni/ ./.
 
 20/
 Þaðan/þaðan koma/koma meyjar/
 margs/margr vitandi/vita
-þrjár/ ór/ór þeim/þeir sæ/sær ,/,
-er/er und/und þolli/ stendr/ ;/;
+þrjár/þrír ór/ór þeim/þeir sæ/sær ,/,
+er/er und/und þolli/þollr stendr/standa ;/;
 Urð/ hétu/heita eina/einn ,/,
-aðra/ Verðandi/ ,/,
--/- skáru/ á/á skíði/ ,/, -/-
-Skuld/ ina/inn þriðju/ ;/;
-þær/þær lög/ lögðu/ ,/,
-þær/þær líf/ kuru/
+aðra/annarr Verðandi/ ,/,
+-/- skáru/skera á/á skíði/ ,/, -/-
+Skuld/ ina/inn þriðju/þrír ;/;
+þær/þær lög/lög lögðu/leggja ,/,
+þær/þær líf/líf kuru/
 alda/öld börnum/barn ,/,
 örlög/örlög seggja/seggja ./.
 
@@ -220,14 +220,14 @@ hana/hon brenndu/ ,/,
 þrisvar/ brenndu/brenna ,/,
 þrisvar/ borna/bera ,/,
 oft/ ,/, ósjaldan/ósjaldan ,/,
-þó/þó hon/hon enn/ lifir/ ./.
+þó/þó hon/hon enn/enn lifir/ ./.
 
 22/
 Heiði/Heiður hana/hon hétu/heita
 hvars/hvar+es til/til húsa/hús kom/koma ,/,
 völu/völva velspáa/velspá ,/,
 vitti/vita hon/hon ganda/gandr ;/;
-seið/seiðr hon/hon ,/, hvars/hvar+es hon/hon kunni/ ,/,
+seið/seiðr hon/hon ,/, hvars/hvar+es hon/hon kunni/kunna ,/,
 seið/seiðr hon/hon hug/hugr leikinn/leika ,/,
 æ/æ var/vera hon/hon angan/angan
 illrar/illr brúðar/brúðr ./.
@@ -237,9 +237,9 @@ illrar/illr brúðar/brúðr ./.
 á/á rökstóla/røkstólar ,/,
 ginnheilög/ginheilagr goð/goð ,/,
 ok/ok um/um þat/þat gættusk/gæta ;/;
-hvárt/ skyldu/ æsir/áss
+hvárt/ skyldu/skylu æsir/áss
 afráð/ gjalda/
-eða/eða skyldu/ goðin/goð öll/allr
+eða/eða skyldu/skylu goðin/goð öll/allr
 gildi/ eiga/ ./.
 
 24/
