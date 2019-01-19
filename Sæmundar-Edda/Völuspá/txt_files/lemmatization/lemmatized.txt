@@ -169,7 +169,7 @@ Lofars/Lofar hafat/hafa ./.
 17/
 Unz/und+es þrír/þrír kvámu/koma
 ór/ór því/það liði/lið
-öflgir/öflugr ok/ok ástkir/
+öflgir/öflugr ok/ok ástkir/ástigr
 æsir/áss at/at húsi/hús ,/,
 fundu/finna á/á landi/land
 lítt/lítt megandi/mega
@@ -179,10 +179,10 @@ Ask/Ask ok/ok Emblu/embla
 18/
 Önd/önd þau/þeir né/né áttu/eiga ,/,
 óð/óðr þau/þeir né/né höfðu/hafa ,/,
-lá/lá né/né læti/
+lá/lá né/né læti/læti
 né/né litu/litr góða/góðr ;/;
 önd/önd gaf/gefa Óðinn/Óðinn ,/,
-óð/óðr gaf/gefa Hænir/Hænir ,/
+óð/óðr gaf/gefa Hænir/Hænir ,/,
 lá/lá gaf/gefa Lóðurr/Lóðurr
 ok/ok litu/litr góða/góð ./;
 
@@ -192,35 +192,35 @@ heitir/heita Yggdrasill/Yggdrasill ,/,
 hár/hár baðmr/baðmr ,/, ausinn/ausinn
 hvíta/hvítr auri/aurr ;/;
 þaðan/þaðan koma/koma döggvar/dögg ,/,
-þærs/ í/í dala/dalr falla/falla ,/,
+þærs/þær+es í/í dala/dalr falla/falla ,/,
 stendr/standa æ/æ yfir/yfir grænn/grænn
-Urðarbrunni/ ./.
+Urðarbrunni/Urðarbrunnr ./.
 
 20/
-Þaðan/þaðan koma/koma meyjar/
+Þaðan/þaðan koma/koma meyjar/meyja
 margs/margr vitandi/vita
 þrjár/þrír ór/ór þeim/þeir sæ/sær ,/,
 er/er und/und þolli/þollr stendr/standa ;/;
-Urð/ hétu/heita eina/einn ,/,
-aðra/annarr Verðandi/ ,/,
--/- skáru/skera á/á skíði/ ,/, -/-
-Skuld/ ina/inn þriðju/þrír ;/;
+Urð/Urðr hétu/heita eina/einn ,/,
+aðra/annarr Verðandi/Verðandi ,/,
+-/- skáru/skera á/á skíði/skíð ,/, -/-
+Skuld/Skuld ina/inn þriðju/þrír ;/;
 þær/þær lög/lög lögðu/leggja ,/,
-þær/þær líf/líf kuru/
+þær/þær líf/líf kuru/kjósa
 alda/öld börnum/barn ,/,
 örlög/örlög seggja/seggja ./.
 
 21/
-Þat/þar man/munu hon/hon folkvíg/
-fyrst/fyrst í/í heimi/heimr ,/
+Þat/þar man/munu hon/hon folkvíg/folkvígr
+fyrst/fyrst í/í heimi/heimr ,/,
 er/er Gullveigu/Gullveig
-geirum/ studdu/
+geirum/geirr studdu/styðja
 ok/ok í/í höll/höll Hárs/Hár
-hana/hon brenndu/ ,/,
-þrisvar/ brenndu/brenna ,/,
-þrisvar/ borna/bera ,/,
-oft/ ,/, ósjaldan/ósjaldan ,/,
-þó/þó hon/hon enn/enn lifir/ ./.
+hana/hon brenndu/brenna ,/,
+þrisvar/þrisvar brenndu/brenna ,/,
+þrisvar/þrisvar borna/bera ,/,
+oft/opt ,/, ósjaldan/ósjaldan ,/,
+þó/þó hon/hon enn/enn lifir/lifa ./.
 
 22/
 Heiði/Heiður hana/hon hétu/heita
@@ -237,27 +237,27 @@ illrar/illr brúðar/brúðr ./.
 á/á rökstóla/røkstólar ,/,
 ginnheilög/ginheilagr goð/goð ,/,
 ok/ok um/um þat/þat gættusk/gæta ;/;
-hvárt/ skyldu/skylu æsir/áss
-afráð/ gjalda/
+hvárt/hvárt skyldu/skylu æsir/áss
+afráð/afráð gjalda/gjalda
 eða/eða skyldu/skylu goðin/goð öll/allr
-gildi/ eiga/ ./.
+gildi/gildi eiga/eiga ./.
 
 24/
-Fleygði/ Óðinn/Óðinn
-ok/ok í/í folk/folk of/of skaut/ ,/,
+Fleygði/Fleygja Óðinn/Óðinn
+ok/ok í/í folk/folk of/of skaut/skjóta ,/,
 þat/þat var/vera enn/en folkvíg/folkvígr
 fyrst/fyrst í/í heimi/heimr ;/;
-brotinn/ var/vera borðveggr/borðveggr
+brotinn/brjóta var/vera borðveggr/borðveggr
 borgar/borg ása/áss ,/,
-knáttu/kná vanir/ vígspá/vígspá
-völlu/ sporna/sporna ./.
+knáttu/kná vanir/vanir vígspá/vígspá
+völlu/völlr sporna/sporna ./.
 
 25/
 Þá/þá gengu/ganga regin/regin öll/allr
 á/á rökstóla/røkstólar ,/,
 ginnheilög/ginheilagr goð/goð ,/,
 ok/ok um/um þat/þat gættusk/gæta ;/;
-hverjir/hverr hefði/hafa loft/ allt/allr
+hverjir/hverr hefði/hafa loft/lofa allt/allr
 lævi/læ blandit/blanda
 eða/eða ætt/ætt jötuns/jötunn
 Óðs/Óðr mey/mær gefna/gefa ./.
@@ -362,7 +362,7 @@ und/und Hveralundi/Hveralundr ,/,
 lægjarns/lægjarn líki/líki
 Loka/Loki áþekkjan/áþekkr ;/;
 þar/þar sitr/sitja Sigyn/Sigyn
-þeygi/þeygi of/of sínum/
+þeygi/þeygi of/of sínum/sinn
 ver/verr vel/vel glýjuð/glýja ./.
 Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hverr ?/?
 
@@ -628,7 +628,7 @@ undrsamligar/undrsamligr
 gullnar/gullinn töflur/tafla
 í/í grasi/gras finnask/finna ,/,
 þærs/sá+er í/í árdaga/árdagr
-áttar/átt höfðu/hafa ./
+áttar/átt höfðu/hafa ./.
 
 62/
 Munu/munu ósánir/sá
@@ -651,7 +651,7 @@ Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hverr ?/?
 64/
 Sal/sal sér/sjá hon/hon standa/standa
 sólu/sól fegra/fegr ,/,
-gulli/gull þakðan/
+gulli/gull þakðan/þekja
 á/á Gimléi/Gimlé ;/;
 þar/þar skulu/skula dyggvar/dyggr
 dróttir/drótt byggja/byggja
@@ -661,5 +661,5 @@ ynðis/yndi njóta/njóta ./.
 65/
 Þá/þá kemr/koma inn/inn ríki/ríkr
 at/at regindómi/regindómr
-öflugr/öflugr ofan/ofan  ,/
+öflugr/öflugr ofan/ofan  ,/,
 sá/sá er/er öllu/allr ræðr/ræðr ./.
