@@ -10,7 +10,7 @@ from collections import Counter, Set
 from typing import List
 
 from nltk.corpus.reader.tagged import TaggedCorpusReader
-from cltk.tokenize.word import tokenize_old_norse_words
+from cltk.tokenize.word import WordTokenizer
 
 from utils import remove_punctuations
 from text_manager import text_extractor, extract_text
@@ -24,6 +24,8 @@ poetic_edda_titles = ['Rígsþula', 'Helreið Brynhildar', 'Gróttasöngr', 'Sig
                       'Atlakviða', 'Vafþrúðnismál', 'Oddrúnarkviða', 'Völundarkviða', 'Alvíssmál', 'Fáfnismál',
                       'Dráp Niflunga', 'Hávamál', 'Guðrúnarhvöt', 'Hamðismál', 'Baldrs draumar', 'Lokasenna',
                       'Guðrúnarkviða']
+
+old_norse_tokenizer = WordTokenizer("old-norse")
 
 
 class Converter:
@@ -69,7 +71,7 @@ class PoeticEddaLemmatizationReader(TaggedCorpusReader):
         text = "\n".join([line for line in text.split(os.linesep) if len(line) >= 1 and line[0] != "#"])
         indices = [(m.start(0), m.end(0)) for m in re.finditer(r"[0-9]{1,2}\.", text)]
         paragraphs = [str(i+1) + "\n" + text[indices[i][1]:indices[i+1][0]] for i in range(len(indices)-1)]
-        l_res = ["\n".join([" ".join([word+"/" for word in tokenize_old_norse_words(line)])
+        l_res = ["\n".join([" ".join([word+"/" for word in old_norse_tokenizer.tokenize(line)])
                             for line in paragraph.split("\n") if len(line) > 0]) for paragraph in paragraphs]
 
         if not os.path.exists(os.path.join(path, "lemmatization")):
@@ -125,7 +127,7 @@ class PoeticEddaPOSTaggedReader(TaggedCorpusReader):
         # Extract the paragraphs thanks to indices
         paragraphs = [str(i + 1) + "\n" + text[indices[i][1]:indices[i + 1][0]] for i in range(len(indices) - 1)]
         # print(paragraphs[0].split(os.linesep))
-        l_res = ["\n".join([" ".join([word+"/" for word in tokenize_old_norse_words(line)])
+        l_res = ["\n".join([" ".join([word+"/" for word in old_norse_tokenizer.tokenize(line)])
                             for line in paragraph.split("\n") if len(line) > 0]) for paragraph in paragraphs]
         # print(l_res[:3])
         if not os.path.exists(os.path.join(path, "pos")):
