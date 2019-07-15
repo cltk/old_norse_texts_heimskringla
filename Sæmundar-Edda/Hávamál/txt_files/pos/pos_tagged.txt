@@ -1,43 +1,43 @@
 1/
-Gáttir/ allar/ ,/
-áðr/ gangi/ fram/ ,/
-um/ skoðask/ skyli/ ,/
-um/ skyggnast/ skyli/ ,/
-því/ at/ óvíst/ er/ at/ vita/ ,/
-hvar/ óvinir/
-sitja/ á/ fleti/ fyrir/ ./
+Gáttir/Gátt+ir allar/all+ar ,/,
+áðr/áðr gangi/gang+i fram/fram ,/,
+um/um skoðask/sko+ðask skyli/sky+li ,/,
+um/um skyggnast/skygg+nast skyli/sky+li ,/,
+því/því at/at óvíst/ó+víst er/er at/at vita/vi+ta ,/,
+hvar/hvar óvinir/ó+vi+nir
+sitja/si+tja á/á fleti/fle+ti fyrir/fy+rir ./.
 
 2/
-Gefendr/ heilir/ !/
-Gestr/ er/ inn/ kominn/ ,/
-hvar/ skal/ sitja/ sjá/ ?/
-Mjök/ er/ bráðr/ ,/
-sá/ er/ á/ bröndum/ skal/
-síns/ of/ freista/ frama/ ./
+Gefendr/Ge+fendr heilir/hei+lir !/!
+Gestr/Gestr er/er inn/inn kominn/ko+minn ,/,
+hvar/hvar skal/skal sitja/si+tja sjá/sjá ?/?
+Mjök/Mjök er/er bráðr/bráðr ,/,
+sá/sá er/er á/á bröndum/brönd+um skal/skal
+síns/síns of/of freista/frei+sta frama/fram+a ./.
 
 3/
-Elds/ er/ þörf/ ,/
-þeims/ inn/ er/ kominn/
-ok/ á/ kné/ kalinn/ ;/
-matar/ ok/ váða/
-er/ manni/ þörf/ ,/
-þeim/ er/ hefr/ um/ fjall/ farit/ ./
+Elds/Elds er/er þörf/þörf ,/,
+þeims/þeims inn/inn er/er kominn/ko+minn
+ok/ok á/á kné/kné kalinn/ka+linn ;/;
+matar/ma+tar ok/ok váða/vá+ða
+er/er manni/mann+i þörf/þörf ,/,
+þeim/þeim er/er hefr/hefr um/um fjall/fjall farit/far+it ./.
 
 4/
-Vatns/ er/ þörf/ ,/
-þeim/ er/ til/ verðar/ kemr/ ,/
-þerru/ ok/ þjóðlaðar/ ,/
-góðs/ of/ æðis/ ,/
-ef/ sér/ geta/ mætti/ ,/
-orðs/ ok/ endrþögu/ ./
+Vatns/Vatns er/er þörf/þörf ,/,
+þeim/þeim er/er til/til verðar/verð+ar kemr/kemr ,/,
+þerru/þer+ru ok/ok þjóðlaðar/þjóð+lað+ar ,/,
+góðs/góðs of/of æðis/æð+is ,/,
+ef/ef sér/sér geta/get+a mætti/mætt+i ,/,
+orðs/orðs ok/ok endrþögu/endr+þög+u ./.
 
 5/
-Vits/ er/ þörf/ ,/
-þeim/ er/ víða/ ratar/ ;/
-dælt/ er/ heima/ hvat/ ;/
-at/ augabragði/ verðr/ ,/
-sá/ er/ ekki/ kann/
-ok/ með/ snotrum/ sitr/ ./
+Vits/Vits er/er þörf/þörf ,/,
+þeim/þeim er/er víða/víð+a ratar/rat+ar ;/;
+dælt/dælt er/er heima/heima hvat/hvat ;/;
+at/at augabragði/aug+a+brag+ði verðr/verðr ,/,
+sá/sá er/er ekki/ekki kann/kann
+ok/ok með/með snotrum/sno+trum sitr/sitr ./.
 
 6/
 At/ hyggjandi/ sinni/
