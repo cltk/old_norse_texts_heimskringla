@@ -1,4 +1,5 @@
-# Classic Texts from Old Norse Litterature 
+# Classical Texts from Old Norse Litterature 
+
 ### About
 Texts retrieved from heimskringla.no for easy use with cltk!
 
