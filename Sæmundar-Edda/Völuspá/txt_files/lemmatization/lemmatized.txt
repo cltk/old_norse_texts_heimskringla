@@ -294,7 +294,7 @@ hvar/hvar þú/þú auga/auga falt/fela ,/,
 í/í inum/inn mæra/mærr
 Mímisbrunni/Mímisbrunnr ./.
 Drekkr/drekka mjöð/mjöð Mímir/Mímir
-morgun/morgun hverjan/hvern dag/dagr
+morgun/morgun hverjan/hvern
 af/af veði/veð Valföðrs/Valföðr ./.
 Vituð/vita ér/ér enn/enn -/- eða/eða hvat/hvat ?/?
 
