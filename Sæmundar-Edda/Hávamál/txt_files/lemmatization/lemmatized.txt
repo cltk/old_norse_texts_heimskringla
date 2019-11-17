@@ -1,35 +1,35 @@
 1/
-Gáttir/ allar/ ,/
-áðr/ gangi/ fram/ ,/
-um/ skoðask/ skyli/ ,/
-um/ skyggnast/ skyli/ ,/
-því/ at/ óvíst/ er/ at/ vita/ ,/
-hvar/ óvinir/
-sitja/ á/ fleti/ fyrir/ ./
+Gáttir/Gátt allar/allr ,/,
+áðr/áðr gangi/gagnr fram/fram ,/,
+um/um skoðask/ skyli/ ,/,
+um/um skyggnast/ skyli/ ,/,
+því/ at/at óvíst/ er/ at/at vita/vita ,/,
+hvar/hvar óvinir/
+sitja/sitja á/á fleti/ fyrir/fyrir ./
 
 2/
-Gefendr/ heilir/ !/
-Gestr/ er/ inn/ kominn/ ,/
-hvar/ skal/ sitja/ sjá/ ?/
-Mjök/ er/ bráðr/ ,/
-sá/ er/ á/ bröndum/ skal/
-síns/ of/ freista/ frama/ ./
+Gefendr/ heilir/ !/!
+Gestr/Gestr er/ inn/ kominn/koma ,/,
+hvar/hvar skal/skula sitja/sitja sjá/sjá ?/?
+Mjök/Mikill er/vera bráðr/bráðr ,/,
+sá/sá er/vera á/á bröndum/ skal/skal
+síns/ of/ok freista/ frama/ ./.
 
 3/
-Elds/ er/ þörf/ ,/
-þeims/ inn/ er/ kominn/
-ok/ á/ kné/ kalinn/ ;/
-matar/ ok/ váða/
-er/ manni/ þörf/ ,/
-þeim/ er/ hefr/ um/ fjall/ farit/ ./
+Elds/Eldr er/vera þörf/ ,/,
+þeims/ inn/inn er/ kominn/koma
+ok/ok á/á kné/ kalinn/kalla ;/;
+matar/ ok/ok váða/
+er/ manni/ þörf/ ,/,
+þeim/þeir er/er hefr/hafa um/um fjall/ farit/fara ./
 
 4/
-Vatns/ er/ þörf/ ,/
-þeim/ er/ til/ verðar/ kemr/ ,/
+Vatns/Vatn er/vera þörf/ ,/,
+þeim/ er/ til/ verðar/ kemr/ ,/,
 þerru/ ok/ þjóðlaðar/ ,/
-góðs/ of/ æðis/ ,/
-ef/ sér/ geta/ mætti/ ,/
-orðs/ ok/ endrþögu/ ./
+góðs/ of/ æðis/ ,/,
+ef/ sér/ geta/ mætti/ ,/,
+orðs/ ok/ok endrþögu/ ./,
 
 5/
 Vits/ er/ þörf/ ,/
