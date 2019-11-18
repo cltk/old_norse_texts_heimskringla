@@ -1,19 +1,19 @@
 1/
 Gáttir/Gátt allar/allr ,/,
-áðr/áðr gangi/gagnr fram/fram ,/,
-um/um skoðask/ skyli/ ,/,
-um/um skyggnast/ skyli/ ,/,
-því/ at/at óvíst/ er/ at/at vita/vita ,/,
-hvar/hvar óvinir/
-sitja/sitja á/á fleti/ fyrir/fyrir ./
+áðr/áðr gangi/gangr fram/fram ,/,
+um/um skoðask/skoða skyli/skulu ,/,
+um/um skyggnast/skygna skyli/skulu ,/,
+því/því at/at óvíst/óvíss er/vera at/at vita/vita ,/,
+hvar/hvar óvinir/óvinr
+sitja/sitja á/á fleti/flet fyrir/fyrir ./
 
 2/
 Gefendr/ heilir/ !/!
-Gestr/Gestr er/ inn/ kominn/koma ,/,
-hvar/hvar skal/skula sitja/sitja sjá/sjá ?/?
+Gestr/Gestr er/vera inn/inn kominn/koma ,/,
+hvar/hvar skal/skulu sitja/sitja sjá/sjá ?/?
 Mjök/Mikill er/vera bráðr/bráðr ,/,
 sá/sá er/vera á/á bröndum/ skal/skal
-síns/ of/ok freista/ frama/ ./.
+síns/ of/of freista/ frama/ ./.
 
 3/
 Elds/Eldr er/vera þörf/ ,/,
@@ -40,7 +40,7 @@ sá/ er/ ekki/ kann/
 ok/ með/ snotrum/ sitr/ ./
 
 6/
-At/ hyggjandi/ sinni/
+At/At hyggjandi/ sinni/
 skyli/ -t/ maðr/ hræsinn/ vera/ ,/
 heldr/ gætinn/ at/ geði/ ;/
 þá/ er/ horskr/ ok/ þögull/
