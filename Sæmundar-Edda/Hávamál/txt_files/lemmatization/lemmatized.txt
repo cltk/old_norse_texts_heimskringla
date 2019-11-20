@@ -24,20 +24,20 @@ er/vera manni/maðr þörf/þörf ,/,
 þeim/þeir er/er hefr/hafa um/um fjall/fjall farit/fara ./.
 
 4/
-Vatns/Vatn er/vera þörf/ ,/,
-þeim/ er/ til/ verðar/ kemr/ ,/,
-þerru/ ok/ þjóðlaðar/ ,/
-góðs/ of/ æðis/ ,/,
-ef/ sér/ geta/ mætti/ ,/,
-orðs/ ok/ok endrþögu/ ./,
+Vatns/Vatn er/vera þörf/þörf ,/,
+þeim/þeir er/ til/til verðar/verðar kemr/koma ,/,
+þerru/ ok/ok þjóðlaðar/ ,/
+góðs/góðr of/ok æðis/ ,/,
+ef/ef sér/ geta/ mætti/ ,/,
+orðs/orð ok/ok endrþögu/ ./,
 
 5/
-Vits/ er/ þörf/ ,/
-þeim/ er/ víða/ ratar/ ;/
-dælt/ er/ heima/ hvat/ ;/
-at/ augabragði/ verðr/ ,/
-sá/ er/ ekki/ kann/
-ok/ með/ snotrum/ sitr/ ./
+Vits/ er/vera þörf/þörf ,/,
+þeim/þeir er/vera víða/ ratar/ ;/;
+dælt/ er/ heima/ hvat/ ;/;
+at/at augabragði/ verðr/ ,/,
+sá/ er/vera ekki/ekki kann/
+ok/ok með/með snotrum/ sitr/ ./.
 
 6/
 At/At hyggjandi/ sinni/
@@ -809,7 +809,7 @@ geð/ hennar/ allt/ ok/ gaman/ ./
 
 1/
 100/
-Svá/ kom/ ek/ næst/ ,/
+Svá/ kom/ ek/ næst/ ,/,
 at/ in/ nýta/ var/
 vígdrótt/ öll/ of/ vakin/
 með/ brennandum/ ljósum/
